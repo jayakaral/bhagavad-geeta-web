@@ -1,0 +1,704 @@
+[
+  {
+    "verse": 1,
+    "sanskrit": "अर्जुन उवाच |\nसंन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् |\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन ||",
+    "transliteration": "arjuna uvāca\nsannyāsasya mahā-bāho tattvam icchāmi veditum\ntyāgasya ca hṛṣīkeśa pṛthak keśi-niṣūdana",
+    "translation": "Arjuna said: O mighty-armed one, O Hrishikesha, O slayer of Keshi — I wish to know the truth about renunciation (sannyasa) and abandonment (tyaga) separately.",
+    "interpretation": "Arjuna opens the final chapter with a question that is the culmination of the entire Gita: what is the difference between sannyasa (formal renunciation of all action) and tyaga (abandonment of the fruits of action while continuing to act)? This distinction is central to the Gita's teaching. The Gita does not advocate withdrawal from life but the inner freedom of offering all action to the Divine. Arjuna wants precision on this most important point, and Krishna's answer will constitute the Gita's final and fullest teaching.",
+    "chapter": 18,
+    "verseNumber": "18.1"
+  },
+  {
+    "verse": 2,
+    "sanskrit": "श्रीभगवानुवाच |\nकाम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः |\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ||",
+    "transliteration": "śrī-bhagavān uvāca\nkāmyānāṁ karmaṇāṁ nyāsaṁ sannyāsaṁ kavayo viduḥ\nsarva-karma-phala-tyāgaṁ prāhus tyāgaṁ vicakṣaṇāḥ",
+    "translation": "The Blessed Lord said: The sages understand sannyasa as the giving up of actions motivated by desire; the wise declare tyaga to be the abandonment of the fruits of all actions.",
+    "interpretation": "Krishna defines both terms with precision. Sannyasa is the renunciation of desire-driven actions (kāmya karma — actions done to fulfill personal desires). Tyaga is something subtler and more radical: the abandonment of the fruits of ALL actions — not just desire-driven ones but all actions, including obligatory duty. A sannyasi renounces certain types of action; a tyagi acts fully in the world but releases attachment to results. The Gita advocates tyaga — engaged action without fruit-attachment — as the higher and more complete path for most people.",
+    "chapter": 18,
+    "verseNumber": "18.2"
+  },
+  {
+    "verse": 3,
+    "sanskrit": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः |\nयज्ञदानतपःकर्म न त्याज्यमिति चापरे ||",
+    "transliteration": "tyājyaṁ doṣavad ity eke karma prāhur manīṣiṇaḥ\nyajña-dāna-tapaḥ-karma na tyājyam iti cāpare",
+    "translation": "Some learned men say that action should be abandoned as an evil; and others say that acts of sacrifice, charity, and austerity should not be abandoned.",
+    "interpretation": "Two schools of thought are presented: one group (often associated with Samkhya philosophy) holds that action itself is the problem — all karma creates bondage, so cease all karma. Another group holds that sacred actions — yajna, dana, tapas — should never be abandoned because they are inherently purifying. Krishna will navigate between these positions with the Gita's characteristic synthesis: not all actions should be abandoned, but the fruit of all actions should be. The Gita's middle path between extreme asceticism and undisciplined engagement.",
+    "chapter": 18,
+    "verseNumber": "18.3"
+  },
+  {
+    "verse": 4,
+    "sanskrit": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम |\nत्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ||",
+    "transliteration": "niścayaṁ śṛṇu me tatra tyāge bharata-sattama\ntyāgo hi puruṣa-vyāghra tri-vidhaḥ samprakīrtitaḥ",
+    "translation": "Hear My definitive conclusion on this matter of tyaga, O best of the Bharatas; O tiger among men, tyaga is declared to be of three kinds.",
+    "interpretation": "Krishna announces his definitive position and introduces the characteristic threefold analysis. This triple classification will structure the entire conclusion of the Gita. 'Tiger among men' (purushavyaghra) — calling Arjuna by this epithet here, at the chapter's opening, is meaningful: it reminds Arjuna of his heroic nature that is not meant for paralysis but for engaged, enlightened action. The definitive teaching (nishchayam) is about to come.",
+    "chapter": 18,
+    "verseNumber": "18.4"
+  },
+  {
+    "verse": 5,
+    "sanskrit": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् |\nयज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ||",
+    "transliteration": "yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat\nyajño dānaṁ tapaś caiva pāvanāni manīṣiṇām",
+    "translation": "Acts of sacrifice, charity, and austerity should not be abandoned; they must indeed be performed. Sacrifice, charity, and austerity are purifiers of the wise.",
+    "interpretation": "Krishna's position is clear: yajna, dana, and tapas must not be given up — they are the three great purifiers. Even for the wisest, these continue to be necessary because they purify the inner instrument, keep one connected to the larger whole, and embody the values of giving, discipline, and devotion. The Gita never advocates the kind of renunciation that withdraws from these core life-practices. What must be given up is not the practice but the fruit-attachment.",
+    "chapter": 18,
+    "verseNumber": "18.5"
+  },
+  {
+    "verse": 6,
+    "sanskrit": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च |\nकर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् ||",
+    "transliteration": "etāny api tu karmāṇi saṅgaṁ tyaktvā phalāni ca\nkartavyānīti me pārtha niścitaṁ matam uttamam",
+    "translation": "But even these actions should be performed, O Arjuna, after abandoning attachment and fruits — this is My definitive and supreme opinion.",
+    "interpretation": "Even yajna, dana, and tapas — the most sacred actions — must be performed with the abandonment of attachment and fruits. The twin surrender: no attachment to the act itself (no possessiveness about being 'the one who performs sacred acts'), and no attachment to results (no expectation of personal reward). This is Krishna's 'uttamam matam' — his supreme, most exalted teaching. The entire karma yoga of the Gita is crystallized here: do what must be done, give up attachment and fruit, and be free.",
+    "chapter": 18,
+    "verseNumber": "18.6"
+  },
+  {
+    "verse": 7,
+    "sanskrit": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते |\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः ||",
+    "transliteration": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate\nmohāt tasya parityāgas tāmasaḥ parikīrtitaḥ",
+    "translation": "Renunciation of obligatory duties is not proper; the abandonment of obligatory duty out of delusion is declared to be tamasic.",
+    "interpretation": "Sannyasa of obligatory duty (niyata karma — actions required by one's station in life) is not appropriate. To abandon one's responsibilities out of moha (delusion, confusion, weakness) — to quit the battlefield because it is difficult, as Arjuna nearly did — is tamasic abandonment. This is a crucial teaching for the Gita's context: Arjuna was about to 'renounce' his duty as a warrior not from enlightened detachment but from emotional collapse. Tamasic renunciation is escapism masquerading as spirituality.",
+    "chapter": 18,
+    "verseNumber": "18.7"
+  },
+  {
+    "verse": 8,
+    "sanskrit": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् |\nस कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ||",
+    "transliteration": "duḥkham ity eva yat karma kāya-kleśa-bhayāt tyajet\nsa kṛtvā rājasaṁ tyāgaṁ naiva tyāga-phalaṁ labhet",
+    "translation": "One who abandons action just because it is painful or from fear of bodily trouble — such a one commits rajasic abandonment and does not gain the fruit of renunciation.",
+    "interpretation": "Rajasic abandonment: quitting because the work is painful or physically demanding. The rajasic person cannot sustain effort when it becomes difficult — they switch to something more pleasurable or comfortable, rationalizing the switch as wisdom. But abandoning duty because it is hard (duhkham) or because one fears physical effort (kaya-klesha-bhaya) produces no spiritual fruit. The result of action performed through difficulty with equanimity is growth; the result of abandonment from weakness is stagnation.",
+    "chapter": 18,
+    "verseNumber": "18.8"
+  },
+  {
+    "verse": 9,
+    "sanskrit": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन |\nसङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ||",
+    "transliteration": "kāryam ity eva yat karma niyataṁ kriyate 'rjuna\nsaṅgaṁ tyaktvā phalaṁ caiva sa tyāgaḥ sāttiviko mataḥ",
+    "translation": "When obligatory action is performed simply because it must be done, having given up attachment and fruit — that abandonment is considered sattvic.",
+    "interpretation": "Sattvic tyaga: performing obligatory action with the simple conviction 'it must be done' (karyam iti eva), with both attachment and fruit-expectation abandoned. This is the fullest expression of karma yoga: no personal agenda, no ego-investment in outcome, no fear of failure or hope of reward — simply the clear-eyed performance of what duty requires. 'Karyam iti' — 'it must be done' — contains the entire teaching. Not 'I want to' or 'I'm afraid not to' but 'this is what this moment calls for, and I will meet it fully.'",
+    "chapter": 18,
+    "verseNumber": "18.9"
+  },
+  {
+    "verse": 10,
+    "sanskrit": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते |\nत्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ||",
+    "transliteration": "na dveṣṭy akuśalaṁ karma kuśale nānuṣajjate\ntyāgī sattva-samāviṣṭo medhāvī chinna-saṁśayaḥ",
+    "translation": "The true renunciant, filled with sattva, intelligent, with all doubts cut away, does not hate disagreeable action nor cling to agreeable action.",
+    "interpretation": "The portrait of the true tyagi (renunciant in the Gita's sense): one who is filled with sattva, truly intelligent (medhavi — not merely clever but deeply understanding), with doubts severed at the root, and who neither dislikes unpleasant duty nor clings to pleasant duty. The hallmark is equipoise toward the nature of the work itself. Whether the work is enjoyable or difficult, prestigious or humble — the sattvic tyagi brings the same quality of full engagement, because the motivation is not personal preference but the call of what is right.",
+    "chapter": 18,
+    "verseNumber": "18.10"
+  },
+  {
+    "verse": 11,
+    "sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः |\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||",
+    "transliteration": "na hi deha-bhṛtā śakyaṁ tyaktuṁ karmāṇy aśeṣataḥ\nyas tu karma-phala-tyāgī sa tyāgīty abhidhīyate",
+    "translation": "Indeed, it is not possible for an embodied being to abandon actions completely. But one who abandons the fruits of action — that one is called a renunciant.",
+    "interpretation": "The practical wisdom: as long as one has a body, action is unavoidable. Even breathing is action; even digestion is action. Complete cessation of all action is impossible for the embodied. Therefore the true renunciant is not one who performs no actions but one who performs all necessary actions while releasing all fruit-attachment. This democratizes liberation: one need not become a formal monk or abandon worldly life. The householder, the warrior, the merchant — all can be tyagis if they act with this inner freedom.",
+    "chapter": 18,
+    "verseNumber": "18.11"
+  },
+  {
+    "verse": 12,
+    "sanskrit": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् |\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ||",
+    "transliteration": "aniṣṭam iṣṭaṁ miśraṁ ca tri-vidhaṁ karmaṇaḥ phalam\nbhavaty atyāgināṁ pretya na tu sannyāsināṁ kvacit",
+    "translation": "Threefold is the fruit of action for the non-renunciant after death — unwanted, wanted, and mixed; but for the renunciant, there is none whatsoever.",
+    "interpretation": "For those who act with fruit-attachment, three kinds of karmic results accumulate after death: undesirable (results that manifest as suffering), desirable (results that manifest as pleasure), and mixed (complex mixtures of both). These must be worked through in subsequent births. But for the true renunciant who acts without fruit-attachment, there is no karmic accumulation whatsoever — no residue, no debt, no credit to be worked out. Action without attachment produces no binding karma. This is the liberating paradox: full engagement without any trace left behind.",
+    "chapter": 18,
+    "verseNumber": "18.12"
+  },
+  {
+    "verse": 13,
+    "sanskrit": "पञ्चैतानि महाबाहो कारणानि निबोध मे |\nसाङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ||",
+    "transliteration": "pañcaitāni mahā-bāho kāraṇāni nibodha me\nsāṅkhye kṛtānte proktāni siddhaye sarva-karmaṇām",
+    "translation": "Learn from Me, O mighty-armed, the five causes for the accomplishment of all actions as stated in Samkhya philosophy.",
+    "interpretation": "Krishna now draws from Samkhya philosophy to explain the metaphysics of action. Five causes operate in every action — this analysis is important for dissolving the ego-illusion of 'I am the doer.' Understanding these five causes is both intellectually liberating (it dissolves false ownership of action) and spiritually essential (it lays the ground for genuine non-doership). The Samkhya analysis of causation is here pressed into the service of karma yoga.",
+    "chapter": 18,
+    "verseNumber": "18.13"
+  },
+  {
+    "verse": 14,
+    "sanskrit": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् |\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ||",
+    "transliteration": "adhiṣṭhānaṁ tathā kartā karaṇaṁ ca pṛthag-vidham\nvividhāś ca pṛthak ceṣṭā daivaṁ caivātra pañcamam",
+    "translation": "The seat of action (body), the agent, the various instruments, the many kinds of efforts, and the Divine — these are the five factors.",
+    "interpretation": "The five causes of all action: (1) Adhisthana — the body/seat, the physical instrument through which action occurs; (2) Karta — the individual ego-agent who initiates; (3) Karana — the various instruments (senses, limbs, mind); (4) Cheshta — the multiple kinds of effort and vital force; and (5) Daiva — the Divine, destiny, grace, the mysterious 'X factor' that determines whether an action succeeds. No single factor alone produces any result. The ego-agent is only one of five necessary contributors — recognizing this dissolves the conceit of sole doership.",
+    "chapter": 18,
+    "verseNumber": "18.14"
+  },
+  {
+    "verse": 15,
+    "sanskrit": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः |\nन्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ||",
+    "transliteration": "śarīra-vāṅ-manobhir yat karma prārabhate naraḥ\nnyāyyaṁ vā viparītaṁ vā pañcaite tasya hetavaḥ",
+    "translation": "Whatever action a person performs with the body, speech, or mind — whether right or wrong — these five are its causes.",
+    "interpretation": "The five causes apply universally: to every action of body, speech, or mind — whether the action is right (nyayyam — proper, righteous) or wrong (viparitam — contrary, unrighteous). Even mistaken or harmful actions arise from the interplay of these five factors. This removes both arrogance about virtuous acts ('I alone did this good') and excessive self-blame about errors ('I alone caused this harm'). Understanding the five causes brings equanimity toward both success and failure, both virtue and error.",
+    "chapter": 18,
+    "verseNumber": "18.15"
+  },
+  {
+    "verse": 16,
+    "sanskrit": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः |\nपश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ||",
+    "transliteration": "tatraivam sati kartāram ātmānaṁ kevalaṁ tu yaḥ\npaśyaty akṛta-buddhitvān na sa paśyati dur-matiḥ",
+    "translation": "Given this, one who sees the pure Self as the sole agent — that one, with unrefined understanding, sees not truly; that is a person of wrong vision.",
+    "interpretation": "Despite the five-cause analysis, some still insist on seeing the pure Self (atman) as the sole doer of actions. This is wrong understanding (akrita-buddhitva — undeveloped, immature intelligence). The pure Self is not a doer — it is the witness, the consciousness in which all action occurs. When the ego confuses itself with the Self and says 'I (as pure consciousness) am doing this,' it has made a fundamental category error. The Self does not act; nature (through its five causes) acts within the field of the Self's awareness.",
+    "chapter": 18,
+    "verseNumber": "18.16"
+  },
+  {
+    "verse": 17,
+    "sanskrit": "यस्य नाहङ्कृतो भावो बुद्धिर्यस्य न लिप्यते |\nहत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते ||",
+    "transliteration": "yasya nāhaṅkṛto bhāvo buddhir yasya na lipyate\nhatvāpi sa imāṁl lokān na hanti na nibadhyate",
+    "translation": "One who has no ego-sense of doership and whose intellect is not tainted — even if that one slays all these worlds, slays not and is not bound.",
+    "interpretation": "One of the Gita's most radical verses: one without ego-identification as doer, whose intelligence is not contaminated by ownership of action — even if such a one slays an entire world, they do not truly slay, and they incur no binding karma. This is not a license for violence but the deepest philosophical statement about doership and karma: karma attaches not to the action but to the ego-ownership of action. The surgeon cutting into a body 'hurts' but incurs no karmic harm because the action is motivated by healing, not by personal ego. The wise warrior fulfilling dharma with detachment does not create binding karma.",
+    "chapter": 18,
+    "verseNumber": "18.17"
+  },
+  {
+    "verse": 18,
+    "sanskrit": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना |\nकरणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ||",
+    "transliteration": "jñānaṁ jñeyaṁ parijñātā tri-vidhā karma-codanā\nkaraṇaṁ karma karteti tri-vidhaḥ karma-saṁgrahaḥ",
+    "translation": "Knowledge, the object of knowledge, and the knower — these three are the triple impulse to action; the instrument, the action, and the agent — these three constitute the basis of action.",
+    "interpretation": "Action requires a triple foundation on the epistemological level (knowledge, object known, knower) and a triple basis on the practical level (instrument/karana, action itself/karma, agent/karta). This is pure Samkhya analysis applied to karma — showing that action is always a complex event involving multiple interdependent factors. No single element produces action alone; all three on both levels must be present. This analysis further dissolves the illusion of the simple, standalone ego-agent producing results by itself.",
+    "chapter": 18,
+    "verseNumber": "18.18"
+  },
+  {
+    "verse": 19,
+    "sanskrit": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः |\nप्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि ||",
+    "transliteration": "jñānaṁ karma ca kartā ca tridhaiva guṇa-bhedataḥ\nproc yate guṇa-saṅkhyāne yathāvac chṛṇu tāny api",
+    "translation": "Knowledge, action, and the agent are declared in the Samkhya doctrine to be threefold according to the distinction of the gunas. Hear these distinctions duly.",
+    "interpretation": "The triple guna-analysis now extends to knowledge, action, and the agent — the three fundamental constituents of any karma. Each of these three is itself threefold (sattvic, rajasic, tamasic). This systematic elaboration reveals that the quality of the entire karmic act — what we know, what we do, who we take ourselves to be in doing it — is colored by the dominant guna. To transform action, one must transform all three: knowledge must become sattvic, action must become sattvic, and the agent's self-understanding must become sattvic.",
+    "chapter": 18,
+    "verseNumber": "18.19"
+  },
+  {
+    "verse": 20,
+    "sanskrit": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते |\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ||",
+    "transliteration": "sarva-bhūteṣu yenaikaṁ bhāvam avyayam īkṣate\navibhaktaṁ vibhakteṣu taj jñānaṁ viddhi sāttvikaṁ",
+    "translation": "Know that knowledge to be sattvic by which one sees the one imperishable Being in all beings — undivided in the divided.",
+    "interpretation": "Sattvic knowledge: the vision of unity in diversity — perceiving the one imperishable Being (avyaya bhava — the unchanging, eternal essence) within all beings, undivided even in what appears divided. This is the non-dual vision — not a philosophical theory but a direct perceptual shift: seeing the same Self in all forms, the same light behind all eyes, the same consciousness inhabiting every body. This is both the fruit of advanced meditation and the foundation of genuine compassion: when you see yourself in others, harm to them becomes inconceivable.",
+    "chapter": 18,
+    "verseNumber": "18.20"
+  },
+  {
+    "verse": 21,
+    "sanskrit": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् |\nवेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ||",
+    "transliteration": "pṛthaktvena tu yaj jñānaṁ nānā-bhāvān pṛthag-vidhān\nvetti sarveṣu bhūteṣu taj jñānaṁ viddhi rājasam",
+    "translation": "But that knowledge which sees in all beings various entities of distinct kinds as different from one another — know that to be rajasic.",
+    "interpretation": "Rajasic knowledge: perception of ultimate separateness — seeing all beings as fundamentally distinct, categorizing the world into 'mine' and 'other,' 'us' and 'them,' friend and enemy, higher and lower. This is not wrong in the relative sense (distinctions exist), but it is wrong as an ultimate understanding. Rajasic knowledge takes the diversity of forms to be ultimate reality and misses the unity beneath. It produces the competitive, acquisitive, separative consciousness that drives most worldly life — not evil but limited, not false but incomplete.",
+    "chapter": 18,
+    "verseNumber": "18.21"
+  },
+  {
+    "verse": 22,
+    "sanskrit": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् |\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||",
+    "transliteration": "yat tu kṛtsnavad ekasmin kārye saktam ahaitukam\natattvārthavad alpaṁ ca tat tāmasam udāhṛtam",
+    "translation": "But that which is attached to one single effect as if it were everything, without rational basis, and without grasp of the truth — that is declared tamasic.",
+    "interpretation": "Tamasic knowledge: fixation on one limited thing as if it were the whole, without any rational grounding, and without access to reality. This is knowledge that is 'narrow, irrational, and unreal' — dogmatic attachment to a partial view that mistakes itself for the whole truth. The tamasic knower cannot see beyond their fixed idea, their prejudice, their superstition, their ideology. They hold their limited knowledge with absolute conviction. This is the most dangerous kind of ignorance: certain of being right, but completely wrong.",
+    "chapter": 18,
+    "verseNumber": "18.22"
+  },
+  {
+    "verse": 23,
+    "sanskrit": "नियतं सङ्गरहितमरागद्वेषतः कृतम् |\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ||",
+    "transliteration": "niyataṁ saṅga-rahitam arāga-dveṣataḥ kṛtam\naphala-prepsunā karma yat tat sāttvikaṁ ucyate",
+    "translation": "Action that is ordained, performed without attachment, without love or hatred, by one who seeks no fruit — that is declared sattvic.",
+    "interpretation": "Sattvic action: niyatam (ordained, flowing from duty), performed without attachment to the act or its outcome, without love or hatred for the people involved, by one who does not desire the fruit. This is the complete profile of karma yoga action: obligatory, detached, even-minded, desireless. Every quality addresses a different potential contamination: attachment (possessiveness), love/hatred (partiality in how we relate to others in the action), and fruit-desire (expectation of reward). Sattvic action is simultaneously the most natural and the hardest to maintain consistently.",
+    "chapter": 18,
+    "verseNumber": "18.23"
+  },
+  {
+    "verse": 24,
+    "sanskrit": "यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः |\nक्रियते बहुलायासं तद्राजसमुदाहृतम् ||",
+    "transliteration": "yat tu kāmepsunā karma sāhaṅkāreṇa vā punaḥ\nkriyate bahulāyāsaṁ tad rājasam udāhṛtam",
+    "translation": "Action performed by one who craves desires, or with egotism, or with great effort — that is declared rajasic.",
+    "interpretation": "Rajasic action: driven by desire (kamepsuna — motivated by craving), performed with egotism (sahankara — with the sense 'I am the doer, I will get the result'), and requiring great effort (bahulaayasa — laborious, strained). The effort aspect is revealing: sattvic action flows naturally; rajasic action strains. When we force results, grasping at outcomes, our effort is rajasic regardless of how impressive it appears. The exhausted executive, the compulsive achiever, the person who can never stop — these are portraits of rajasic action, full of effort and ego, producing results but not peace.",
+    "chapter": 18,
+    "verseNumber": "18.24"
+  },
+  {
+    "verse": 25,
+    "sanskrit": "अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् |\nमोहादारभ्यते कर्म यत्तत्तामसमुच्यते ||",
+    "transliteration": "anubandhaṁ kṣayaṁ hiṁsām anapekṣya ca pauruṣam\nmohād ārabhyate karma yat tat tāmasam ucyate",
+    "translation": "Action undertaken out of delusion, without consideration of consequences, loss, or harm, and without regard for human capacity — that is declared tamasic.",
+    "interpretation": "Tamasic action: begun out of pure delusion (moha) without any consideration of consequences (anubandham — consequences, implications), without regard for the loss it might cause (kshayam — destruction, waste), without caring about the harm it might inflict on others (himsa), and without realistic assessment of capacity (paurusham — without considering whether one actually has the ability to accomplish it). Tamasic action is reckless, thoughtless, harmful, and deluded. It is action without wisdom, effort without understanding — and it always produces suffering.",
+    "chapter": 18,
+    "verseNumber": "18.25"
+  },
+  {
+    "verse": 26,
+    "sanskrit": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः |\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ||",
+    "transliteration": "mukta-saṅgo 'nahaṁ-vādī dhṛty-utsāha-samanvitaḥ\nsiddhy-asiddhyor nirvikāraḥ kartā sāttvikaḥ ucyate",
+    "translation": "An agent who is free from attachment, free from ego-talk, endowed with fortitude and enthusiasm, and who is unaffected by success and failure — that one is called sattvic.",
+    "interpretation": "The sattvic agent: liberated from attachment (mukta-sanga), not claiming doership in speech and thought (anaham-vadi — not saying 'I did this, I am the one'), equipped with steadfast resolve (dhriti) and genuine enthusiasm (utsaha — eagerness that is not anxiety), and unmoved by success or failure. This combination is remarkable: steadiness without apathy (utsaha ensures engaged enthusiasm), and enthusiasm without ego (anaham-vadi ensures the enthusiasm serves the work, not the worker's reputation). Success and failure are received with equal equanimity because neither disturbs the inner identification with the Self.",
+    "chapter": 18,
+    "verseNumber": "18.26"
+  },
+  {
+    "verse": 27,
+    "sanskrit": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः |\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ||",
+    "transliteration": "rāgī karma-phala-prepsur lubdho hiṁsātmako 'śuciḥ\nharṣa-śokānvitaḥ kartā rājasaḥ parikīrtitaḥ",
+    "translation": "The rajasic agent is passionate, desirous of the fruits of action, greedy, violent, impure, and subject to joy and sorrow.",
+    "interpretation": "The rajasic agent: passionate (ragi — driven by strong personal desires), craving the fruits of action, greedy (lubdha — acquisitive beyond measure), violent in nature (himsatmaka — willing to harm to get what they want), impure (ashuchi — not just ritually impure but morally compromised), and perpetually oscillating between elation at success (harsha) and grief at failure (shoka). This emotional volatility — the rollercoaster of joy and sorrow — is one of the most recognizable symptoms of rajasic agency. The rajasic person's wellbeing depends entirely on how their projects are going.",
+    "chapter": 18,
+    "verseNumber": "18.27"
+  },
+  {
+    "verse": 28,
+    "sanskrit": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः |\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते ||",
+    "transliteration": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko 'lasaḥ\nviṣādī dīrgha-sūtrī ca kartā tāmasa ucyate",
+    "translation": "The tamasic agent is undisciplined, crude, stubborn, deceitful, malicious, lazy, despondent, and a procrastinator.",
+    "interpretation": "The tamasic agent: ayukta (undisciplined, not integrated), prakrita (crude, vulgar, operating at the lowest common denominator), stabdha (stubborn, rigid, unable to learn or adapt), shatho (deceitful, untrustworthy), naishkritika (malicious, taking pleasure in harming others), alasa (lazy, unable to sustain effort), vishadi (depressed, despondent, lacking hope), and dirgha-sutri (a procrastinator who stretches everything out and never completes). This comprehensive portrait describes a consciousness so heavy with tamas that effective engagement with life becomes nearly impossible.",
+    "chapter": 18,
+    "verseNumber": "18.28"
+  },
+  {
+    "verse": 29,
+    "sanskrit": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु |\nप्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ||",
+    "transliteration": "buddher bhedaṁ dhṛteś caiva guṇatas tri-vidhaṁ śṛṇu\nproc yamānam aśeṣeṇa pṛthaktvena dhanañjaya",
+    "translation": "Now hear, O Arjuna, the threefold distinction of intellect and of steadfastness according to the gunas, set forth fully and separately.",
+    "interpretation": "The guna analysis extends to two more inner faculties: buddhi (intellect/discriminative intelligence) and dhriti (steadfastness/will). These inner faculties are as subject to guna-influence as external actions. The quality of our discrimination and the quality of our resolve are not fixed — they reflect and are shaped by the dominant guna in our consciousness. Understanding this empowers intentional cultivation: we can choose practices that refine the intellect and strengthen the will in a sattvic direction.",
+    "chapter": 18,
+    "verseNumber": "18.29"
+  },
+  {
+    "verse": 30,
+    "sanskrit": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये |\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ||",
+    "transliteration": "pravṛttiṁ ca nivṛttiṁ ca kāryākārye bhayābhaye\nbandhaṁ mokṣaṁ ca yā vetti buddhiḥ sā pārtha sāttvikī",
+    "translation": "That intellect which knows the paths of engagement and withdrawal, what ought to be done and what ought not to be done, what is to be feared and what is not to be feared, what binds and what liberates — that intellect is sattvic.",
+    "interpretation": "Sattvic intellect: the discriminative intelligence that correctly discerns all the critical opposites: when to engage and when to withdraw, what is proper and what is improper, what is genuinely dangerous and what is not, what leads to bondage and what leads to liberation. This is practical wisdom — not merely intellectual knowledge but lived discernment that guides right action in real situations. The sattvic intellect is the inner compass that, once developed, never fails: it always knows the difference between what seems good and what is truly good.",
+    "chapter": 18,
+    "verseNumber": "18.30"
+  },
+  {
+    "verse": 31,
+    "sanskrit": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च |\nअयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||",
+    "transliteration": "yayā dharmam adharmaṁ ca kāryaṁ cākāryam eva ca\nayathāvat prajānāti buddhiḥ sā pārtha rājasī",
+    "translation": "That intellect which wrongly understands dharma and adharma, what ought to be done and what ought not to be done — O Arjuna, that intellect is rajasic.",
+    "interpretation": "Rajasic intellect: one that comprehends dharma and adharma, proper and improper action, but imperfectly — ayathavat (not as they really are, distortedly). The rajasic intellect is not completely wrong but its discrimination is corrupted by desire and self-interest. It justifies what benefits the self as 'dharmic,' it finds reasons why exceptions should be made in its own case, it mistakes partial truth for the whole. This is the intellect of sophisticated rationalization — intelligent enough to construct arguments but compromised enough to argue for what ego wants.",
+    "chapter": 18,
+    "verseNumber": "18.31"
+  },
+  {
+    "verse": 32,
+    "sanskrit": "अधर्मं धर्ममिति या मन्यते तमसावृता |\nसर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ||",
+    "transliteration": "adharmaṁ dharmam iti yā manyate tamasāvṛtā\nsarvārthān viparītāṁś ca buddhiḥ sā pārtha tāmasī",
+    "translation": "That intellect enveloped in darkness which regards adharma as dharma and sees all things perverted — O Arjuna, that is tamasic intellect.",
+    "interpretation": "Tamasic intellect: completely enveloped in darkness (tamasaavrita — shrouded, suffocated by tamas), this intellect calls adharma 'dharma' — it inverts all values. What is right appears wrong; what is wrong appears right; all things are seen in reverse (sarva-arthan viparitam). This is not mere error but systematic inversion of values — the state where someone is not confused about the good but actively believes that harm is good and good is harmful. History's most destructive ideologies have been sustained by this tamasic intellect.",
+    "chapter": 18,
+    "verseNumber": "18.32"
+  },
+  {
+    "verse": 33,
+    "sanskrit": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः |\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ||",
+    "transliteration": "dhṛtyā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī",
+    "translation": "The steadfastness by which, through yoga, one holds steady the functions of the mind, the vital force, and the senses — that steadfastness, O Arjuna, is sattvic.",
+    "interpretation": "Sattvic dhriti (steadfastness): the sustained, unswerving resolve (avyabhicharini — never deviating) maintained through yoga that holds mind, prana (life force), and senses in their proper discipline. This is not the grim, white-knuckled willpower of mere determination but the natural steady flow of a consciousness aligned with its own deepest truth. The word yoga here suggests that this steadfastness is not achieved by force but by the natural integration that comes through spiritual practice. It is the effortless constancy of one who knows where they are going.",
+    "chapter": 18,
+    "verseNumber": "18.33"
+  },
+  {
+    "verse": 34,
+    "sanskrit": "यया तु धर्मकामार्थान् धृत्या धारयतेऽर्जुन |\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ||",
+    "transliteration": "yayā tu dharma-kāmārthān dhṛtyā dhārayate 'rjuna\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī",
+    "translation": "But the steadfastness by which one holds fast, through attachment, to dharma, pleasure, and wealth, desiring their fruit — that steadfastness, O Arjuna, is rajasic.",
+    "interpretation": "Rajasic dhriti: the will that holds to dharma (virtue), artha (wealth), and kama (pleasure) — not wrongly in themselves — but through attachment (prasangena) and with desire for their fruits (phalakankshi). The rajasic person is indeed steadfast — they work hard, they maintain commitments — but the motivation is ego-driven. They pursue virtue for reputation, wealth for security, pleasure for gratification. This conditional steadfastness serves the ego rather than the Self. It collapses when the expected rewards don't materialize.",
+    "chapter": 18,
+    "verseNumber": "18.34"
+  },
+  {
+    "verse": 35,
+    "sanskrit": "यया स्वप्नं भयं शोकं विषादं मदमेव च |\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ||",
+    "transliteration": "yayā svapnaṁ bhayaṁ śokaṁ viṣādaṁ madam eva ca\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī",
+    "translation": "That steadfastness by which a dull-witted person does not abandon sleep, fear, grief, despondency, and pride — O Arjuna, that steadfastness is tamasic.",
+    "interpretation": "Tamasic dhriti: the stubborn persistence with which the dull-witted (durmedha — of poor intelligence) hold onto their negative states — sleep (excessive, avoidance sleep), fear (refusing to face what frightens), grief (clinging to sorrow), despondency (depression as a habit), and arrogance (pride that refuses to learn). This is the 'stubbornness of the dark' — not genuine resolve but the inertia of tamas that cannot let go, cannot move, cannot grow. The tamasic person's 'commitment' is to their own limitation.",
+    "chapter": 18,
+    "verseNumber": "18.35"
+  },
+  {
+    "verse": 36,
+    "sanskrit": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ |\nअभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ||",
+    "transliteration": "sukhaṁ tv idānīṁ tri-vidhaṁ śṛṇu me bharatarṣabha\nabhyāsād ramate yatra duḥkhāntaṁ ca nigacchati",
+    "translation": "Now hear from Me, O best of the Bharatas, the threefold distinction of happiness — that happiness in which one rejoices through practice and by which one comes to the end of suffering.",
+    "interpretation": "The final threefold analysis: happiness (sukha) itself, which is the ultimate end that all beings seek. The Gita's approach to happiness is sophisticated: not all happiness is equal, and not all paths to happiness lead to the end of suffering. The key phrase: 'by which one comes to the end of suffering' (duhkhantam ca nigacchati). True happiness ends suffering rather than merely postponing it. This distinguishes genuine happiness from pleasure — pleasure often creates future suffering; genuine sattvic happiness dissolves suffering at the root.",
+    "chapter": 18,
+    "verseNumber": "18.36"
+  },
+  {
+    "verse": 37,
+    "sanskrit": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् |\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ||",
+    "transliteration": "yat tad agre viṣam iva pariṇāme 'mṛtopamam\ntat sukhaṁ sāttvikaṁ proktam ātma-buddhi-prasāda-jam",
+    "translation": "That which is like poison at first but like nectar at the end — that happiness is called sattvic, born of the serenity of the Self-knowing intellect.",
+    "interpretation": "Sattvic happiness is initially like poison and ultimately like nectar — the reversal of sensory pleasure. Meditation is difficult at first; self-discipline requires painful effort; honest self-examination is uncomfortable; genuine love sometimes demands sacrifice. But the fruits of these sattvic practices are increasingly deep joy, lasting peace, and the dissolution of suffering. This happiness is 'born of the serenity of the intellect that knows the Self' — it arises from within, independent of external circumstances, and it grows with practice rather than diminishing.",
+    "chapter": 18,
+    "verseNumber": "18.37"
+  },
+  {
+    "verse": 38,
+    "sanskrit": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् |\nपरिणामे विषमिव तत्सुखं राजसं स्मृतम् ||",
+    "transliteration": "viṣayendriya-saṁyogād yat tad agre 'mṛtopamam\npariṇāme viṣam iva tat sukhaṁ rājasaṁ smṛtam",
+    "translation": "That happiness which arises from the contact of the senses with their objects — like nectar at first but like poison at the end — that is declared to be rajasic.",
+    "interpretation": "Rajasic happiness is the precise inverse: like nectar at first, like poison in the end. The pleasure of sensory gratification is real and immediately satisfying — the intoxication of desire-fulfillment, the excitement of acquisition, the rush of sensory pleasure. But its aftermath: the hangover, the craving for more, the growing tolerance that requires ever-stronger stimulation, the emptiness when the pleasure fades, the suffering created for others and eventually for oneself. Every addiction follows this pattern: nectar to poison. This is not an argument against pleasure but an invitation to honest accounting of what our pleasures ultimately cost.",
+    "chapter": 18,
+    "verseNumber": "18.38"
+  },
+  {
+    "verse": 39,
+    "sanskrit": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः |\nनिद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ||",
+    "transliteration": "yad agre cānubandhe ca sukhaṁ mohanam ātmanaḥ\nnidrālasya-pramādotthaṁ tat tāmasam udāhṛtam",
+    "translation": "That happiness which deludes the Self from beginning to end, arising from sleep, sloth, and negligence — that is declared to be tamasic.",
+    "interpretation": "Tamasic happiness: the 'pleasure' that deludes from start to finish — neither the initial nectar of rajasic pleasure nor the ultimate nectar of sattvic joy. Tamasic happiness is the numbing comfort of excessive sleep, the relief of not having to try (laziness), and the bliss of inattention (pramada — negligence, intoxication, being lost in a fog). Scrolling mindlessly, numbing with substances, avoiding all challenge and responsibility — these are tamasic pleasures. They don't feel good so much as they provide relief from feeling. They solve nothing and only deepen the darkness.",
+    "chapter": 18,
+    "verseNumber": "18.39"
+  },
+  {
+    "verse": 40,
+    "sanskrit": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः |\nसत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||",
+    "transliteration": "na tad asti pṛthivyāṁ vā divi deveṣu vā punaḥ\nsattvaṁ prakṛti-jair muktaṁ yad ebhiḥ syāt tribhir guṇaiḥ",
+    "translation": "There is no being on earth, or among the gods in heaven, that is free from these three gunas born of Prakriti.",
+    "interpretation": "The universality of the gunas: not humans alone, not just embodied beings, not even the gods of heaven are free from the three gunas. The entire spectrum of existence — from earth to the highest celestial realms — is woven from these three threads of nature. This universality is both humbling (even the gods are under the sway of gunas) and pointing toward something beyond: the only thing free from the gunas is the Purushottama, the Supreme Person, who transcends Prakriti entirely. Liberation means joining that transcendence.",
+    "chapter": 18,
+    "verseNumber": "18.40"
+  },
+  {
+    "verse": 41,
+    "sanskrit": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप |\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ||",
+    "transliteration": "brāhmaṇa-kṣatriya-viśāṁ śūdrāṇāṁ ca parantapa\nkarmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ",
+    "translation": "The duties of Brahmanas, Kshatriyas, Vaishyas, and Shudras are distributed according to the gunas arising from their own nature.",
+    "interpretation": "Krishna now applies the guna framework to social roles. The four varnas — Brahmana (teachers/priests), Kshatriya (warriors/administrators), Vaishya (merchants/agriculturalists), and Shudra (artisans/service-providers) — are not fixed by birth but by one's svabhava (intrinsic nature) which is itself shaped by guna-combination. This is the Gita's implicit critique of caste by birth: what matters is the quality of consciousness (gunas) and resulting natural aptitude, not hereditary accident. The varna system, properly understood, is a map of social functions arising from natural human diversity.",
+    "chapter": 18,
+    "verseNumber": "18.41"
+  },
+  {
+    "verse": 42,
+    "sanskrit": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च |\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ||",
+    "transliteration": "śamo damas tapaḥ śaucaṁ kṣāntir ārjavam eva ca\njñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva-jam",
+    "translation": "Serenity, self-restraint, austerity, purity, forgiveness, uprightness, knowledge, wisdom, and belief in a supreme principle — these are the natural duties of a Brahmana.",
+    "interpretation": "The Brahmana's natural function: serenity (shama — mind-stillness), sense-restraint (dama), austerity (tapas), purity, forgiveness (kshanti — the ability to absorb offense without resentment), uprightness (arjava), scriptural knowledge (jnana — the theoretical), experiential wisdom (vijnana — the lived understanding), and astikya (faith in the Absolute). These qualities naturally arise in consciousness dominated by sattva and oriented toward the transcendent. The Brahmana function — the teaching and priestly function — serves the whole of society by maintaining the connection to the sacred.",
+    "chapter": 18,
+    "verseNumber": "18.42"
+  },
+  {
+    "verse": 43,
+    "sanskrit": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् |\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ||",
+    "transliteration": "śauryaṁ tejo dhṛtir dākṣyaṁ yuddhe cāpy apalāyanam\ndānam īśvara-bhāvaś ca kṣātraṁ karma svabhāva-jam",
+    "translation": "Valor, splendor, steadfastness, skill, not fleeing in battle, generosity, and lordliness in governance — these are the natural duties of a Kshatriya.",
+    "interpretation": "The Kshatriya's natural function: valor (shaurya — courageous action in the face of danger), splendor (tejas — the natural authority of one who commands), steadfastness (dhriti), skill (dakshya — tactical competence), not fleeing in battle (the crucial warrior quality — standing firm), generosity (dana — the magnanimity of the powerful toward those in need), and the capacity for governance (ishvara-bhava — the ability to lead and protect). These qualities arise from the rajas-dominant consciousness tempered by sattva — the fire of action directed by wisdom and honor.",
+    "chapter": 18,
+    "verseNumber": "18.43"
+  },
+  {
+    "verse": 44,
+    "sanskrit": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् |\nपरिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ||",
+    "transliteration": "kṛṣi-gaurakṣya-vāṇijyaṁ vaiśya-karma svabhāva-jam\nparicaryātmakaṁ karma śūdrasyāpi svabhāva-jam",
+    "translation": "Agriculture, cattle-rearing, and trade are the natural duties of a Vaishya; and service is the natural duty of a Shudra.",
+    "interpretation": "The Vaishya's function — agriculture (the cultivation of the earth), cattle-rearing (care of animals and their products), and trade (the exchange of goods that sustains economic life) — and the Shudra's function — service (paricharyatmakam karma — action oriented toward serving others' needs). Each function is honorable and necessary; none is inherently superior. The entire social organism requires all four functions in healthy proportion. The 'svabhava-jam' — 'arising from one's own nature' — is the key: these are not imposed roles but natural expressions of different human gifts.",
+    "chapter": 18,
+    "verseNumber": "18.44"
+  },
+  {
+    "verse": 45,
+    "sanskrit": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः |\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ||",
+    "transliteration": "sve sve karmaṇy abhirataḥ saṁsiddhiṁ labhate naraḥ\nsva-karma-nirataḥ siddhiṁ yathā vindati tac chṛṇu",
+    "translation": "Each person, devoted to their own duty, attains perfection. Hear how one finds perfection by being devoted to one's own work.",
+    "interpretation": "A revolutionary teaching: perfection (siddhi, samsiddhi) is available through any genuine work, any authentic vocation. One does not need to change their job or station to find spiritual fulfillment — one needs to bring the quality of devotion, presence, and selfless service to whatever work is one's own. The farmer who plows with love, the trader who does business with integrity, the teacher who teaches with wisdom, the servant who serves with dignity — all are on the path to perfection. 'Svakarmaniratah' — 'devoted to one's own work' — this is the key.",
+    "chapter": 18,
+    "verseNumber": "18.45"
+  },
+  {
+    "verse": 46,
+    "sanskrit": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् |\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ||",
+    "transliteration": "yataḥ pravṛttir bhūtānāṁ yena sarvam idaṁ tatam\nsva-karmaṇā tam abhyarcya siddhiṁ vindati mānavaḥ",
+    "translation": "From whom all beings have their source and by whom all this is pervaded — by worshipping Him through one's own work, one attains perfection.",
+    "interpretation": "The theological heart of karma yoga: work becomes worship when offered to the Source of all. The One from whom all beings arise, who pervades the entire universe — this is the God to whom every action, however ordinary, can be offered. A mother cooking is worshipping; a farmer planting is worshipping; a craftsperson crafting is worshipping — if the inner orientation is devotion and surrender. 'Sva-karmana tam abhyarcya' — 'worshipping Him through one's own work' — transforms the entire ordinary life into a continuous sacred offering.",
+    "chapter": 18,
+    "verseNumber": "18.46"
+  },
+  {
+    "verse": 47,
+    "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् |\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ||",
+    "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt\nsvabhāva-niyataṁ karma kurvan nāpnoti kilbiṣam",
+    "translation": "Better is one's own dharma, though imperfectly performed, than the dharma of another well performed. One who does the duty prescribed by one's own nature incurs no sin.",
+    "interpretation": "The famous teaching on svadharma: one's own authentic path, imperfectly walked, is superior to another's path perfectly imitated. This is not a teaching of mediocrity but of authenticity. The soul grows through its own genuine encounter with its own truth, even when stumbling. Imitation of another's dharma — however impressive it appears — is spiritual bypassing of one's own journey. And crucially: 'one who performs the duty ordained by one's own nature incurs no sin' — genuine, authentic action in alignment with one's true nature is self-justifying.",
+    "chapter": 18,
+    "verseNumber": "18.47"
+  },
+  {
+    "verse": 48,
+    "sanskrit": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् |\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ||",
+    "transliteration": "saha-jaṁ karma kaunteya sa-doṣam api na tyajet\nsarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ",
+    "translation": "One should not abandon the duty born with oneself, O Arjuna, even if it is faulty; for all undertakings are covered by defects as fire is by smoke.",
+    "interpretation": "Even one's inborn duty (sahajam karma — the work one is born to do) should not be abandoned even if it has defects. The simile is perfect: all fire produces smoke; you cannot have the warmth and light of fire without some smoke. All action in the world carries some imperfection — some collateral cost, some limitation, some error. The answer is not to cease action but to act with wisdom, improving continuously while accepting that imperfection is inherent to manifest existence. Pursuing perfection endlessly before acting often means never acting at all.",
+    "chapter": 18,
+    "verseNumber": "18.48"
+  },
+  {
+    "verse": 49,
+    "sanskrit": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः |\nनैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ||",
+    "transliteration": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛhaḥ\naiṣkarmya-siddhiṁ paramāṁ sannyāsenādhigacchati",
+    "translation": "One whose intellect is unattached everywhere, who has conquered the self, from whom desires have departed — through renunciation, one attains the supreme state of freedom from action.",
+    "interpretation": "The supreme state of naishkarmya-siddhi — freedom from the binding consequences of action — comes to one whose intellect is unattached in all circumstances, who has mastered the lower self, and from whom all craving has departed. This is sannyasa in the Gita's sense: not the physical renunciation of robes and forests but the inner renunciation of attachment, ego-ownership, and desire. This inner freedom is available to anyone anywhere — the free person walking through the world is the greatest renunciant.",
+    "chapter": 18,
+    "verseNumber": "18.49"
+  },
+  {
+    "verse": 50,
+    "sanskrit": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे |\nसमासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ||",
+    "transliteration": "siddhiṁ prāpto yathā brahma tathāpnoti nibodha me\nsamāsenaiva kaunteya niṣṭhā jñānasya yā parā",
+    "translation": "Learn from Me briefly, O Arjuna, how one who has attained perfection reaches Brahman — that which is the supreme culmination of knowledge.",
+    "interpretation": "Having described the perfection that can be attained through one's own svadharma, Krishna now promises to describe concisely how the perfected one attains Brahman itself — the supreme, the Absolute. This is the final ascent: from proper action (svadharma performed with devotion) to inner perfection (naishkarmya-siddhi) to Brahman-realization. The Gita's complete path is revealed: action → purification → inner freedom → Brahman-knowledge → liberation.",
+    "chapter": 18,
+    "verseNumber": "18.50"
+  },
+  {
+    "verse": 51,
+    "sanskrit": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च |\nशब्दादीन् विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ||",
+    "transliteration": "buddhyā viśuddhayā yukto dhṛtyātmānaṁ niyamya ca\nśabdādīn viṣayāṁs tyaktvā rāga-dveṣau vyudasya ca",
+    "translation": "Endowed with purified intellect, controlling the self by will, abandoning sound and other sense objects, laying aside love and hatred —",
+    "interpretation": "The path to Brahman: purified intellect (the discriminative faculty cleansed of ego-distortion), mastery of the lower self through sustained will (dhritya — steady resolve), withdrawal from sensory objects (not through suppression but through the natural turning of attention inward), and the laying aside of both attraction and aversion (raga and dvesha — the twin forces that normally pull the mind outward). These are not sequential steps but simultaneous qualities of the consciousness turned toward its own Source.",
+    "chapter": 18,
+    "verseNumber": "18.51"
+  },
+  {
+    "verse": 52,
+    "sanskrit": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः |\nध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ||",
+    "transliteration": "vivikta-sevī laghv-āśī yata-vāk-kāya-mānasaḥ\ndhyāna-yoga-paro nityaṁ vairāgyaṁ samupāśritaḥ",
+    "translation": "Dwelling in solitude, eating lightly, with speech, body, and mind restrained, ever engaged in meditation yoga, taking refuge in dispassion —",
+    "interpretation": "The lifestyle of the Brahman-seeker: choosing solitude (vivikta — secluded places conducive to inner work), eating lightly (laghu-ashi — not weighed down by heavy food), with all three instruments — speech, body, and mind — held in discipline, constantly devoted to dhyana-yoga (meditation as the primary practice), and grounded in vairagya (dispassion — the natural result of seeing the world's impermanence clearly). This describes not deprivation but the specific simplicity that allows maximum inner focus.",
+    "chapter": 18,
+    "verseNumber": "18.52"
+  },
+  {
+    "verse": 53,
+    "sanskrit": "अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम् |\nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||",
+    "transliteration": "ahaṅkāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ parigraham\nvimucya nirmamaḥ śānto brahma-bhūyāya kalpate",
+    "translation": "Having released ego, force, arrogance, desire, anger, and possessiveness — free from the sense of 'mine,' peaceful — one becomes fit to realize Brahman.",
+    "interpretation": "The final obstacles released: ego-sense, the force of self-assertion, arrogance, desire, anger, and possessiveness (parigraha — the grasping at things as 'mine'). When all these fall away — nirmama (free from 'mine-ness'), shanta (at peace) — the door to Brahman-realization stands open. This is 'fitting oneself' (kalpate) for the Supreme: not achieving it by effort but removing all the obstructions so that the natural radiance of the Self becomes self-evident. Brahman-realization is not an attainment but a recognition of what was always there.",
+    "chapter": 18,
+    "verseNumber": "18.53"
+  },
+  {
+    "verse": 54,
+    "sanskrit": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति |\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ||",
+    "transliteration": "brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati\nsamaḥ sarveṣu bhūteṣu mad-bhaktiṁ labhate parām",
+    "translation": "Become one with Brahman, with a serene Self — one neither grieves nor desires; equal to all beings, one attains the highest devotion to Me.",
+    "interpretation": "The brahma-bhuta state (becoming Brahman — established in Brahman-consciousness): prasannatma (serene Self — a natural, effortless inner brightness), free from grief (nothing is lacking, so there is nothing to grieve), free from desire (nothing is missing, so there is nothing to want), equal to all beings (sama — seeing the same Self everywhere). And from this state — the state of jnana (wisdom) — arises the highest devotion (para bhakti). This is one of the Gita's most important syntheses: supreme jnana and supreme bhakti are not opposed; the fullness of knowledge naturally overflows into the fullness of love.",
+    "chapter": 18,
+    "verseNumber": "18.54"
+  },
+  {
+    "verse": 55,
+    "sanskrit": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः |\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ||",
+    "transliteration": "bhaktyā mām abhijānāti yāvān yaś cāsmi tattvataḥ\ntato māṁ tattvato jñātvā viśate tad-anantaram",
+    "translation": "Through devotion one truly knows what and who I am in My essence; then, having known Me in truth, one enters into Me immediately.",
+    "interpretation": "The supreme epistemology of bhakti: one truly knows (abhijanati — intimate knowing, not mere intellectual understanding) the full extent and nature of the Divine only through devotion. Tattvatah — in truth, in essence — this knowing penetrates to the core. And having known Krishna in truth, the devotee enters into him immediately (tad-anantaram — right then, no delay). The entering is not future — it is the natural, spontaneous consequence of genuine knowing. Love that truly knows its Beloved cannot remain separate from the Beloved.",
+    "chapter": 18,
+    "verseNumber": "18.55"
+  },
+  {
+    "verse": 56,
+    "sanskrit": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः |\nमत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ||",
+    "transliteration": "sarva-karmāṇy api sadā kurvāṇo mad-vyapāśrayaḥ\nmat-prasādād avāpnoti śāśvataṁ padam avyayam",
+    "translation": "Taking refuge in Me, performing all actions always — by My grace, one attains the eternal, imperishable abode.",
+    "interpretation": "Taking refuge in Krishna (mad-vyapashrayah — 'Krishna-sheltered'), performing all the varied actions of life — and by Divine grace (mat-prasadat), attaining the eternal, imperishable abode. Grace is the element that the ego cannot provide for itself. All the practices, all the virtues, all the non-attachment are necessary but not sufficient — the final opening is grace. And grace comes naturally to the one who takes complete refuge. This verse encapsulates the entire Gita: full action in the world + complete refuge in the Divine = liberation by grace.",
+    "chapter": 18,
+    "verseNumber": "18.56"
+  },
+  {
+    "verse": 57,
+    "sanskrit": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः |\nबुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ||",
+    "transliteration": "cetasā sarva-karmāṇi mayi sannyasya mat-paraḥ\nbuddhi-yogam upāśritya mac-cittaḥ satataṁ bhava",
+    "translation": "Mentally renouncing all actions in Me, making Me the highest goal, taking refuge in the yoga of intelligence — fix your consciousness on Me always.",
+    "interpretation": "A concentrated distillation of the entire teaching: mentally (cetasa — in the inner being, not necessarily outer) renounce all actions into the Divine (surrender their ownership and fruits to Krishna), make the Divine the ultimate goal (mat-para — whose supreme is Me), take refuge in the yoga of buddhi (the integrated intelligence that discriminates between real and unreal), and let consciousness be fixed on the Divine always. 'Mach-chittah satatam bhava' — 'be of My-consciousness always' — this is the practice in its simplest form.",
+    "chapter": 18,
+    "verseNumber": "18.57"
+  },
+  {
+    "verse": 58,
+    "sanskrit": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि |\nअथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि ||",
+    "transliteration": "mac-cittaḥ sarva-durgāṇi mat-prasādāt tariṣyasi\natha cet tvam ahaṅkārān na śroṣyasi vinaṅkṣyasi",
+    "translation": "With your consciousness in Me, you shall cross over all difficulties by My grace. But if from ego you do not listen — you shall perish.",
+    "interpretation": "The stakes are made plain: with consciousness in Krishna, all difficulties are crossed by grace. This is not a promise of a trouble-free life but that consciousness fixed in the Divine can navigate anything. Then the fearful alternative: if from ego (ahamkara — the identifying with the limited self) Arjuna does not listen — he will perish. Not merely fail in battle but 'vinanksyasi' — be destroyed, miss the opportunity of this human life. The word 'ego' is the pivot: it is ego that refuses to listen, ego that insists on its own way, ego that blocks the grace that is always available.",
+    "chapter": 18,
+    "verseNumber": "18.58"
+  },
+  {
+    "verse": 59,
+    "sanskrit": "यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे |\nमिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ||",
+    "transliteration": "yad ahaṅkāram āśritya na yotsya iti manyase\nmithyaiṣa vyavasāyas te prakṛtis tvāṁ niyokṣyati",
+    "translation": "If, resorting to ego, you think 'I will not fight' — this resolve of yours is vain; your own nature will compel you.",
+    "interpretation": "If Arjuna's refusal to fight is based on ego — on the ego's fastidiousness, its desire to appear compassionate, its unwillingness to face the consequences of its own choices — then the resolve is vain (mithya — false, unreal). Prakriti — the accumulated nature, the deep character formed through past lives and present disposition — will compel him to fight anyway. The warrior's nature cannot be permanently overridden by a moment of ego-weakness. This is both realistic psychology and metaphysical teaching: we cannot escape our deepest nature by superficial resolve.",
+    "chapter": 18,
+    "verseNumber": "18.59"
+  },
+  {
+    "verse": 60,
+    "sanskrit": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा |\nकर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् ||",
+    "transliteration": "svabhāva-jena kaunteya nibaddhaḥ svena karmaṇā\nkartuṁ necchasi yan mohāt kariṣyasy avaśo 'pi tat",
+    "translation": "O Arjuna, bound by your own action born of your own nature, what through delusion you do not wish to do — you shall do even against your will.",
+    "interpretation": "The law of svabhava: you are bound by the karma created from your own nature (svabhava-jena — born of your own intrinsic character). What you refuse to do through moha (delusion about your nature and duty), you will eventually do anyway — avasha (against your will, without freedom). The question is not whether you will fight but whether you will fight with wisdom and freedom or fight unconsciously, swept along by natural forces beyond your control. The Gita's teaching is about choosing conscious engagement rather than being dragged along by nature's current.",
+    "chapter": 18,
+    "verseNumber": "18.60"
+  },
+  {
+    "verse": 61,
+    "sanskrit": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति |\nभ्रामयन् सर्वभूतानि यन्त्रारूढानि मायया ||",
+    "transliteration": "īśvaraḥ sarva-bhūtānāṁ hṛd-deśe 'rjuna tiṣṭhati\nbhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā",
+    "translation": "The Lord dwells in the hearts of all beings, O Arjuna, causing all beings to revolve by His maya, as if mounted on a machine.",
+    "interpretation": "One of the Gita's most beautiful and mysterious verses: the Lord dwells in the heart of every being, and through the power of maya, causes all beings to revolve — to move through the cycles of existence — as if they are mounted on a machine (yantra). The machine image is striking: from one angle, beings are like automated figures following programmed paths; from another, the programmer is the Divine within each heart. The teaching integrates determinism and freedom: all movement is the Divine's movement, and yet the invitation to conscious alignment remains real and urgent.",
+    "chapter": 18,
+    "verseNumber": "18.61"
+  },
+  {
+    "verse": 62,
+    "sanskrit": "तमेव शरणं गच्छ सर्वभावेन भारत |\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ||",
+    "transliteration": "tam eva śaraṇaṁ gaccha sarva-bhāvena bhārata\ntat-prasādāt parāṁ śāntiṁ sthānaṁ prāpsyasi śāśvatam",
+    "translation": "Take refuge in Him alone with all your being, O Arjuna. By His grace you shall attain supreme peace and the eternal abode.",
+    "interpretation": "The direct personal invitation: 'Take refuge in that One with all your being (sarva-bhavena — with every aspect, every layer, every corner of your being).' Not partial refuge — holding some part back — but total surrender. And by that grace, the two fruits: para shanti (supreme peace — not the temporary relief of problem-solved but the unshakeable peace that passes all understanding) and the shasvata sthana (the eternal abode — the permanent establishment in the highest reality). These are not future rewards but the immediate consequence of genuine, total surrender.",
+    "chapter": 18,
+    "verseNumber": "18.62"
+  },
+  {
+    "verse": 63,
+    "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया |\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ||",
+    "transliteration": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā\nvimṛśyaitad aśeṣeṇa yathecchasi tathā kuru",
+    "translation": "Thus has knowledge more secret than all secrets been declared to you by Me. Reflecting on this fully, do as you wish.",
+    "interpretation": "One of the most remarkable verses in all of scripture: 'Do as you wish.' After 700 verses of teaching, Krishna does not command but invites. 'Vimarshya etat asheshena' — reflect fully on all of this — 'yathecchasi tatha kuru' — then do as you wish. This is freedom, not compulsion. Krishna has shared the highest knowledge; now Arjuna must choose freely. Genuine spiritual teaching never overrides free will — it illuminates the path and trusts the student to walk it. The Divine respects human freedom absolutely.",
+    "chapter": 18,
+    "verseNumber": "18.63"
+  },
+  {
+    "verse": 64,
+    "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः |\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ||",
+    "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ\niṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam",
+    "translation": "Hear once more My supreme word, the most secret of all — because you are dearly beloved to Me, I shall speak for your benefit.",
+    "interpretation": "Having said 'do as you wish,' Krishna is not done. Love speaks again. 'Because you are firmly dear to Me' — dridham — with emphasis, with certainty — 'I will speak again for your benefit.' This is the teaching that comes from love rather than duty. The guru who has formally completed the teaching but whose love cannot be silent. What follows will be the Gita's most intimate disclosure. Every 'most secret' teaching seems to be followed by an even more secret one — because the heart of love is inexhaustible.",
+    "chapter": 18,
+    "verseNumber": "18.64"
+  },
+  {
+    "verse": 65,
+    "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ||",
+    "transliteration": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru\nmām evaiṣyasi satyaṁ te pratijāne priyo 'si me",
+    "translation": "Fix your mind on Me, be devoted to Me, worship Me, bow to Me — you shall come to Me alone; I truly promise you, for you are dear to Me.",
+    "interpretation": "The most personal verse of the entire Gita, and among the most beloved in all of scripture: four simple instructions — manmana bhava (let your mind be in Me), mad-bhakto (be My devotee), mad-yaji (worship Me), mam namaskuru (bow to Me) — followed by the most personal promise in the universe: 'You shall come to Me alone — this is true, I promise you — for you are dear to Me.' Krishna speaks as lover to beloved: 'I promise you.' The promise of God to the seeking soul. This verse is the Gita's living heart.",
+    "chapter": 18,
+    "verseNumber": "18.65"
+  },
+  {
+    "verse": 66,
+    "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज |\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||",
+    "transliteration": "sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ",
+    "translation": "Abandoning all dharmas, take refuge in Me alone. I shall liberate you from all sins; grieve not.",
+    "interpretation": "The Gita's supreme verse — the carama shloka — the final, ultimate teaching: 'Abandoning ALL dharmas, take refuge in Me alone. I shall liberate you from all sins. Grieve not.' This is not an instruction to abandon ethics but to surrender the ego-investment in being the one who observes dharma. Beyond all frameworks, all systems, all paths — there is only the Divine and the soul's relationship to the Divine. When that relationship becomes total, absolute, without reservation — liberation is immediate. 'I shall liberate you' — not you will liberate yourself, not liberation will come — I shall do it. God's own promise.",
+    "chapter": 18,
+    "verseNumber": "18.66"
+  },
+  {
+    "verse": 67,
+    "sanskrit": "इदं ते नातपस्काय नाभक्ताय कदाचन |\nन चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ||",
+    "transliteration": "idaṁ te nātapaskāya nābhaktāya kadācana\nna cāśuśrūṣave vācyaṁ na ca māṁ yo 'bhyasūyati",
+    "translation": "This is never to be spoken to one who is without austerity, without devotion, without a desire to listen, or to one who finds fault with Me.",
+    "interpretation": "The teaching has a protective clause: it should not be shared indiscriminately. Four types of people are not ready for it: those without tapas (no spiritual discipline — the teaching requires a prepared vessel), those without bhakti (no devotion — the teaching requires a loving heart), those who have no sincere desire to listen (the teaching requires openness), and those who find fault with the Divine (the teaching requires basic trust). This is not elitism but recognition that the deepest teaching requires the deepest readiness. Pearls shared without discernment are not received — they are trampled.",
+    "chapter": 18,
+    "verseNumber": "18.67"
+  },
+  {
+    "verse": 68,
+    "sanskrit": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति |\nभक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ||",
+    "transliteration": "ya imaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati\nbhaktiṁ mayi parāṁ kṛtvā mām evaiṣyaty asaṁśayaḥ",
+    "translation": "One who shall teach this supreme secret to My devotees, having performed the highest devotion to Me, shall undoubtedly come to Me.",
+    "interpretation": "The blessing of the teacher: one who shares this supreme secret with devoted seekers — offering the highest devotion to the Divine through this act of service — shall without doubt (asamsayah) come to Krishna. Sharing genuine wisdom with those who are ready is itself the highest spiritual act. The teacher who transmits the Gita's teaching is participating in the eternal flow of wisdom from the Divine through illumined souls to the next generation of seekers. This transmission is sacred, and its practitioner is guaranteed liberation.",
+    "chapter": 18,
+    "verseNumber": "18.68"
+  },
+  {
+    "verse": 69,
+    "sanskrit": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः |\nभविता न च मे तस्मादन्यः प्रियतरो भुवि ||",
+    "transliteration": "na ca tasmān manuṣyeṣu kaścin me priya-kṛttamaḥ\nbhavitā na ca me tasmād anyaḥ priya-taro bhuvi",
+    "translation": "Among all humans there is none who does more dearly for Me than that person, nor shall there be any other more dear to Me on earth.",
+    "interpretation": "The superlative of Divine love: the one who shares this teaching with sincere seekers is the most beloved human to Krishna — no one does more, no one is dearer. This is the highest possible human vocation: to become a transparent vehicle through which the Gita's light reaches those who need it. The teacher of the Gita, properly understood, is not merely transmitting information but participating in the Divine's own ceaseless act of self-disclosure to the world's seekers.",
+    "chapter": 18,
+    "verseNumber": "18.69"
+  },
+  {
+    "verse": 70,
+    "sanskrit": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः |\nज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ||",
+    "transliteration": "adhyeṣyate ca ya imaṁ dharmyaṁ saṁvādam āvayoḥ\njñāna-yajñena tenāham iṣṭaḥ syām iti me matiḥ",
+    "translation": "And whoever shall study this sacred dialogue of ours — by that person I shall be worshipped through the sacrifice of knowledge; this is My belief.",
+    "interpretation": "Every reading of the Gita is a yajna — a sacrifice of knowledge. One who studies this dharmic conversation between Krishna and Arjuna worships the Divine through the fire of understanding. The Gita is not merely a text to be analyzed but a living transmission to be entered into. Each reading is a new encounter with the Divine voice. Each study is a fresh offering in the fire of wisdom. 'This is My belief' — Krishna himself testifies to the sacred power of engaging with this scripture sincerely.",
+    "chapter": 18,
+    "verseNumber": "18.70"
+  },
+  {
+    "verse": 71,
+    "sanskrit": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः |\nसोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||",
+    "transliteration": "śraddhāvān anasūyaś ca śṛṇuyād api yo naraḥ\nso 'pi muktaḥ śubhāṁl lokān prāpnuyāt puṇya-karmaṇām",
+    "translation": "Even the person who only listens to it with faith and without envy — that one too shall be freed and attain the auspicious realms of the virtuous.",
+    "interpretation": "The accessibility of the Gita's grace is total: even one who only listens (not reads, not studies, not practices — just sincerely listens) with shraddha (faith, genuine openness) and without envious fault-finding — even that person is freed and reaches the auspicious realms of the righteous. The bar is remarkably low: sincere listening with an open heart. This is the Gita's universal invitation: no advanced degree required, no years of practice necessary — just genuine openness to receive.",
+    "chapter": 18,
+    "verseNumber": "18.71"
+  },
+  {
+    "verse": 72,
+    "sanskrit": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा |\nकच्चिदज्ञानसम्मोहः प्रनष्टस्ते धनञ्जय ||",
+    "transliteration": "kaccid etac chrutaṁ pārtha tvayaikāgreṇa cetasā\nkaccid ajñāna-sammohaḥ pranaṣṭas te dhanañjaya",
+    "translation": "Has this been heard by you, O Arjuna, with a focused mind? Has the delusion born of ignorance been destroyed, O Dhananjaya?",
+    "interpretation": "The teacher's check-in: the most human moment in the Gita. Krishna, who has just shared the greatest wisdom in all of existence, now simply asks: 'Did you hear it? Was your mind focused? Has the delusion that brought you to your knees at the start of this battle — has it been destroyed?' The question is not rhetorical. It is the genuine concern of a loving teacher for a student's actual transformation. All the teaching in the world matters nothing if the delusion remains.",
+    "chapter": 18,
+    "verseNumber": "18.72"
+  },
+  {
+    "verse": 73,
+    "sanskrit": "अर्जुन उवाच |\nनष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत |\nस्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ||",
+    "transliteration": "arjuna uvāca\nnaṣṭo mohaḥ smṛtir labdhā tvat-prasādān mayācyuta\nsthito 'smi gata-sandehaḥ kariṣye vacanaṁ tava",
+    "translation": "Arjuna said: Destroyed is my delusion, and I have regained my memory through Your grace, O Achyuta. I am firm; my doubts are gone. I shall act according to Your word.",
+    "interpretation": "Arjuna's answer is the answer the entire Gita has been working toward: 'Nashtah mohah — delusion is destroyed. Smritih labdha — memory is regained.' The 'memory' regained is not new information but the recovery of what was always known — the soul's recognition of its own divine nature. 'Through your grace, O Achyuta (the Unfalling One)' — Arjuna acknowledges that this transformation is not his achievement but the fruit of Divine grace received through surrender and sincere listening. 'I will act according to your word' — the disciple is reborn. The Gita is complete.",
+    "chapter": 18,
+    "verseNumber": "18.73"
+  },
+  {
+    "verse": 74,
+    "sanskrit": "सञ्जय उवाच |\nइत्यहं वासुदेवस्य पार्थस्य च महात्मनः |\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम् ||",
+    "transliteration": "sañjaya uvāca\nity ahaṁ vāsudevasya pārthasya ca mahātmanaḥ\nsaṁvādam imam aśrauṣam adbhutaṁ roma-harṣaṇam",
+    "translation": "Sanjaya said: Thus have I heard this wonderful, thrilling dialogue between Vasudeva (Krishna) and the great-souled Arjuna.",
+    "interpretation": "Sanjaya, the divine narrator who has transmitted the entire Gita conversation to the blind king Dhritarashtra through his mystic vision, now speaks for the first time in the closing verses. He describes what he has witnessed: 'adbhutam' — wonderful, miraculous — and 'roma-harshana' — causing the hair to stand on end with sacred awe. Even the narrator — the witness of the witnessing — is transformed by what he has heard. The sacred conversation between God and the seeking soul is always miraculous to those with eyes and ears to receive it.",
+    "chapter": 18,
+    "verseNumber": "18.74"
+  },
+  {
+    "verse": 75,
+    "sanskrit": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् |\nयोगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ||",
+    "transliteration": "vyāsa-prasādāc chrutavān etad guhyam ahaṁ param\nyogaṁ yogeśvarāt kṛṣṇāt sākṣāt kathayataḥ svayam",
+    "translation": "By the grace of Vyasa, I have heard this supreme, most secret yoga directly from Krishna, the Lord of Yoga, speaking it Himself.",
+    "interpretation": "Sanjaya traces the lineage of transmission: by Vyasa's grace (the sage who composed the Mahabharata granted Sanjaya the divine vision), Sanjaya heard this supreme secret yoga directly from Krishna himself speaking it (sakshaat — directly, without intermediary). The chain of grace: Brahman-to-Krishna-to-Vyasa-to-Sanjaya-to-Dhritarashtra-to-us. Each transmission is miraculous; each receiver a link in the eternal chain of wisdom. We who read the Gita today are also recipients of this same grace, at the end of this long luminous chain.",
+    "chapter": 18,
+    "verseNumber": "18.75"
+  },
+  {
+    "verse": 76,
+    "sanskrit": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् |\nकेशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ||",
+    "transliteration": "rājan saṁsmṛtya saṁsmṛtya saṁvādam imam adbhutam\nkeśavārjunayoḥ puṇyaṁ hṛṣyāmi ca muhur muhuḥ",
+    "translation": "O King, remembering again and again this sacred and wonderful dialogue between Keshava and Arjuna, I rejoice again and again.",
+    "interpretation": "Sanjaya's testimony about the effect of the Gita: 'Samsmrtya samsmrtya' — remembering again and again, returning again and again — 'hrshyami ca muhur muhuh' — I rejoice again and again. This is the characteristic of genuine sacred scripture: each return to it yields new joy, new insight, new nourishment. The Gita does not exhaust itself in one reading. It deepens with every encounter. Sanjaya has witnessed the original conversation and still finds joy in its memory. This is the gift the Gita offers every reader: inexhaustible joy in returning.",
+    "chapter": 18,
+    "verseNumber": "18.76"
+  },
+  {
+    "verse": 77,
+    "sanskrit": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः |\nविस्मयो मे महान् राजन् हृष्यामि च पुनः पुनः ||",
+    "transliteration": "tac ca saṁsmṛtya saṁsmṛtya rūpam aty-adbhutaṁ hareḥ\nvismayo me mahān rājan hṛṣyāmi ca punaḥ punaḥ",
+    "translation": "And remembering again and again that most wonderful form of Hari (Krishna), great is my amazement, O King, and I rejoice again and again.",
+    "interpretation": "Sanjaya recalls not only the words of the Gita but the form of the Divine — the Vishvarupa (cosmic form) of Chapter 11 that he also witnessed through his divine vision. 'Vismayo me mahan' — great is my wonder. The wonder never fades; the amazement at the Divine's revelation never becomes routine. This is the state of the blessed witness — perpetual wonder, perpetual joy. The Gita ends not in philosophical conclusion but in bhava — in the direct experience of wonder and delight at the Divine's self-revelation.",
+    "chapter": 18,
+    "verseNumber": "18.77"
+  },
+  {
+    "verse": 78,
+    "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः |\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ||",
+    "transliteration": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ\ntatra śrīr vijayo bhūtir dhruvā nītir matir mama",
+    "translation": "Wherever there is Krishna, the Lord of Yoga, and wherever there is Arjuna, the archer — there will be prosperity, victory, happiness, and firm righteousness; this is my conviction.",
+    "interpretation": "The Gita's final verse — Sanjaya's supreme declaration and the eternal promise: wherever the Divine (the Lord of Yoga, the supreme wisdom) and the sincere seeker (the archer, the one who strives) come together — there will be Sri (prosperity, abundance, grace), vijaya (victory), bhuti (happiness and flourishing), and dhruva niti (firm, unwavering righteousness). This is the Gita's ultimate teaching in one sentence: align yourself with the Divine, take up your bow with full heart and understanding — and everything good will follow. Not as a reward, but as the natural flowering of right relationship. Thus ends the Bhagavad Gita.",
+    "chapter": 18,
+    "verseNumber": "18.78"
+  }
+]

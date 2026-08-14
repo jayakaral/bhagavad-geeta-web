@@ -1,0 +1,650 @@
+[
+  {
+    "verse": 1,
+    "sanskrit": "सञ्जय उवाच |\nतं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् |\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः ||१||",
+    "transliteration": "sañjaya uvāca\ntaṁ tathā kṛpayāviṣṭam aśhru-pūrṇākulekṣhaṇam\nviṣīdantam idaṁ vākyam uvācha madhusūdanaḥ",
+    "translation": "Sanjaya said: Seeing Arjuna full of compassion, his eyes tearful and overwhelmed with grief, Madhusudana (Krishna) spoke these words.",
+    "interpretation": "Sanjaya observes Krishna carefully before speaking. The word 'kripaya' (compassion) describes Arjuna's state — his grief is rooted in love, not cowardice. Krishna, as 'Madhusudana' (slayer of the demon Madhu), is about to slay a subtler demon: the delusion that clouds Arjuna's mind.",
+    "chapter": 2,
+    "verseNumber": "2.1"
+  },
+  {
+    "verse": 2,
+    "sanskrit": "श्रीभगवानुवाच |\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् |\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ||२||",
+    "transliteration": "śhrī bhagavān uvācha\nkutas tvā kaśhmalam idaṁ viṣhame samupasthitam\nanārya-juṣṭam asvargyam akīrti-karam arjuna",
+    "translation": "The Supreme Lord said: How has this despondency come upon you at this crisis hour, O Arjuna? It does not befit you. Do not yield to impotence, O Partha. It does not become you.",
+    "interpretation": "Krishna's first word is a rebuke, but a compassionate one. He calls Arjuna's state 'kashmalah' — impurity or despondency — and 'anārya-juṣṭam' — behavior unbecoming of a noble person (arya). Krishna is not dismissing Arjuna's emotions; he is pointing out that the action arising from those emotions (abandoning battle) is inappropriate for someone of Arjuna's nature and station.",
+    "chapter": 2,
+    "verseNumber": "2.2"
+  },
+  {
+    "verse": 3,
+    "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते |\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||३||",
+    "transliteration": "klaibyaṁ mā sma gamaḥ pārtha naitat tvayy upapadyate\nkṣhudraṁ hṛdaya-daurbalyaṁ tyaktvottiṣṭha parantapa",
+    "translation": "Do not yield to unmanliness, O Partha! It does not befit you. Shake off your faint-heartedness and arise, O scorcher of enemies!",
+    "interpretation": "Krishna uses the address 'Parantapa' — scorcher of enemies — almost ironically: the man who has scorched great enemies in battle is now being scorched by his own inner confusion. The command is simple and direct: arise (uttishtha). This word will echo at the end of the Gita: when Arjuna finally understands, he too will rise.",
+    "chapter": 2,
+    "verseNumber": "2.3"
+  },
+  {
+    "verse": 4,
+    "sanskrit": "अर्जुन उवाच |\nकथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन |\nइषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ||४||",
+    "transliteration": "arjuna uvācha\nkathaṁ bhīṣhmam ahaṁ saṅkhye droṇaṁ cha madhusūdana\niṣhubhiḥ pratiyotsyāmi pūjārhāv ari-sūdana",
+    "translation": "Arjuna said: O Madhusudana, O killer of enemies, how can I shoot arrows in battle against Bhishma and Drona, who are worthy of worship?",
+    "interpretation": "Arjuna raises the most emotionally charged specific objection: Bhishma (his great-uncle and patriarch) and Drona (his revered teacher). These are not just opponents — they are elders who deserve reverence. To kill them would violate the fundamental dharma of respect for one's teachers and elders.",
+    "chapter": 2,
+    "verseNumber": "2.4"
+  },
+  {
+    "verse": 5,
+    "sanskrit": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके |\nहत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान् ||५||",
+    "transliteration": "gurūn ahatvā hi mahānubhāvān śhreyo bhoktuṁ bhaikṣhyam apīha loke\nhatvārtha-kāmāṁs tu gurūn ihaiva bhuñjīya bhogān rudhira-pradigdhān",
+    "translation": "It is better to live in this world by begging than to slay these great noble souls, my teachers. Even if they be motivated by desire, they are still my superiors. If I kill them, all my enjoyments of wealth and desires will be tainted with blood.",
+    "interpretation": "Arjuna would rather beg than kill his teachers. Even if Drona and Bhishma are on the wrong side (motivated by desire for payment or obligation to the king), they remain his superiors. The enjoyment of kingdom that would result from killing them would be permanently tainted. This argument has moral weight, but Krishna will show that personal preferences about 'taint' cannot override dharmic duty.",
+    "chapter": 2,
+    "verseNumber": "2.5"
+  },
+  {
+    "verse": 6,
+    "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः |\nयानेव हत्वा न जिजीविषाम स्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः ||६||",
+    "transliteration": "na chaitad vidmaḥ kataran no garīyo yad vā jayema yadi vā no jayeyuḥ\nyān eva hatvā na jijīviṣhāmas te'vasthitāḥ pramukhe dhārtarāṣṭrāḥ",
+    "translation": "Nor do we know which is better for us — conquering them or being conquered by them. Even the sons of Dhritarashtra, after killing whom we should not wish to live, stand before us.",
+    "interpretation": "Arjuna admits his fundamental confusion: he does not even know which outcome is better — victory or defeat. When a person cannot see what is good for them, they are in delusion (moha). This is the state of moral paralysis that requires the teacher's intervention.",
+    "chapter": 2,
+    "verseNumber": "2.6"
+  },
+  {
+    "verse": 7,
+    "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः |\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ||७||",
+    "transliteration": "kārpaṇya-doṣhopahata-svabhāvaḥ pṛchchhāmi tvāṁ dharma-sammūḍha-chetāḥ\nyach chhreyaḥ syān niśhchitaṁ brūhi tan me śhiṣhyas te'haṁ śhādhi māṁ tvāṁ prapannam",
+    "translation": "My being is struck down by the weakness of pity; my mind is confused about duty. I ask you — tell me decisively what is good for me. I am your disciple; teach me, I seek refuge in you.",
+    "interpretation": "This is the turning point. Arjuna formally surrenders to Krishna as a disciple: 'śhiṣhyas te' — I am your disciple; 'tvāṁ prapannam' — I take refuge in you. The Gita proper begins here. Arjuna's admission of confusion ('dharma-sammūḍha-chetāḥ' — mind confused about dharma) is the prerequisite for receiving wisdom. The student who thinks he knows cannot learn.",
+    "chapter": 2,
+    "verseNumber": "2.7"
+  },
+  {
+    "verse": 8,
+    "sanskrit": "न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम् |\nअवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम् ||८||",
+    "transliteration": "na hi prapaśhyāmi mamāpanudyād yach chhokam uchchoṣhaṇam indriyāṇām\navāpya bhūmāv asapatnam ṛddhaṁ rājyaṁ surāṇām api chādhipatyam",
+    "translation": "I do not see what could dispel the grief that is withering my senses, even if I were to obtain a prosperous and unrivalled kingdom on earth and dominion over the gods.",
+    "interpretation": "Arjuna confesses the depth of his anguish: not even ruling the entire earth or the heavens would ease his grief. This is significant — it means his suffering is not about material loss, but about existential confusion. Only the teaching that goes to the root of existence can help him.",
+    "chapter": 2,
+    "verseNumber": "2.8"
+  },
+  {
+    "verse": 9,
+    "sanskrit": "सञ्जय उवाच |\nएवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप |\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ||९||",
+    "transliteration": "sañjaya uvācha\nevam uktvā hṛṣīkeśhaṁ guḍākeśhaḥ parantapa\nna yotsya iti govindam uktvā tūṣhṇīṁ babhūva ha",
+    "translation": "Sanjaya said: Having spoken thus to Hrishikesha (Krishna), Gudakesha (Arjuna), the scorcher of foes, became silent, telling Govinda (Krishna), 'I will not fight.'",
+    "interpretation": "After all his arguments, Arjuna's final position is silence and a flat refusal: 'I will not fight.' He has exhausted his arguments and collapsed into paralysis. This is the perfect ground for Krishna's teaching to take root — a mind that has argued itself to a dead end.",
+    "chapter": 2,
+    "verseNumber": "2.9"
+  },
+  {
+    "verse": 10,
+    "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत |\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः ||१०||",
+    "transliteration": "tam uvācha hṛṣīkeśhaḥ prahasann iva bhārata\nsenayos ubhayor madhye viṣīdantam idaṁ vachaḥ",
+    "translation": "O descendant of Bharata, in the middle of both armies, Krishna smiled and spoke these words to the grief-stricken Arjuna.",
+    "interpretation": "Krishna smiles ('prahasann iva') — a gentle, perhaps wry smile. He is not dismissive; he is compassionate and supremely confident. He has seen this confusion before, in many souls across countless ages. His smile is the smile of the one who knows the answer before the question is asked.",
+    "chapter": 2,
+    "verseNumber": "2.10"
+  },
+  {
+    "verse": 11,
+    "sanskrit": "श्रीभगवानुवाच |\nअशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे |\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ||११||",
+    "transliteration": "śhrī bhagavān uvācha\naśhochyān anvaśhochas tvaṁ prajñā-vādāṁśh cha bhāṣhase\ngatāsūn agatāsūṁśh cha nānuśhochanti paṇḍitāḥ",
+    "translation": "The Supreme Lord said: While you speak words of wisdom, you are grieving for those who should not be grieved for. The truly wise grieve neither for the living nor for the dead.",
+    "interpretation": "This is the opening of Krishna's formal teaching. He identifies the core contradiction: Arjuna speaks like a wise man ('prajña-vādān') but grieves like someone ignorant of the soul's nature. Wisdom and grief for the dead are incompatible — the wise know that the soul is eternal, and neither its presence nor its absence warrants grief.",
+    "chapter": 2,
+    "verseNumber": "2.11"
+  },
+  {
+    "verse": 12,
+    "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः |\nन चैव न भविष्यामः सर्वे वयमतः परम् ||१२||",
+    "transliteration": "na tv evāhaṁ jātu nāsaṁ na tvaṁ neme janādhipāḥ\nna chaiva na bhaviṣhyāmaḥ sarve vayam ataḥ param",
+    "translation": "Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.",
+    "interpretation": "Krishna makes his most radical philosophical claim: the Self (Atman) has always existed and will always exist. There was never a time when Krishna, Arjuna, or these warriors did not exist — not as bodies, but as souls. And there will never be a time when they cease to be. Death is the death of the body, not the soul. This is the foundation upon which the entire Gita is built.",
+    "chapter": 2,
+    "verseNumber": "2.12"
+  },
+  {
+    "verse": 13,
+    "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा |\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ||१३||",
+    "transliteration": "dehino'smin yathā dehe kaumāraṁ yauvanaṁ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati",
+    "translation": "Just as the soul passes through childhood, youth, and old age in this body, similarly the soul passes into another body at death. The wise person is not deluded by this.",
+    "interpretation": "The body-soul relationship is like the stages of life in one body: just as we don't grieve that childhood ends and youth begins, we should not grieve that the soul moves from one body to another at death. The change is continuous and natural. The soul is the constant; the body is the variable.",
+    "chapter": 2,
+    "verseNumber": "2.13"
+  },
+  {
+    "verse": 14,
+    "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः |\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ||१४||",
+    "transliteration": "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ\nāgamāpāyino'nityās tāṁs titikṣhasva bhārata",
+    "translation": "O son of Kunti, the contacts of the senses with their objects give rise to cold, heat, pleasure, and pain. They come and go; they are impermanent. Endure them, O Arjuna.",
+    "interpretation": "Pleasure and pain, heat and cold — these are the experiences of contact between senses and the external world. They are 'anitya' (impermanent) — they come and go. The practice Krishna recommends is 'titiksha': the capacity to endure without being disturbed. This is not indifference but equanimity — maintaining one's center despite the swings of experience.",
+    "chapter": 2,
+    "verseNumber": "2.14"
+  },
+  {
+    "verse": 15,
+    "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ |\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ||१५||",
+    "transliteration": "yaṁ hi na vyathayanty ete puruṣhaṁ puruṣharṣhabha\nsama-duḥkha-sukhaṁ dhīraṁ so'mṛtatvāya kalpate",
+    "translation": "O best among men, the person who is not disturbed by happiness and distress and is steady in both is certainly eligible for liberation.",
+    "interpretation": "The goal of this equanimity is 'amritatva' — immortality or liberation. The one who is not shaken by pleasure or pain is 'dhira' — steadfast, wise. This equanimity is not suppression of feeling but genuine stability arising from knowledge of the Self's unchanging nature.",
+    "chapter": 2,
+    "verseNumber": "2.15"
+  },
+  {
+    "verse": 16,
+    "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः |\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ||१६||",
+    "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ\nubhayor api dṛṣṭo'ntas tv anayos tattva-darśhibhiḥ",
+    "translation": "The unreal has no existence, and the real never ceases to be. The seers of truth have concluded this, having studied the nature of both.",
+    "interpretation": "This is one of the most philosophically profound statements in the Gita. 'Asat' (the unreal — the body, sensations, the world of change) has no permanent existence. 'Sat' (the real — the soul, Brahman) never ceases to exist. Those who have seen the truth ('tattva-darśhibhiḥ') have verified this through direct experience, not mere intellectual acceptance.",
+    "chapter": 2,
+    "verseNumber": "2.16"
+  },
+  {
+    "verse": 17,
+    "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् |\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ||१७||",
+    "transliteration": "avināśhi tu tad viddhi yena sarvam idaṁ tatam\nvināśham avyayasyāsya na kaśhchit kartum arhati",
+    "translation": "Know that to be indestructible by which this entire universe is pervaded. No one can cause the destruction of the imperishable soul.",
+    "interpretation": "The soul pervades all of existence — it is not confined to one body but is the very fabric of consciousness through which the universe is experienced. 'Avināśhi' — indestructible. No weapon, no fire, no element can destroy it. This is not a belief but an ontological fact that can be verified through deep self-inquiry.",
+    "chapter": 2,
+    "verseNumber": "2.17"
+  },
+  {
+    "verse": 18,
+    "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः |\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||१८||",
+    "transliteration": "antavanta ime dehā nityasyoktāḥ śharīriṇaḥ\nanāśhino'prameyasya tasmād yudhyasva bhārata",
+    "translation": "Only the material body of the indestructible, immeasurable, and eternal living being is subject to destruction; therefore, fight, O descendant of Bharata!",
+    "interpretation": "The logical conclusion: since the soul is eternal and only the body perishes, there is no real 'killing' in the deepest sense. The soul cannot be slain. Therefore, the warrior's duty to protect dharma through battle is not a sin against the soul. 'Therefore fight!' — Krishna's first direct command.",
+    "chapter": 2,
+    "verseNumber": "2.18"
+  },
+  {
+    "verse": 19,
+    "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते ||१९||",
+    "transliteration": "ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam\nubhau tau na vijānīto nāyaṁ hanti na hanyate",
+    "translation": "He who thinks that this (soul) is a slayer and he who thinks that this (soul) is slain — both of them fail to perceive the truth. This soul neither slays nor is slain.",
+    "interpretation": "The killer and the killed are both mistaken in their identification of the soul with the body. When a soldier kills on the battlefield, he destroys a body, not a soul. When someone dies, their soul does not die. Both the conception of 'killing' and 'being killed' are based on identification with the perishable body.",
+    "chapter": 2,
+    "verseNumber": "2.19"
+  },
+  {
+    "verse": 20,
+    "sanskrit": "न जायते म्रियते वा कदाचिन् नायं भूत्वा भविता वा न भूयः |\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ||२०||",
+    "transliteration": "na jāyate mriyate vā kadāchin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śhāśhvato'yaṁ purāṇo na hanyate hanyamāne śharīre",
+    "translation": "The soul is never born nor dies at any time. It has not come into being, does not come into being, and will not come into being. It is unborn, eternal, ever-existing, and primeval. It is not slain when the body is slain.",
+    "interpretation": "Perhaps the most comprehensive description of the soul's nature in the entire Gita. The soul transcends all temporal categories: it was never born, it does not die, it has not come into being at any point in time. 'Purāṇa' — ancient, primeval — suggests it is older than creation itself. The body may be slain, but the soul continues unchanged. This is the foundational truth upon which all of Krishna's subsequent teaching rests.",
+    "chapter": 2,
+    "verseNumber": "2.20"
+  },
+  {
+    "verse": 21,
+    "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम् |\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम् ||२१||",
+    "transliteration": "vedāvināśhinaṁ nityaṁ ya enam ajam avyayam\nkathaṁ sa puruṣhaḥ pārtha kaṁ ghātayati hanti kam",
+    "translation": "O Partha, how can a person who knows this soul to be indestructible, eternal, unborn, and immutable, kill anyone or cause anyone to kill?",
+    "interpretation": "The rhetorical question drives home the teaching: if you truly know the soul is indestructible, what sense does it make to speak of 'killing'? The one who truly knows cannot be the cause of anyone's real destruction. This is not an excuse to avoid responsibility — it is a call to act from a higher understanding that transcends personal ego.",
+    "chapter": 2,
+    "verseNumber": "2.21"
+  },
+  {
+    "verse": 22,
+    "sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि |\nतथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही ||२२||",
+    "transliteration": "vāsāṁsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi\ntathā śharīrāṇi vihāya jīrṇāny anyāni saṁyāti navāni dehī",
+    "translation": "Just as a person puts on new garments, giving up old ones, similarly, the soul accepts new material bodies, giving up the old and useless ones.",
+    "interpretation": "The most famous metaphor in the Gita for the soul and reincarnation: the soul changes bodies like a person changes clothes. The old body wears out; the soul takes a new one. There is no loss, no tragedy — only transition. This analogy is intellectually accessible and experientially resonant: we all know what it is to put on fresh clothes.",
+    "chapter": 2,
+    "verseNumber": "2.22"
+  },
+  {
+    "verse": 23,
+    "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः |\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः ||२३||",
+    "transliteration": "nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ\nna chainaṁ kledayanty āpo na śhoṣhayati mārutaḥ",
+    "translation": "Weapons cannot cut it, fire cannot burn it, water cannot wet it, and wind cannot dry it.",
+    "interpretation": "The soul is beyond all physical forces. The four elements — earth (represented by weapons), fire, water, and wind — cannot touch it. This is not mystical assertion but a logical consequence of the soul's nature: it is not a physical object and therefore cannot be acted upon by physical forces. It exists in a different order of reality.",
+    "chapter": 2,
+    "verseNumber": "2.23"
+  },
+  {
+    "verse": 24,
+    "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ||२४||",
+    "transliteration": "achchhedyo'yam adāhyo'yam akledyo'śhoṣhya eva cha\nnityaḥ sarva-gataḥ sthāṇur achalo'yaṁ sanātanaḥ",
+    "translation": "This individual soul is unbreakable, insoluble, it can be neither burned nor dried. It is everlasting, all-pervading, unchangeable, immovable, and eternally the same.",
+    "interpretation": "A comprehensive description of the soul's essential qualities: eternal (nitya), all-pervading (sarva-gata), stable (sthanu), immovable (achala), and primordial (sanatana). These qualities contrast perfectly with the body's characteristics: temporary, localized, changing, moving, born in time.",
+    "chapter": 2,
+    "verseNumber": "2.24"
+  },
+  {
+    "verse": 25,
+    "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ||२५||",
+    "transliteration": "avyakto'yam achintyo'yam avikāryo'yam uchyate\ntasmād evaṁ viditvainaṁ nānuśhochitum arhasi",
+    "translation": "It is said that the soul is invisible, inconceivable, immutable, and unchangeable. Knowing this, you should not grieve for the body.",
+    "interpretation": "The soul is 'avyakta' (unmanifest — beyond the reach of the senses), 'achintya' (inconceivable — beyond the grasp of the ordinary mind), and 'avikārya' (immutable — it cannot be altered by experience). Knowing this, Krishna says: you should not grieve. Grief about the death of the body reveals ignorance of what the body actually is and what the soul actually is.",
+    "chapter": 2,
+    "verseNumber": "2.25"
+  },
+  {
+    "verse": 26,
+    "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् |\nतथापि त्वं महाबाहो नैनं शोचितुमर्हसि ||२६||",
+    "transliteration": "atha chainaṁ nitya-jātaṁ nityaṁ vā manyase mṛtam\ntathāpi tvaṁ mahā-bāho nainaṁ śhochitum arhasi",
+    "translation": "But if you think the soul is perpetually born and perpetually dies, still O mighty-armed Arjuna, you have no reason to lament.",
+    "interpretation": "Krishna offers a concession: even if you do not accept the soul's eternity (taking the materialist position that birth and death are real), there is still no reason to grieve — because death is inevitable and natural. Either way — whether the soul is eternal or whether birth and death are real — grief is irrational.",
+    "chapter": 2,
+    "verseNumber": "2.26"
+  },
+  {
+    "verse": 27,
+    "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च |\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||२७||",
+    "transliteration": "jātasya hi dhruvo mṛtyur dhruvaṁ janma mṛtasya cha\ntasmād aparihārye'rthe na tvaṁ śhochitum arhasi",
+    "translation": "For one who is born, death is certain; and for one who has died, birth is certain. Therefore, you should not grieve over the unavoidable.",
+    "interpretation": "Death is 'dhruva' — certain, fixed, inevitable — for all born beings. And after death, birth is equally certain. The cycle continues. What is inevitable ('aparihārye') should be faced with equanimity, not lamented. Grief does not change the inevitable; it only adds unnecessary suffering.",
+    "chapter": 2,
+    "verseNumber": "2.27"
+  },
+  {
+    "verse": 28,
+    "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत |\nअव्यक्तनिधनान्येव तत्र का परिदेवना ||२८||",
+    "transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata\navyakta-nidhanāny eva tatra kā paridevanā",
+    "translation": "O Bharata, all created beings are unmanifest in their beginning, manifest in their middle state, and again unmanifest at their end. What lamentation can there be for this?",
+    "interpretation": "Before birth, beings are unmanifest (avyakta). In life, they are manifest (vyakta). After death, unmanifest again. The middle state — this visible life — is sandwiched between two states of invisibility. What is the nature of grief about a manifestation that was always temporary? The being existed before, will exist after; only the current form is grieved.",
+    "chapter": 2,
+    "verseNumber": "2.28"
+  },
+  {
+    "verse": 29,
+    "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः |\nआश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित् ||२९||",
+    "transliteration": "āśhcharya-vat paśhyati kaśhchid enam āśhcharya-vad vadati tathaiva chānyaḥ\nāśhcharya-vach chainam anyaḥ śhṛṇoti śhrutvāpy enaṁ veda na chaiva kaśhchit",
+    "translation": "Some look upon the soul as amazing; others describe it as amazing; and still others hear of it as amazing; while others, though hearing, cannot understand it at all.",
+    "interpretation": "The soul is a mystery — one of the deepest mysteries of existence. Some see it as miraculous; some speak of it as miraculous; some hear of it as miraculous. But even having heard, many do not truly understand. This is not a failure of intelligence but of orientation: the soul cannot be grasped through ordinary intellectual analysis but only through direct inner experience.",
+    "chapter": 2,
+    "verseNumber": "2.29"
+  },
+  {
+    "verse": 30,
+    "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत |\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ||३०||",
+    "transliteration": "dehī nityam avadhyo'yaṁ dehe sarvasya bhārata\ntasmāt sarvāṇi bhūtāni na tvaṁ śhochitum arhasi",
+    "translation": "O Bharata, the soul dwelling within is eternally indestructible in all beings. Therefore you should not grieve for any being.",
+    "interpretation": "The conclusion of Krishna's teaching on the soul's immortality: since every being carries an indestructible soul, there is no 'victim' in the deepest sense. The body perishes; the soul continues. This is the basis of 'not grieving for any being' — not callousness, but the recognition that what is truly real in every being cannot be destroyed.",
+    "chapter": 2,
+    "verseNumber": "2.30"
+  },
+  {
+    "verse": 31,
+    "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि |\nधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ||३१||",
+    "transliteration": "sva-dharmam api chāvekṣhya na vikampitum arhasi\ndharmyāddhi yuddhāch chhreyo'nyat kṣhatriyasya na vidyate",
+    "translation": "Furthermore, looking at your own duty, you should not waver. For a Kshatriya, there is no better engagement than fighting for righteous principles.",
+    "interpretation": "Having established the metaphysical foundation (the soul's immortality), Krishna now turns to Arjuna's specific duty as a Kshatriya warrior. 'Sva-dharma' — one's own duty — is not a personal preference but a sacred calling determined by one's nature and station. For a warrior, righteous battle is the highest calling.",
+    "chapter": 2,
+    "verseNumber": "2.31"
+  },
+  {
+    "verse": 32,
+    "sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् |\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ||३२||",
+    "transliteration": "yadṛchchhayā chopapannaṁ svarga-dvāram apāvṛtam\nsukhinaḥ kṣhatriyāḥ pārtha labhante yuddham īdṛśham",
+    "translation": "O Partha, happy are the Kshatriyas to whom such fighting opportunities come unsolicited, opening for them the doors of heaven.",
+    "interpretation": "This battle has come to Arjuna unsolicited — it found him. A righteous war that arrives without being sought is the highest opportunity for a warrior: it is a direct invitation to fulfill one's dharma without the complication of personal ambition. The 'doors of heaven' open not through conquest but through the courage to fulfill one's duty.",
+    "chapter": 2,
+    "verseNumber": "2.32"
+  },
+  {
+    "verse": 33,
+    "sanskrit": "अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि |\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ||३३||",
+    "transliteration": "atha chet tvam imaṁ dharmyaṁ saṅgrāmaṁ na kariṣhyasi\ntataḥ sva-dharmaṁ kīrtiṁ cha hitvā pāpam avāpsyasi",
+    "translation": "But if you do not perform your religious duty of fighting, then you will certainly incur sins for neglecting your duties and thus lose your reputation as a fighter.",
+    "interpretation": "The consequences of refusing battle are clearly stated: loss of sva-dharma (one's essential nature and duty), loss of reputation (kirti), and the accrual of sin. Inaction is not sinless — it too carries consequences. Arjuna's choice to not fight is not neutral; it is a specific action (the action of not acting) with specific consequences.",
+    "chapter": 2,
+    "verseNumber": "2.33"
+  },
+  {
+    "verse": 34,
+    "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् |\nसम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ||३४||",
+    "transliteration": "akīrtiṁ chāpi bhūtāni kathayiṣhyanti te'vyayām\nsambhāvitasya chākīrtir maraṇād atirichyate",
+    "translation": "People will always speak of your infamy, and for a respectable person, dishonor is worse than death.",
+    "interpretation": "For a warrior of Arjuna's stature, infamy is more devastating than death. His entire identity and social function is built on the reputation for courage and righteousness. Abandoning battle would destroy that reputation permanently — a form of living death for one whose dharma is martial valor.",
+    "chapter": 2,
+    "verseNumber": "2.34"
+  },
+  {
+    "verse": 35,
+    "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः |\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ||३५||",
+    "transliteration": "bhayād raṇād uparataṁ maṁsyante tvāṁ mahā-rathāḥ\nyeṣhāṁ cha tvaṁ bahu-mato bhūtvā yāsyasi lāghavam",
+    "translation": "The great generals who have highly esteemed your name and fame will think that you have left the battlefield out of fear only, and thus they will consider you insignificant.",
+    "interpretation": "The great warriors who respect Arjuna will interpret his withdrawal not as principled pacifism but as fear. Arjuna cannot explain his true reasons — they would sound like philosophy, not courage. The warriors of both armies will simply see a great fighter leaving the field, and draw the obvious conclusion.",
+    "chapter": 2,
+    "verseNumber": "2.35"
+  },
+  {
+    "verse": 36,
+    "sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः |\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ||३६||",
+    "transliteration": "avāchya-vādāṁśh cha bahūn vadiṣhyanti tavāhitāḥ\nnindantas tava sāmarthyaṁ tato duḥkhataraṁ nu kim",
+    "translation": "Your enemies will describe you in many unkind words and scorn your ability. What could be more painful than that?",
+    "interpretation": "Enemies will mock and deride Arjuna's supposed cowardice. For a man of honor and martial fame, this derision from those he has always defeated in battle would be uniquely painful. Krishna is appealing to Arjuna's sense of honor as a warrior — a path of motivation that can work even before the deeper spiritual teaching takes hold.",
+    "chapter": 2,
+    "verseNumber": "2.36"
+  },
+  {
+    "verse": 37,
+    "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् |\nतस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ||३७||",
+    "transliteration": "hato vā prāpsyasi svargaṁ jitvā vā bhokṣhyase mahīm\ntasmād uttiṣṭha kaunteya yuddhāya kṛta-niśhchayaḥ",
+    "translation": "O Kaunteya, either you will be killed and attain heaven, or you will conquer and enjoy the earth. Therefore, arise and fight with determination.",
+    "interpretation": "A warrior's perfect logic: the two outcomes of righteous battle are both good. Death in righteous battle leads to heaven; victory leads to the enjoyment of the kingdom. There is no losing scenario. This 'win-win' framing is not sophistry — it reflects the genuine Vedic understanding that a warrior who dies in righteous battle attains the highest realms.",
+    "chapter": 2,
+    "verseNumber": "2.37"
+  },
+  {
+    "verse": 38,
+    "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ |\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ||३८||",
+    "transliteration": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau\ntato yuddhāya yujyasva naivaṁ pāpam avāpsyasi",
+    "translation": "Do battle for the sake of battle — treating pleasure and pain, gain and loss, victory and defeat as the same. Then you will incur no sin.",
+    "interpretation": "This is the first teaching of Nishkama Karma (action without attachment). Fight not for pleasure, gain, or victory — but simply because it is your duty. When the outcome is surrendered to the divine, when the fruits of action are not held as personal, the action itself becomes pure. No sin accrues from action done with this equanimity.",
+    "chapter": 2,
+    "verseNumber": "2.38"
+  },
+  {
+    "verse": 39,
+    "sanskrit": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु |\nबुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ||३९||",
+    "transliteration": "eṣhā te'bhihitā sāṅkhye buddhir yoge tv imāṁ śhṛṇu\nbuddhyā yukto yayā pārtha karma-bandhaṁ prahāsyasi",
+    "translation": "Thus far I have declared to you the wisdom of Sankhya. Now listen, O Partha, to the wisdom of Yoga, by which you shall break through the bonds of karma.",
+    "interpretation": "Krishna marks a transition. The teaching of Sankhya (the philosophy of discrimination between soul and matter, described in the previous verses) is now complete. Now he will teach the 'buddhi yoga' — the yoga of wisdom applied to action. This yoga, when practiced, severs the bonds of karma that keep the soul in the cycle of birth and death.",
+    "chapter": 2,
+    "verseNumber": "2.39"
+  },
+  {
+    "verse": 40,
+    "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते |\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ||४०||",
+    "transliteration": "nehābhikrama-nāśho'sti pratyavāyo na vidyate\nsv-alpam apy asya dharmasya trāyate mahato bhayāt",
+    "translation": "In this path, there is no loss of effort, nor is there any harm. Even a little of this righteousness saves one from great fear.",
+    "interpretation": "The yoga path is unlike material pursuits: in the material world, effort can be wasted and there can be setbacks. But any sincere spiritual effort is never lost — it accumulates across lifetimes. Even a small amount of practice (sv-alpam) protects the practitioner from the great fear of repeated birth and death.",
+    "chapter": 2,
+    "verseNumber": "2.40"
+  },
+  {
+    "verse": 41,
+    "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन |\nबहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ||४१||",
+    "transliteration": "vyavasāyātmikā buddhir ekeha kuru-nandana\nbahu-śhākhā hy anantāśh cha buddhayo'vyavasāyinām",
+    "translation": "Those who are on this path are resolute in purpose and their aim is one. O beloved child of the Kurus, the intelligence of those who are irresolute is many-branched and endless.",
+    "interpretation": "The decisive person pursuing the yoga path has a single, clear, unwavering intention — 'vyavasāyātmikā buddhiḥ' — a one-pointed intellect. By contrast, those who are irresolute have many scattered purposes and desires ('bahu-śhākhā' — many-branched). Spiritual progress requires the concentration that comes from a singular committed resolve.",
+    "chapter": 2,
+    "verseNumber": "2.41"
+  },
+  {
+    "verse": 42,
+    "sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः |\nवेदवादरताः पार्थ नान्यदस्तीति वादिनः ||४२||",
+    "transliteration": "yām imāṁ puṣhpitāṁ vāchaṁ pravadanty avipaśhchitaḥ\nveda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ",
+    "translation": "O Partha, those who are without wisdom delight in the flowery words of the Vedas, which advocate actions for the attainment of heaven and declare that there is nothing higher.",
+    "interpretation": "A critique of a superficial approach to scripture: those who mistake the letter of the Vedas for its spirit, who perform rituals solely for heavenly rewards, and who declare that material prosperity and celestial enjoyment are the highest goals. This is 'puṣhpitā vāk' — flowery speech that pleases the ear but does not pierce to the truth.",
+    "chapter": 2,
+    "verseNumber": "2.42"
+  },
+  {
+    "verse": 43,
+    "sanskrit": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् |\nक्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ||४३||",
+    "transliteration": "kāmātmānaḥ svarga-parā janma-karma-phala-pradām\nkriyā-viśheṣha-bahulāṁ bhogaiśhvarya-gatiṁ prati",
+    "translation": "The undiscriminating ones, who are full of desires and intent on heaven as the highest aim of life, are attached to elaborate rituals for attaining pleasures and power.",
+    "interpretation": "These are people whose highest aspiration is material enjoyment, even if in a celestial form. They perform elaborate rituals (kriyā-viśheṣha-bahulāṁ) not for liberation but for power and pleasure. Krishna does not condemn rituals themselves — only the orientation that stops short of liberation.",
+    "chapter": 2,
+    "verseNumber": "2.43"
+  },
+  {
+    "verse": 44,
+    "sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् |\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते ||४४||",
+    "transliteration": "bhogaiśhvarya-prasaktānāṁ tayāpahṛta-chetasām\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate",
+    "translation": "In the minds of those who are too attached to sense enjoyment and material opulence, the resolute determination for God does not take place.",
+    "interpretation": "Attachment to pleasure and power literally prevents the arising of the focused, determined spiritual intelligence (vyavasāyātmikā buddhi). The mind colonized by desire for things cannot simultaneously be fixed on the eternal. This is why renunciation — at least of the attitude of clinging — is the prerequisite for genuine yoga.",
+    "chapter": 2,
+    "verseNumber": "2.44"
+  },
+  {
+    "verse": 45,
+    "sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन |\nनिर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ||४५||",
+    "transliteration": "trai-guṇya-viṣhayā vedā nistrai-guṇyo bhavārjuna\nnirdvandvo nitya-sattva-stho niryoga-kṣhema ātmavān",
+    "translation": "The Vedas deal mainly with the subject of the three modes of material nature. Rise above these three modes, O Arjuna. Be transcendental to all of them. Be free from all dualities and from all anxieties for gain and safety, and be established in the Self.",
+    "interpretation": "A radical invitation: transcend even the Vedas as ordinarily understood. The Vedas operate within the three gunas (sattva, rajas, tamas). Krishna invites Arjuna to go beyond all three — to 'nistraiguṇya' — a state of pure being that underlies all three qualities. This is the state of Self-established, desireless freedom.",
+    "chapter": 2,
+    "verseNumber": "2.45"
+  },
+  {
+    "verse": 46,
+    "sanskrit": "यावानर्थ उदपाने सर्वतः सम्प्लुतोदके |\nतावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ||४६||",
+    "transliteration": "yāvān artha udapāne sarvataḥ samplutodake\ntāvān sarveṣhu vedeṣhu brāhmaṇasya vijānataḥ",
+    "translation": "All purposes served by a small well can at once be served by a great reservoir of water. Similarly, all the purposes of the Vedas can be served by one who knows the Supreme Brahman.",
+    "interpretation": "A beautiful analogy: just as a small well becomes irrelevant when surrounded by a vast reservoir, all the specific prescriptions of the Vedas are superseded for the one who has realized Brahman. Such a one has the source of all the Vedas' power — direct knowledge of Truth. The Vedas are a raft to cross the river; those who have reached the far shore do not carry the raft.",
+    "chapter": 2,
+    "verseNumber": "2.46"
+  },
+  {
+    "verse": 47,
+    "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||४७||",
+    "transliteration": "karmaṇy evādhikāras te mā phaleṣhu kadāchana\nmā karma-phala-hetur bhūr mā te saṅgo'stvakarmaṇi",
+    "translation": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.",
+    "interpretation": "The most quoted verse of the Bhagavad Gita — the heart of the teaching of Nishkama Karma (desireless action). Four instructions in one verse: (1) You have the right to act. (2) You have no right to the fruits — they are not yours to claim. (3) Do not consider yourself the ultimate cause of the results (the divine will, karma, and countless other factors determine outcomes). (4) Do not use the principle of non-attachment as an excuse for inaction. This is not passive fatalism — it is the highest form of engaged action: complete commitment to the deed, total release of the result.",
+    "chapter": 2,
+    "verseNumber": "2.47"
+  },
+  {
+    "verse": 48,
+    "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ||४८||",
+    "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanaṁjaya\nsiddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate",
+    "translation": "Be steadfast in yoga, O Arjuna. Perform your duty, giving up attachment to success and failure. Such equanimity is called yoga.",
+    "interpretation": "Yoga is defined here as 'samatvam' — equanimity, the state of being equally balanced in success and failure. This is not indifference but a deep centeredness. The yogi acts fully and completely, without being internally moved by whether the action succeeds or fails. The action is dedicated; the result is released.",
+    "chapter": 2,
+    "verseNumber": "2.48"
+  },
+  {
+    "verse": 49,
+    "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय |\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ||४९||",
+    "transliteration": "dūreṇa hy avaraṁ karma buddhi-yogād dhanaṁjaya\nbuddhau śharaṇam anvichha kṛpaṇāḥ phala-hetavaḥ",
+    "translation": "O Dhananjaya, keep all abominable activities far distant by devotional service, and in that consciousness surrender unto the Lord. Those who want to enjoy the fruits of their work are misers.",
+    "interpretation": "Action done for results ('phala-hetu') is called 'kripana' — miserly. The miser clutches at fruits instead of surrendering them. True yoga is 'buddhi-yoga' — action guided by the purified intellect that sees through all things to the divine. The refuge is in the higher wisdom, not in the clinging to outcomes.",
+    "chapter": 2,
+    "verseNumber": "2.49"
+  },
+  {
+    "verse": 50,
+    "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते |\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ||५०||",
+    "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣhkṛte\ntasmād yogāya yujyasva yogaḥ karmasu kauśhalam",
+    "translation": "A man engaged in devotional service rids himself of both good and evil actions even in this life. Therefore strive for yoga, which is the art of all work.",
+    "interpretation": "The yoga path transcends both good karma and bad karma — both lead to further entanglement in the cycle of birth and death. The one who acts from spiritual wisdom, without attachment, accumulates neither good karma (which leads to heaven, then re-birth) nor bad karma. 'Yoga is the art (kaushalum) in all actions' — the highest skill is the skill of acting without being bound by the action.",
+    "chapter": 2,
+    "verseNumber": "2.50"
+  },
+  {
+    "verse": 51,
+    "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः |\nजन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ||५१||",
+    "transliteration": "karma-jaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣhiṇaḥ\njanma-bandha-vinirmuktāḥ padaṁ gachchhanty anāmayam",
+    "translation": "By thus engaging in devotional service to the Lord, great sages have freed themselves from the cycle of birth and death and reached a state beyond all miseries.",
+    "interpretation": "Renouncing the fruits of karma-born actions, the wise (manīṣhiṇaḥ) are freed from the bonds of rebirth and reach the state of no suffering (anāmayam). This is not a promise for the future — it is a description of what happens when the yoga of wisdom is genuinely practiced.",
+    "chapter": 2,
+    "verseNumber": "2.51"
+  },
+  {
+    "verse": 52,
+    "sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति |\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ||५२||",
+    "transliteration": "yadā te moha-kalilaṁ buddhir vyatitariṣhyati\ntadā gantāsi nirvedaṁ śhrotavyasya śhrutasya cha",
+    "translation": "When your intelligence has passed out of the dense forest of delusion, you shall become indifferent to all that has been heard and all that is to be heard.",
+    "interpretation": "The 'dense forest of delusion' (moha-kalila) is a vivid metaphor for the confused mind. When the intellect rises above this fog, one attains 'nirveda' — a state of desirelessness or indifference to all scriptural injunctions for pleasure and attainment. Not because scripture is false, but because one has gone beyond what scripture can give.",
+    "chapter": 2,
+    "verseNumber": "2.52"
+  },
+  {
+    "verse": 53,
+    "sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला |\nसमाधावचला बुद्धिस्तदा योगमवाप्स्यसि ||५३||",
+    "transliteration": "śhruti-vipratipannā te yadā sthāsyati niśhchalā\nsamādhāv achalā buddhis tadā yogam avāpsyasi",
+    "translation": "When your mind is no longer disturbed by the flowery language of the Vedas, and when it remains fixed in the trance of self-realization, then you will have attained divine consciousness.",
+    "interpretation": "The scattered, distracted intellect — pulled this way and that by the promises of different Vedic prescriptions — must settle into unmovable stability. When the intellect is fixed in samadhi (the state of deep meditative absorption in the Self), yoga — the state of union with the divine — is achieved.",
+    "chapter": 2,
+    "verseNumber": "2.53"
+  },
+  {
+    "verse": 54,
+    "sanskrit": "अर्जुन उवाच |\nस्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव |\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ||५४||",
+    "transliteration": "arjuna uvācha\nsthita-prajñasya kā bhāṣhā samādhi-sthasya keśhava\nsthita-dhīḥ kiṁ prabhāṣheta kim āsīta vrajeta kim",
+    "translation": "Arjuna said: O Keshava, what is the description of one who has stabilized wisdom and is situated in transcendence? How does he speak? How does he sit? How does he walk?",
+    "interpretation": "Arjuna asks a practical question: what does an enlightened person actually look like? How do we recognize them? The question is not merely academic — it is the question of what genuine spiritual development looks like in human life. Krishna's answer (verses 55-72) constitutes the famous 'Sthitaprajna' passage — the description of the person of steady wisdom.",
+    "chapter": 2,
+    "verseNumber": "2.54"
+  },
+  {
+    "verse": 55,
+    "sanskrit": "श्रीभगवानुवाच |\nप्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् |\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ||५५||",
+    "transliteration": "śhrī bhagavān uvācha\nprajahāti yadā kāmān sarvān pārtha mano-gatān\nātmany evātmanā tuṣhṭaḥ sthita-prajñas tadochyate",
+    "translation": "The Supreme Lord said: O Partha, when a man gives up all varieties of desire for sense gratification, which arise from mental concoction, and when his mind is purified and he finds satisfaction in the self alone, then he is said to be in pure transcendental consciousness.",
+    "interpretation": "The first characteristic of the Sthitaprajna: all desires arising from the mind have been abandoned. Not suppressed — abandoned. The mind is not at war with itself, grasping for desires while trying to renounce them. Instead, it has found genuine contentment in the Self alone. This is the satisfaction that does not depend on any external object.",
+    "chapter": 2,
+    "verseNumber": "2.55"
+  },
+  {
+    "verse": 56,
+    "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः |\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||५६||",
+    "transliteration": "duḥkheṣhv anudvigna-manāḥ sukheṣhu vigata-spṛhaḥ\nvīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate",
+    "translation": "One who is not disturbed in mind even amidst the threefold miseries, or elated when there is happiness, and who is free from attachment, fear, and anger, is called a sage of steady mind.",
+    "interpretation": "Three pairs of qualities define steady wisdom: not disturbed in pain, not excited in pleasure (equanimity); free from attachment, free from fear, free from anger. These six qualities — or rather three freedoms — describe a person whose inner stability is independent of external events. They feel but are not swept away.",
+    "chapter": 2,
+    "verseNumber": "2.56"
+  },
+  {
+    "verse": 57,
+    "sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् |\nनाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ||५७||",
+    "transliteration": "yaḥ sarvatrānabhisnehas tat tat prāpya śhubhāśhubham\nnābhinandati na dveṣhṭi tasya prajñā pratiṣhṭhitā",
+    "translation": "In the material world, one who is unaffected by whatever good or evil he may obtain, who neither praises nor hates — his wisdom is firmly established.",
+    "interpretation": "The wise person is 'anabhisneha' — without emotional attachment to things received. Good or evil, praise or blame, fortune or misfortune — none of it triggers elation ('nābhinandati') or resentment ('na dveṣhṭi'). The wisdom is 'pratiṣhṭhitā' — established, grounded, unshakeable.",
+    "chapter": 2,
+    "verseNumber": "2.57"
+  },
+  {
+    "verse": 58,
+    "sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः |\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||५८||",
+    "transliteration": "yadā saṁharate chāyaṁ kūrmo'ṅgānīva sarvaśhaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā",
+    "translation": "One who is able to withdraw his senses from sense objects, as a tortoise draws its limbs within the shell, is firmly fixed in perfect consciousness.",
+    "interpretation": "The tortoise metaphor for sense-withdrawal (pratyahara): just as a tortoise pulls all its limbs into its shell when threatened, the wise person can withdraw the senses from their objects at will. This is not the forced suppression of desires but the natural withdrawal that comes when the Self has been found to be more satisfying than any sensory experience.",
+    "chapter": 2,
+    "verseNumber": "2.58"
+  },
+  {
+    "verse": 59,
+    "sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः |\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ||५९||",
+    "transliteration": "viṣhayā vinivartante nirāhārasya dehinaḥ\nrasa-varjaṁ raso'py asya paraṁ dṛṣṭvā nivartate",
+    "translation": "Though the embodied soul may be restricted from sense enjoyment, the taste for sense objects remains. But ceasing such engagements by experiencing a higher taste, he is fixed in consciousness.",
+    "interpretation": "Mere physical restraint doesn't eliminate desire — the 'rasa' (taste, relish) for sensory objects remains even when the objects are denied. True freedom from desire comes only by finding the 'para' (the supreme) — the higher taste of the Self. When one discovers the sweetness of the divine, the sweetness of the sensory world naturally fades in comparison.",
+    "chapter": 2,
+    "verseNumber": "2.59"
+  },
+  {
+    "verse": 60,
+    "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः |\nइन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ||६०||",
+    "transliteration": "yatato hy api kaunteya puruṣhasya vipaśhchitaḥ\nindriyāṇi pramāthīni haranti prasabhaṁ manaḥ",
+    "translation": "The senses are so strong and impetuous, O Arjuna, that they forcibly carry away the mind even of a man of discrimination who is endeavoring to control them.",
+    "interpretation": "Even a wise person striving for control can be swept away by the 'pramāthīni' senses — the turbulent, churning senses. This is an honest acknowledgment that the spiritual path is not easy. The senses are powerful. Effort alone is not enough — one needs the grace of a higher realization.",
+    "chapter": 2,
+    "verseNumber": "2.60"
+  },
+  {
+    "verse": 61,
+    "sanskrit": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः |\nवशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ||६१||",
+    "transliteration": "tāni sarvāṇi saṁyamya yukta āsīta mat-paraḥ\nvaśhe hi yasyendriyāṇi tasya prajñā pratiṣhṭhitā",
+    "translation": "One who restrains his senses, keeping them under full control, and fixes his consciousness upon Me, is known as a man of steady intelligence.",
+    "interpretation": "The solution to the problem of unruly senses: restrain them through orientation toward the divine ('mat-paraḥ' — Me as the supreme). The person whose senses are under control has wisdom firmly established. The key is not mere suppression but the redirecting of attention to Krishna — the Supreme Self. Love for the divine is the most powerful force for sense-control.",
+    "chapter": 2,
+    "verseNumber": "2.61"
+  },
+  {
+    "verse": 62,
+    "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते |\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ||६२||",
+    "transliteration": "dhyāyato viṣhayān puṁsaḥ saṅgas teṣhūpajāyate\nsaṅgāt sañjāyate kāmaḥ kāmāt krodho'bhijāyate",
+    "translation": "While contemplating the objects of the senses, a person develops attachment for them, and from such attachment desire arises, and from desire anger arises.",
+    "interpretation": "The chain of psychological degradation: contemplation of sense objects → attachment → desire → anger. The first step — dwelling mentally on the objects of the senses — is where the process begins. Every step follows inevitably from the last. This is why the Gita places such emphasis on where the mind rests, what it contemplates.",
+    "chapter": 2,
+    "verseNumber": "2.62"
+  },
+  {
+    "verse": 63,
+    "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः |\nस्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ||६३||",
+    "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛti-vibhramaḥ\nsmṛti-bhraṁśhād buddhi-nāśho buddhi-nāśhāt praṇaśhyati",
+    "translation": "From anger, complete delusion arises; from delusion comes bewilderment of memory; when memory is bewildered, intelligence is lost; and when intelligence is lost one falls down again into the material pool.",
+    "interpretation": "The chain continues: anger → delusion (sammohah) → memory-loss → intelligence-destroyed → complete ruin. This is the full 'fall of man' in the Gita's psychology. What begins with mere contemplation of a sense object ends in total spiritual collapse. The teaching underscores the importance of vigilance at the very first step — the direction of attention.",
+    "chapter": 2,
+    "verseNumber": "2.63"
+  },
+  {
+    "verse": 64,
+    "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् |\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ||६४||",
+    "transliteration": "rāga-dveṣha-viyuktais tu viṣhayān indriyaiśh charan\nātma-vaśhyair vidheyātmā prasādam adhigachchhati",
+    "translation": "But a person free from all attachment and aversion is able to control his senses through regulative principles, and can obtain the complete mercy of the Lord.",
+    "interpretation": "The alternative path: senses governed not by desire and hatred but by the higher Self, moving through the sensory world without being captured by it. Such a person attains 'prasada' — grace, serenity, divine favor. The senses are not enemies to be destroyed but instruments to be refined.",
+    "chapter": 2,
+    "verseNumber": "2.64"
+  },
+  {
+    "verse": 65,
+    "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते |\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ||६५||",
+    "transliteration": "prasāde sarva-duḥkhānāṁ hānir asyopajāyate\nprasanna-chetaso hy āśhu buddhiḥ paryavatiṣhṭhate",
+    "translation": "For one who is so situated, the threefold miseries of material existence exist no longer. In such a happy state of mind, one's intelligence is soon well established.",
+    "interpretation": "Prasada (serene clarity) destroys all suffering. When the mind is clear and serene, the intellect rapidly stabilizes in wisdom. This is the opposite of the previous chain (contemplation → desire → anger → destruction). The positive chain: clarity → equanimity → wisdom → liberation.",
+    "chapter": 2,
+    "verseNumber": "2.65"
+  },
+  {
+    "verse": 66,
+    "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ||६६||",
+    "transliteration": "nāsti buddhir ayuktasya na chāyuktasya bhāvanā\nna chābhāvayataḥ śhāntir aśhāntasya kutaḥ sukham",
+    "translation": "One who is not connected with the Supreme (ayukta) can have neither transcendental intelligence nor a steady mind. Without such a mind there is no possibility of peace; and how can there be any happiness without peace?",
+    "interpretation": "A chain of necessity: without yoga (connection with the divine), no stable intellect. Without stable intellect, no meditative focus. Without meditative focus, no peace (shanti). Without peace, no happiness. This is the logic of the spiritual life — happiness is not found by pursuing happiness but by purifying the inner life.",
+    "chapter": 2,
+    "verseNumber": "2.66"
+  },
+  {
+    "verse": 67,
+    "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते |\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ||६७||",
+    "transliteration": "indriyāṇāṁ hi charatāṁ yan mano'nuvidhīyate\ntad asya harati prajñāṁ vāyur nāvam ivāmbhasi",
+    "translation": "Just as a strong wind sweeps a boat off its determined course on the water, even one of the roaming senses on which the mind focuses can carry away a man's intelligence.",
+    "interpretation": "The vivid image of a boat swept by wind: even one sense object, when the mind runs after it, can blow the entire vessel of wisdom off course. This is the danger of the unguarded mind. All spiritual disciplines — meditation, prayer, study — serve to keep the boat on course despite the winds of sensory temptation.",
+    "chapter": 2,
+    "verseNumber": "2.67"
+  },
+  {
+    "verse": 68,
+    "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः |\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||६८||",
+    "transliteration": "tasmād yasya mahā-bāho nigṛhītāni sarvaśhaḥ\nindriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā",
+    "translation": "Therefore, O mighty-armed, one whose senses are restrained from their objects is certainly of steady intelligence.",
+    "interpretation": "The conclusion: the person whose senses are fully restrained from running after their objects ('nigṛhītāni sarvaśhaḥ' — withdrawn in every respect) possesses firmly established wisdom. This is the culmination of the Sthitaprajna description — the fully integrated being whose inner and outer life are in alignment.",
+    "chapter": 2,
+    "verseNumber": "2.68"
+  },
+  {
+    "verse": 69,
+    "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी |\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ||६९||",
+    "transliteration": "yā niśhā sarva-bhūtānāṁ tasyāṁ jāgarti saṁyamī\nyasyāṁ jāgrati bhūtāni sā niśhā paśhyato muneḥ",
+    "translation": "What is night for all beings is the time of awakening for the self-controlled; and the time of awakening for all beings is night for the introspective sage.",
+    "interpretation": "One of the most poetic verses in the Gita. The ordinary person is asleep to the spiritual reality (which is the true 'day' for the sage), while the sage is asleep to the sensory world (which is the true 'day' for ordinary people). Their orientations are exactly reversed. The sage is awake where others sleep (to the Self) and at rest where others are active (in the world of sense).",
+    "chapter": 2,
+    "verseNumber": "2.69"
+  },
+  {
+    "verse": 70,
+    "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत् |\nतद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी ||७०||",
+    "transliteration": "āpūryamāṇam achala-pratiṣhṭhaṁ samudram āpaḥ praviśhanti yadvat\ntadvat kāmā yaṁ praviśhanti sarve sa śhāntim āpnoti na kāma-kāmī",
+    "translation": "A person who is not disturbed by the incessant flow of desires — that enter like rivers into the ocean, which is ever being filled but is always still — can alone achieve peace, and not the man who strives to satisfy such desires.",
+    "interpretation": "The ocean-metaphor for the sage: rivers continuously flow into the ocean, but the ocean maintains its stillness and does not overflow. Similarly, desires continuously enter the sage's life, but the sage is unmoved — they flow in and are absorbed without disturbing the inner peace. The one who chases desires (kāma-kāmī) never finds peace; the one who remains like the ocean does.",
+    "chapter": 2,
+    "verseNumber": "2.70"
+  },
+  {
+    "verse": 71,
+    "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः |\nनिर्ममो निरहङ्कारः स शान्तिमधिगच्छति ||७१||",
+    "transliteration": "vihāya kāmān yaḥ sarvān pumāṁśh charati niḥspṛhaḥ\nnirmamo nirahaṅkāraḥ sa śhāntim adhigachchhati",
+    "translation": "A person who has given up all desires for sense gratification, who lives free from desires, who has given up all sense of proprietorship, and is devoid of false ego — he alone can attain real peace.",
+    "interpretation": "Three freedoms characterize the one who has attained peace: 'niḥspṛhaḥ' (free from craving), 'nirmama' (free from the sense of 'mine' — possessiveness), and 'nirahaṅkāra' (free from the false ego — the identification of the Self with the body and social role). These three together describe the complete dissolution of the separate, grasping self.",
+    "chapter": 2,
+    "verseNumber": "2.71"
+  },
+  {
+    "verse": 72,
+    "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति |\nस्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ||७२||",
+    "transliteration": "eṣhā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati\nsthitvāsyām anta-kāle'pi brahma-nirvāṇam ṛchchhati",
+    "translation": "That is the way of the spiritual and godly life, after attaining which a man is not bewildered. If one is thus situated even at the hour of death, one can enter into the kingdom of God.",
+    "interpretation": "The concluding verse of Chapter 2: 'Brahmi sthiti' — the state of being established in Brahman. Once attained, it cannot be lost. Even at the moment of death — the ultimate test — one who is established in this state attains Brahma-Nirvana: liberation, the final cessation of the cycle of birth and death. The entire teaching of Chapter 2 ends with the ultimate goal clearly named: freedom, liberation, the kingdom of God.",
+    "chapter": 2,
+    "verseNumber": "2.72"
+  }
+]
