@@ -18,6 +18,7 @@ import {
   X,
 } from "lucide-react";
 import { ChapterMetadata, GitaData, Language, Verse, loadGitaData } from "@/lib/gitaData";
+import { Link } from "wouter";
 
 const chapterMoods = ["The question", "The witness", "The work", "The fire", "The release", "The stillness", "The knowing", "The threshold", "The offering", "The radiance", "The vision", "The devotion", "The field", "The qualities", "The supreme", "The divine", "The faith", "The freedom"];
 const chapterColors = ["ochre", "indigo", "vermilion", "sage"];
@@ -35,22 +36,21 @@ function findVerse(verses: Verse[] | undefined, number: number) {
   return verses?.find((verse) => verse.verse === number);
 }
 
-function ChapterRow({ chapter, active, onSelect }: { chapter: ChapterMetadata; active: boolean; onSelect: () => void }) {
+function ChapterRow({ chapter }: { chapter: ChapterMetadata }) {
   const index = chapter.chapter - 1;
   return (
-    <button className={`chapter-row ${active ? "chapter-row--active" : ""}`} onClick={onSelect} role="listitem">
+    <Link className="chapter-row" href={`/chapter/${chapter.chapter}`} role="listitem">
       <span className={`chapter-dot chapter-dot--${chapterColors[index % chapterColors.length]}`} />
       <span className="chapter-index">{String(chapter.chapter).padStart(2, "0")}</span>
       <span className="chapter-name">{chapter.title}</span>
       <span className="chapter-mood">{chapterMoods[index]}</span>
       <ChevronRight size={17} className="chapter-arrow" />
-    </button>
+    </Link>
   );
 }
 
 export default function Home() {
   const [menuOpen, setMenuOpen] = useState(false);
-  const [activeChapter, setActiveChapter] = useState(1);
   const [language, setLanguage] = useState<Language>("en");
   const [saved, setSaved] = useState(false);
   const [copied, setCopied] = useState(false);
@@ -86,7 +86,7 @@ export default function Home() {
   }, []);
 
   const chapters = data?.chapters ?? [];
-  const selectedChapter = chapters.find((chapter) => chapter.chapter === activeChapter) ?? chapters[0];
+  const selectedChapter = chapters[0];
   const selectedVerses = selectedChapter ? data?.verses[language][selectedChapter.chapter] : undefined;
   const selectedFirstVerse = selectedVerses?.[0];
   const dailyVerseEnglish = findVerse(data?.verses.en[2], 47);
@@ -170,7 +170,7 @@ export default function Home() {
               <div className="chapter-list" role="list" aria-label="All Bhagavad Gita chapters">
                 {loading && <p className="data-status">Opening the chapter index…</p>}
                 {error && <p className="data-status data-status--error">The source text could not be opened. Please refresh to try again.</p>}
-                {chapters.map((chapter) => <ChapterRow key={chapter.chapter} chapter={chapter} active={chapter.chapter === activeChapter} onSelect={() => setActiveChapter(chapter.chapter)} />)}
+                {chapters.map((chapter) => <ChapterRow key={chapter.chapter} chapter={chapter} />)}
                 {!loading && !error && <p className="data-source-note">Chapter metadata and verse counts loaded from the supplied `chapters.json`.</p>}
               </div>
               <div className="chapter-feature" key={selectedChapter?.chapter ?? "loading"}>
@@ -181,7 +181,7 @@ export default function Home() {
                   <h3>{selectedChapter?.title ?? "18 chapters, one conversation"}</h3>
                   <p>{selectedChapter?.description ?? "The supplied chapter metadata will appear here as the reading room opens."}</p>
                   {selectedFirstVerse && <p className="feature-verse"><span>Verse {selectedFirstVerse.verseNumber}</span> {truncate(selectedFirstVerse.translation, 150)}</p>}
-                  <button className="text-button text-button--dark" onClick={() => scrollToId("verse")}>Enter this chapter <ArrowUpRight size={15} /></button>
+                  <Link className="text-button text-button--dark" href={`/chapter/${selectedChapter?.chapter ?? 1}`}>Enter this chapter <ArrowUpRight size={15} /></Link>
                 </div>
               </div>
             </div>
