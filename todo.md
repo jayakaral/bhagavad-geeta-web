@@ -50,6 +50,55 @@
 
 **Completion status:** All **330** requested audio outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/11/{verse}/` folder from Verse 1 through Verse 55. The individual rows below are retained as the requested pre-generation audit record.
 
+## Chapter 10 Verse Audio Checklist — Verses 1–42
+
+**Completion status:** All **252** requested audio outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/10/{verse}/` folder from Verse 1 through Verse 42. The individual rows below are retained as the requested pre-generation audit record.
+
+Each todo below requires six separate single-verse files: Sanskrit male, Sanskrit female, English male, English female, Hindi male, and Hindi female.
+
+- [ ] Chapter 10 Verse 01 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 02 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 03 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 04 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 05 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 06 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 07 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 08 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 09 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 10 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 11 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 12 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 13 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 14 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 15 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 16 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 17 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 18 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 19 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 20 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 21 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 22 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 23 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 24 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 25 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 26 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 27 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 28 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 29 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 30 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 31 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 32 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 33 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 34 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 35 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 36 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 37 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 38 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 39 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 40 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 41 — generate six standalone audio variants
+- [ ] Chapter 10 Verse 42 — generate six standalone audio variants
+
 Each todo below requires six separate single-verse files: Sanskrit male, Sanskrit female, English male, English female, Hindi male, and Hindi female.
 
 - [ ] Chapter 11 Verse 01 — generate six standalone audio variants
