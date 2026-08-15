@@ -34,6 +34,226 @@
 
 **Completion status:** All **120** listed language-and-voice outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/15/{verse}/` folder from Verse 1 through Verse 20. The individual rows below are retained as the requested pre-generation audit record.
 
+## Chapter 14 Verse Audio Checklist — Verses 1–27
+
+**Completion status:** All **162** listed language-and-voice outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/14/{verse}/` folder from Verse 1 through Verse 27. The individual rows below are retained as the requested pre-generation audit record.
+
+### Verse 1
+- [ ] Chapter 14 Verse 01 — Sanskrit male audio
+- [ ] Chapter 14 Verse 01 — Sanskrit female audio
+- [ ] Chapter 14 Verse 01 — English male audio
+- [ ] Chapter 14 Verse 01 — English female audio
+- [ ] Chapter 14 Verse 01 — Hindi male audio
+- [ ] Chapter 14 Verse 01 — Hindi female audio
+
+### Verse 2
+- [ ] Chapter 14 Verse 02 — Sanskrit male audio
+- [ ] Chapter 14 Verse 02 — Sanskrit female audio
+- [ ] Chapter 14 Verse 02 — English male audio
+- [ ] Chapter 14 Verse 02 — English female audio
+- [ ] Chapter 14 Verse 02 — Hindi male audio
+- [ ] Chapter 14 Verse 02 — Hindi female audio
+
+### Verse 3
+- [ ] Chapter 14 Verse 03 — Sanskrit male audio
+- [ ] Chapter 14 Verse 03 — Sanskrit female audio
+- [ ] Chapter 14 Verse 03 — English male audio
+- [ ] Chapter 14 Verse 03 — English female audio
+- [ ] Chapter 14 Verse 03 — Hindi male audio
+- [ ] Chapter 14 Verse 03 — Hindi female audio
+
+### Verse 4
+- [ ] Chapter 14 Verse 04 — Sanskrit male audio
+- [ ] Chapter 14 Verse 04 — Sanskrit female audio
+- [ ] Chapter 14 Verse 04 — English male audio
+- [ ] Chapter 14 Verse 04 — English female audio
+- [ ] Chapter 14 Verse 04 — Hindi male audio
+- [ ] Chapter 14 Verse 04 — Hindi female audio
+
+### Verse 5
+- [ ] Chapter 14 Verse 05 — Sanskrit male audio
+- [ ] Chapter 14 Verse 05 — Sanskrit female audio
+- [ ] Chapter 14 Verse 05 — English male audio
+- [ ] Chapter 14 Verse 05 — English female audio
+- [ ] Chapter 14 Verse 05 — Hindi male audio
+- [ ] Chapter 14 Verse 05 — Hindi female audio
+
+### Verse 6
+- [ ] Chapter 14 Verse 06 — Sanskrit male audio
+- [ ] Chapter 14 Verse 06 — Sanskrit female audio
+- [ ] Chapter 14 Verse 06 — English male audio
+- [ ] Chapter 14 Verse 06 — English female audio
+- [ ] Chapter 14 Verse 06 — Hindi male audio
+- [ ] Chapter 14 Verse 06 — Hindi female audio
+
+### Verse 7
+- [ ] Chapter 14 Verse 07 — Sanskrit male audio
+- [ ] Chapter 14 Verse 07 — Sanskrit female audio
+- [ ] Chapter 14 Verse 07 — English male audio
+- [ ] Chapter 14 Verse 07 — English female audio
+- [ ] Chapter 14 Verse 07 — Hindi male audio
+- [ ] Chapter 14 Verse 07 — Hindi female audio
+
+### Verse 8
+- [ ] Chapter 14 Verse 08 — Sanskrit male audio
+- [ ] Chapter 14 Verse 08 — Sanskrit female audio
+- [ ] Chapter 14 Verse 08 — English male audio
+- [ ] Chapter 14 Verse 08 — English female audio
+- [ ] Chapter 14 Verse 08 — Hindi male audio
+- [ ] Chapter 14 Verse 08 — Hindi female audio
+
+### Verse 9
+- [ ] Chapter 14 Verse 09 — Sanskrit male audio
+- [ ] Chapter 14 Verse 09 — Sanskrit female audio
+- [ ] Chapter 14 Verse 09 — English male audio
+- [ ] Chapter 14 Verse 09 — English female audio
+- [ ] Chapter 14 Verse 09 — Hindi male audio
+- [ ] Chapter 14 Verse 09 — Hindi female audio
+
+### Verse 10
+- [ ] Chapter 14 Verse 10 — Sanskrit male audio
+- [ ] Chapter 14 Verse 10 — Sanskrit female audio
+- [ ] Chapter 14 Verse 10 — English male audio
+- [ ] Chapter 14 Verse 10 — English female audio
+- [ ] Chapter 14 Verse 10 — Hindi male audio
+- [ ] Chapter 14 Verse 10 — Hindi female audio
+
+### Verse 11
+- [ ] Chapter 14 Verse 11 — Sanskrit male audio
+- [ ] Chapter 14 Verse 11 — Sanskrit female audio
+- [ ] Chapter 14 Verse 11 — English male audio
+- [ ] Chapter 14 Verse 11 — English female audio
+- [ ] Chapter 14 Verse 11 — Hindi male audio
+- [ ] Chapter 14 Verse 11 — Hindi female audio
+
+### Verse 12
+- [ ] Chapter 14 Verse 12 — Sanskrit male audio
+- [ ] Chapter 14 Verse 12 — Sanskrit female audio
+- [ ] Chapter 14 Verse 12 — English male audio
+- [ ] Chapter 14 Verse 12 — English female audio
+- [ ] Chapter 14 Verse 12 — Hindi male audio
+- [ ] Chapter 14 Verse 12 — Hindi female audio
+
+### Verse 13
+- [ ] Chapter 14 Verse 13 — Sanskrit male audio
+- [ ] Chapter 14 Verse 13 — Sanskrit female audio
+- [ ] Chapter 14 Verse 13 — English male audio
+- [ ] Chapter 14 Verse 13 — English female audio
+- [ ] Chapter 14 Verse 13 — Hindi male audio
+- [ ] Chapter 14 Verse 13 — Hindi female audio
+
+### Verse 14
+- [ ] Chapter 14 Verse 14 — Sanskrit male audio
+- [ ] Chapter 14 Verse 14 — Sanskrit female audio
+- [ ] Chapter 14 Verse 14 — English male audio
+- [ ] Chapter 14 Verse 14 — English female audio
+- [ ] Chapter 14 Verse 14 — Hindi male audio
+- [ ] Chapter 14 Verse 14 — Hindi female audio
+
+### Verse 15
+- [ ] Chapter 14 Verse 15 — Sanskrit male audio
+- [ ] Chapter 14 Verse 15 — Sanskrit female audio
+- [ ] Chapter 14 Verse 15 — English male audio
+- [ ] Chapter 14 Verse 15 — English female audio
+- [ ] Chapter 14 Verse 15 — Hindi male audio
+- [ ] Chapter 14 Verse 15 — Hindi female audio
+
+### Verse 16
+- [ ] Chapter 14 Verse 16 — Sanskrit male audio
+- [ ] Chapter 14 Verse 16 — Sanskrit female audio
+- [ ] Chapter 14 Verse 16 — English male audio
+- [ ] Chapter 14 Verse 16 — English female audio
+- [ ] Chapter 14 Verse 16 — Hindi male audio
+- [ ] Chapter 14 Verse 16 — Hindi female audio
+
+### Verse 17
+- [ ] Chapter 14 Verse 17 — Sanskrit male audio
+- [ ] Chapter 14 Verse 17 — Sanskrit female audio
+- [ ] Chapter 14 Verse 17 — English male audio
+- [ ] Chapter 14 Verse 17 — English female audio
+- [ ] Chapter 14 Verse 17 — Hindi male audio
+- [ ] Chapter 14 Verse 17 — Hindi female audio
+
+### Verse 18
+- [ ] Chapter 14 Verse 18 — Sanskrit male audio
+- [ ] Chapter 14 Verse 18 — Sanskrit female audio
+- [ ] Chapter 14 Verse 18 — English male audio
+- [ ] Chapter 14 Verse 18 — English female audio
+- [ ] Chapter 14 Verse 18 — Hindi male audio
+- [ ] Chapter 14 Verse 18 — Hindi female audio
+
+### Verse 19
+- [ ] Chapter 14 Verse 19 — Sanskrit male audio
+- [ ] Chapter 14 Verse 19 — Sanskrit female audio
+- [ ] Chapter 14 Verse 19 — English male audio
+- [ ] Chapter 14 Verse 19 — English female audio
+- [ ] Chapter 14 Verse 19 — Hindi male audio
+- [ ] Chapter 14 Verse 19 — Hindi female audio
+
+### Verse 20
+- [ ] Chapter 14 Verse 20 — Sanskrit male audio
+- [ ] Chapter 14 Verse 20 — Sanskrit female audio
+- [ ] Chapter 14 Verse 20 — English male audio
+- [ ] Chapter 14 Verse 20 — English female audio
+- [ ] Chapter 14 Verse 20 — Hindi male audio
+- [ ] Chapter 14 Verse 20 — Hindi female audio
+
+### Verse 21
+- [ ] Chapter 14 Verse 21 — Sanskrit male audio
+- [ ] Chapter 14 Verse 21 — Sanskrit female audio
+- [ ] Chapter 14 Verse 21 — English male audio
+- [ ] Chapter 14 Verse 21 — English female audio
+- [ ] Chapter 14 Verse 21 — Hindi male audio
+- [ ] Chapter 14 Verse 21 — Hindi female audio
+
+### Verse 22
+- [ ] Chapter 14 Verse 22 — Sanskrit male audio
+- [ ] Chapter 14 Verse 22 — Sanskrit female audio
+- [ ] Chapter 14 Verse 22 — English male audio
+- [ ] Chapter 14 Verse 22 — English female audio
+- [ ] Chapter 14 Verse 22 — Hindi male audio
+- [ ] Chapter 14 Verse 22 — Hindi female audio
+
+### Verse 23
+- [ ] Chapter 14 Verse 23 — Sanskrit male audio
+- [ ] Chapter 14 Verse 23 — Sanskrit female audio
+- [ ] Chapter 14 Verse 23 — English male audio
+- [ ] Chapter 14 Verse 23 — English female audio
+- [ ] Chapter 14 Verse 23 — Hindi male audio
+- [ ] Chapter 14 Verse 23 — Hindi female audio
+
+### Verse 24
+- [ ] Chapter 14 Verse 24 — Sanskrit male audio
+- [ ] Chapter 14 Verse 24 — Sanskrit female audio
+- [ ] Chapter 14 Verse 24 — English male audio
+- [ ] Chapter 14 Verse 24 — English female audio
+- [ ] Chapter 14 Verse 24 — Hindi male audio
+- [ ] Chapter 14 Verse 24 — Hindi female audio
+
+### Verse 25
+- [ ] Chapter 14 Verse 25 — Sanskrit male audio
+- [ ] Chapter 14 Verse 25 — Sanskrit female audio
+- [ ] Chapter 14 Verse 25 — English male audio
+- [ ] Chapter 14 Verse 25 — English female audio
+- [ ] Chapter 14 Verse 25 — Hindi male audio
+- [ ] Chapter 14 Verse 25 — Hindi female audio
+
+### Verse 26
+- [ ] Chapter 14 Verse 26 — Sanskrit male audio
+- [ ] Chapter 14 Verse 26 — Sanskrit female audio
+- [ ] Chapter 14 Verse 26 — English male audio
+- [ ] Chapter 14 Verse 26 — English female audio
+- [ ] Chapter 14 Verse 26 — Hindi male audio
+- [ ] Chapter 14 Verse 26 — Hindi female audio
+
+### Verse 27
+- [ ] Chapter 14 Verse 27 — Sanskrit male audio
+- [ ] Chapter 14 Verse 27 — Sanskrit female audio
+- [ ] Chapter 14 Verse 27 — English male audio
+- [ ] Chapter 14 Verse 27 — English female audio
+- [ ] Chapter 14 Verse 27 — Hindi male audio
+- [ ] Chapter 14 Verse 27 — Hindi female audio
+
 ### Verse 1
 - [ ] Chapter 15 Verse 01 — Sanskrit male audio
 - [ ] Chapter 15 Verse 01 — Sanskrit female audio
