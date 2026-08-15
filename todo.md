@@ -10,6 +10,13 @@
 - [x] Load and render the selected chapter’s imported English and Hindi verses with per-verse detail.
 - [x] Add verse navigation, language switching, copy / bookmark actions, and return links.
 - [x] Validate direct routes, invalid chapter fallback, mobile reading layout, and production build.
+- [x] Preserve the completed local Chapter 5 audio files without deletion until Supabase storage migration is verified.
+- [x] Inspect the available Supabase connection, credentials, and storage bucket configuration.
+- [x] Transfer the Chapter 5 single-verse WAV files to Supabase-compatible object storage using the existing folder structure.
+- [x] Validate remote object count, file accessibility, and audio integrity before changing project references.
+- [x] Compare all 174 uploaded Chapter 5 object names and byte sizes against the local source files.
+- [x] Verify PCM WAV headers for every remotely stored Chapter 5 audio object before repository cleanup.
+- [x] Move repository-blocking Chapter 5 audio assets to a local backup only after validated Supabase storage migration, retaining the exact remote object structure.
 - [ ] Resolve the exact Sanskrit, English, and Hindi source text for Chapter 18, Verse 1.
 - [ ] Generate male and female WAV files for each of the three language variants.
 - [ ] Store exactly six standalone files under `data/audio/18/1/` and verify their audio format.
@@ -61,6 +68,40 @@
 ## Chapter 7 Verse Audio Checklist — Verses 1–30
 
 ## Chapter 6 Verse Audio Checklist — Verses 1–47
+
+## Chapter 5 Verse Audio Checklist — Verses 1–29
+
+**Completion status:** All **174** requested audio outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/5/{verse}/` folder from Verse 1 through Verse 29.
+
+- [x] Chapter 5 Verse 01 — six standalone audio variants generated
+- [x] Chapter 5 Verse 02 — six standalone audio variants generated
+- [x] Chapter 5 Verse 03 — six standalone audio variants generated
+- [x] Chapter 5 Verse 04 — six standalone audio variants generated
+- [x] Chapter 5 Verse 05 — six standalone audio variants generated
+- [x] Chapter 5 Verse 06 — six standalone audio variants generated
+- [x] Chapter 5 Verse 07 — six standalone audio variants generated
+- [x] Chapter 5 Verse 08 — six standalone audio variants generated
+- [x] Chapter 5 Verse 09 — six standalone audio variants generated
+- [x] Chapter 5 Verse 10 — six standalone audio variants generated
+- [x] Chapter 5 Verse 11 — six standalone audio variants generated
+- [x] Chapter 5 Verse 12 — six standalone audio variants generated
+- [x] Chapter 5 Verse 13 — six standalone audio variants generated
+- [x] Chapter 5 Verse 14 — six standalone audio variants generated
+- [x] Chapter 5 Verse 15 — six standalone audio variants generated
+- [x] Chapter 5 Verse 16 — six standalone audio variants generated
+- [x] Chapter 5 Verse 17 — six standalone audio variants generated
+- [x] Chapter 5 Verse 18 — six standalone audio variants generated
+- [x] Chapter 5 Verse 19 — six standalone audio variants generated
+- [x] Chapter 5 Verse 20 — six standalone audio variants generated
+- [x] Chapter 5 Verse 21 — six standalone audio variants generated
+- [x] Chapter 5 Verse 22 — six standalone audio variants generated
+- [x] Chapter 5 Verse 23 — six standalone audio variants generated
+- [x] Chapter 5 Verse 24 — six standalone audio variants generated
+- [x] Chapter 5 Verse 25 — six standalone audio variants generated
+- [x] Chapter 5 Verse 26 — six standalone audio variants generated
+- [x] Chapter 5 Verse 27 — six standalone audio variants generated
+- [x] Chapter 5 Verse 28 — six standalone audio variants generated
+- [x] Chapter 5 Verse 29 — six standalone audio variants generated
 
 **Completion status:** All **282** requested audio outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/6/{verse}/` folder from Verse 1 through Verse 47.
 
