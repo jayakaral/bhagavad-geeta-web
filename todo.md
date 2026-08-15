@@ -38,6 +38,48 @@
 
 **Completion status:** All **162** listed language-and-voice outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/14/{verse}/` folder from Verse 1 through Verse 27. The individual rows below are retained as the requested pre-generation audit record.
 
+## Chapter 13 Verse Audio Checklist — Verses 1–35
+
+**Completion status:** All **210** requested audio outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/13/{verse}/` folder from Verse 1 through Verse 35. The individual rows below are retained as the requested pre-generation audit record.
+
+Each todo below requires six separate single-verse files: Sanskrit male, Sanskrit female, English male, English female, Hindi male, and Hindi female.
+
+- [ ] Chapter 13 Verse 01 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 02 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 03 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 04 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 05 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 06 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 07 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 08 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 09 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 10 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 11 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 12 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 13 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 14 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 15 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 16 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 17 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 18 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 19 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 20 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 21 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 22 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 23 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 24 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 25 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 26 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 27 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 28 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 29 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 30 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 31 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 32 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 33 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 34 — generate six standalone audio variants
+- [ ] Chapter 13 Verse 35 — generate six standalone audio variants
+
 ### Verse 1
 - [ ] Chapter 14 Verse 01 — Sanskrit male audio
 - [ ] Chapter 14 Verse 01 — Sanskrit female audio
