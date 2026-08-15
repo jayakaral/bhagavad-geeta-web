@@ -60,6 +60,58 @@
 
 ## Chapter 7 Verse Audio Checklist — Verses 1–30
 
+## Chapter 6 Verse Audio Checklist — Verses 1–47
+
+**Completion status:** All **282** requested audio outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/6/{verse}/` folder from Verse 1 through Verse 47.
+
+- [x] Chapter 6 Verse 01 — six standalone audio variants generated
+- [x] Chapter 6 Verse 02 — six standalone audio variants generated
+- [x] Chapter 6 Verse 03 — six standalone audio variants generated
+- [x] Chapter 6 Verse 04 — six standalone audio variants generated
+- [x] Chapter 6 Verse 05 — six standalone audio variants generated
+- [x] Chapter 6 Verse 06 — six standalone audio variants generated
+- [x] Chapter 6 Verse 07 — six standalone audio variants generated
+- [x] Chapter 6 Verse 08 — six standalone audio variants generated
+- [x] Chapter 6 Verse 09 — six standalone audio variants generated
+- [x] Chapter 6 Verse 10 — six standalone audio variants generated
+- [x] Chapter 6 Verse 11 — six standalone audio variants generated
+- [x] Chapter 6 Verse 12 — six standalone audio variants generated
+- [x] Chapter 6 Verse 13 — six standalone audio variants generated
+- [x] Chapter 6 Verse 14 — six standalone audio variants generated
+- [x] Chapter 6 Verse 15 — six standalone audio variants generated
+- [x] Chapter 6 Verse 16 — six standalone audio variants generated
+- [x] Chapter 6 Verse 17 — six standalone audio variants generated
+- [x] Chapter 6 Verse 18 — six standalone audio variants generated
+- [x] Chapter 6 Verse 19 — six standalone audio variants generated
+- [x] Chapter 6 Verse 20 — six standalone audio variants generated
+- [x] Chapter 6 Verse 21 — six standalone audio variants generated
+- [x] Chapter 6 Verse 22 — six standalone audio variants generated
+- [x] Chapter 6 Verse 23 — six standalone audio variants generated
+- [x] Chapter 6 Verse 24 — six standalone audio variants generated
+- [x] Chapter 6 Verse 25 — six standalone audio variants generated
+- [x] Chapter 6 Verse 26 — six standalone audio variants generated
+- [x] Chapter 6 Verse 27 — six standalone audio variants generated
+- [x] Chapter 6 Verse 28 — six standalone audio variants generated
+- [x] Chapter 6 Verse 29 — six standalone audio variants generated
+- [x] Chapter 6 Verse 30 — six standalone audio variants generated
+- [x] Chapter 6 Verse 31 — six standalone audio variants generated
+- [x] Chapter 6 Verse 32 — six standalone audio variants generated
+- [x] Chapter 6 Verse 33 — six standalone audio variants generated
+- [x] Chapter 6 Verse 34 — six standalone audio variants generated
+- [x] Chapter 6 Verse 35 — six standalone audio variants generated
+- [x] Chapter 6 Verse 36 — six standalone audio variants generated
+- [x] Chapter 6 Verse 37 — six standalone audio variants generated
+- [x] Chapter 6 Verse 38 — six standalone audio variants generated
+- [x] Chapter 6 Verse 39 — six standalone audio variants generated
+- [x] Chapter 6 Verse 40 — six standalone audio variants generated
+- [x] Chapter 6 Verse 41 — six standalone audio variants generated
+- [x] Chapter 6 Verse 42 — six standalone audio variants generated
+- [x] Chapter 6 Verse 43 — six standalone audio variants generated
+- [x] Chapter 6 Verse 44 — six standalone audio variants generated
+- [x] Chapter 6 Verse 45 — six standalone audio variants generated
+- [x] Chapter 6 Verse 46 — six standalone audio variants generated
+- [x] Chapter 6 Verse 47 — six standalone audio variants generated
+
 **Completion status:** All **180** requested audio outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/7/{verse}/` folder from Verse 1 through Verse 30.
 
 - [x] Chapter 7 Verse 01 — six standalone audio variants generated
