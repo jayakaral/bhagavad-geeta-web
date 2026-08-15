@@ -1,4 +1,4 @@
-"""Generate one standalone WAV file per verse, language, and voice for Chapter 18.
+"""Generate one standalone WAV file per verse, language, and voice for a chapter.
 
 This script intentionally creates each requested output independently. It never joins
 multiple verses into a shared source or output file.
@@ -17,7 +17,6 @@ import edge_tts
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CHAPTER = 18
 VOICE_MAP = {
     "sanskrit": {"male": "hi-IN-MadhurNeural", "female": "hi-IN-SwaraNeural"},
     "english": {"male": "en-IN-PrabhatNeural", "female": "en-IN-NeerjaNeural"},
@@ -25,12 +24,12 @@ VOICE_MAP = {
 }
 
 
-def load_sources() -> tuple[dict[int, dict], dict[int, dict]]:
+def load_sources(chapter: int) -> tuple[dict[int, dict], dict[int, dict]]:
     english = json.loads(
-        (ROOT / "client/public/data/en/chapter_18.json").read_text(encoding="utf-8")
+        (ROOT / f"client/public/data/en/chapter_{chapter}.json").read_text(encoding="utf-8")
     )
     hindi = json.loads(
-        (ROOT / "client/public/data/hi/chapter_18.json").read_text(encoding="utf-8")
+        (ROOT / f"client/public/data/hi/chapter_{chapter}.json").read_text(encoding="utf-8")
     )
     return (
         {int(item["verse"]): item for item in english},
@@ -72,6 +71,7 @@ async def write_one(text: str, voice: str, output: Path) -> None:
 
 
 async def generate_verse(
+    chapter: int,
     verse: int,
     english: dict[int, dict],
     hindi: dict[int, dict],
@@ -84,11 +84,11 @@ async def generate_verse(
         "english": en["translation"],
         "hindi": hi["translation"],
     }
-    output_dir = ROOT / f"data/audio/{CHAPTER}/{verse}"
+    output_dir = ROOT / f"data/audio/{chapter}/{verse}"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     async def limited_write(language: str, gender: str) -> Path:
-        output = output_dir / f"chapter-{CHAPTER}-verse-{verse}-{language}-{gender}.wav"
+        output = output_dir / f"chapter-{chapter}-verse-{verse}-{language}-{gender}.wav"
         async with semaphore:
             await write_one(texts[language], VOICE_MAP[language][gender], output)
         return output
@@ -104,12 +104,13 @@ async def generate_verse(
 
 async def main() -> None:
     parser = argparse.ArgumentParser()
+    parser.add_argument("--chapter", type=int, default=18)
     parser.add_argument("--start", type=int, default=15)
     parser.add_argument("--end", type=int, default=78)
     parser.add_argument("--concurrency", type=int, default=4)
     args = parser.parse_args()
 
-    english, hindi = load_sources()
+    english, hindi = load_sources(args.chapter)
     requested = list(range(args.start, args.end + 1))
     if any(verse not in english or verse not in hindi for verse in requested):
         raise ValueError("The requested verse range is not present in both source files.")
@@ -117,11 +118,11 @@ async def main() -> None:
     semaphore = asyncio.Semaphore(args.concurrency)
     completed: list[str] = []
     for verse in requested:
-        outputs = await generate_verse(verse, english, hindi, semaphore)
+        outputs = await generate_verse(args.chapter, verse, english, hindi, semaphore)
         completed.extend(str(path.relative_to(ROOT)) for path in outputs)
         print(f"Generated Verse {verse}: {len(outputs)} files", flush=True)
 
-    manifest = ROOT / "data/audio/18/chapter-18-verses-15-78-audio-manifest.json"
+    manifest = ROOT / f"data/audio/{args.chapter}/chapter-{args.chapter}-verses-{args.start}-{args.end}-audio-manifest.json"
     manifest.write_text(json.dumps(completed, indent=2), encoding="utf-8")
     print(f"Generated {len(completed)} standalone WAV files.")
 
