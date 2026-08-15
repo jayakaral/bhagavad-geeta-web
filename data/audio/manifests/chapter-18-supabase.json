@@ -1,0 +1,2349 @@
+{
+  "chapter": 18,
+  "bucket": "gita-audio",
+  "objectPrefix": "data/audio/18",
+  "fileCount": 468,
+  "sourceBytes": 233882344,
+  "files": [
+    {
+      "objectPath": "data/audio/18/1/chapter-18-verse-1-english-female.wav",
+      "bytes": 558158,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/1/chapter-18-verse-1-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/1/chapter-18-verse-1-english-male.wav",
+      "bytes": 645406,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/1/chapter-18-verse-1-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/1/chapter-18-verse-1-hindi-female.wav",
+      "bytes": 615492,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/1/chapter-18-verse-1-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/1/chapter-18-verse-1-hindi-male.wav",
+      "bytes": 540068,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/1/chapter-18-verse-1-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/1/chapter-18-verse-1-sanskrit-female.wav",
+      "bytes": 791354,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/1/chapter-18-verse-1-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/1/chapter-18-verse-1-sanskrit-male.wav",
+      "bytes": 736058,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/1/chapter-18-verse-1-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/10/chapter-18-verse-10-english-female.wav",
+      "bytes": 706302,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/10/chapter-18-verse-10-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/10/chapter-18-verse-10-english-male.wav",
+      "bytes": 728478,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/10/chapter-18-verse-10-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/10/chapter-18-verse-10-hindi-female.wav",
+      "bytes": 566444,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/10/chapter-18-verse-10-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/10/chapter-18-verse-10-hindi-male.wav",
+      "bytes": 599084,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/10/chapter-18-verse-10-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/10/chapter-18-verse-10-sanskrit-female.wav",
+      "bytes": 665118,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/10/chapter-18-verse-10-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/10/chapter-18-verse-10-sanskrit-male.wav",
+      "bytes": 648750,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/10/chapter-18-verse-10-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/11/chapter-18-verse-11-english-female.wav",
+      "bytes": 620204,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/11/chapter-18-verse-11-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/11/chapter-18-verse-11-english-male.wav",
+      "bytes": 637484,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/11/chapter-18-verse-11-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/11/chapter-18-verse-11-hindi-female.wav",
+      "bytes": 541484,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/11/chapter-18-verse-11-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/11/chapter-18-verse-11-hindi-male.wav",
+      "bytes": 570284,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/11/chapter-18-verse-11-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/11/chapter-18-verse-11-sanskrit-female.wav",
+      "bytes": 783404,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/11/chapter-18-verse-11-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/11/chapter-18-verse-11-sanskrit-male.wav",
+      "bytes": 873644,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/11/chapter-18-verse-11-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/12/chapter-18-verse-12-english-female.wav",
+      "bytes": 608684,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/12/chapter-18-verse-12-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/12/chapter-18-verse-12-english-male.wav",
+      "bytes": 658604,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/12/chapter-18-verse-12-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/12/chapter-18-verse-12-hindi-female.wav",
+      "bytes": 673964,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/12/chapter-18-verse-12-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/12/chapter-18-verse-12-hindi-male.wav",
+      "bytes": 625964,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/12/chapter-18-verse-12-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/12/chapter-18-verse-12-sanskrit-female.wav",
+      "bytes": 679724,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/12/chapter-18-verse-12-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/12/chapter-18-verse-12-sanskrit-male.wav",
+      "bytes": 783404,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/12/chapter-18-verse-12-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/13/chapter-18-verse-13-english-female.wav",
+      "bytes": 543404,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/13/chapter-18-verse-13-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/13/chapter-18-verse-13-english-male.wav",
+      "bytes": 445484,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/13/chapter-18-verse-13-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/13/chapter-18-verse-13-hindi-female.wav",
+      "bytes": 407084,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/13/chapter-18-verse-13-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/13/chapter-18-verse-13-hindi-male.wav",
+      "bytes": 528044,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/13/chapter-18-verse-13-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/13/chapter-18-verse-13-sanskrit-female.wav",
+      "bytes": 758444,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/13/chapter-18-verse-13-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/13/chapter-18-verse-13-sanskrit-male.wav",
+      "bytes": 735404,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/13/chapter-18-verse-13-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/14/chapter-18-verse-14-english-female.wav",
+      "bytes": 645164,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/14/chapter-18-verse-14-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/14/chapter-18-verse-14-english-male.wav",
+      "bytes": 620204,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/14/chapter-18-verse-14-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/14/chapter-18-verse-14-hindi-female.wav",
+      "bytes": 633644,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/14/chapter-18-verse-14-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/14/chapter-18-verse-14-hindi-male.wav",
+      "bytes": 591404,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/14/chapter-18-verse-14-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/14/chapter-18-verse-14-sanskrit-female.wav",
+      "bytes": 689324,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/14/chapter-18-verse-14-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/14/chapter-18-verse-14-sanskrit-male.wav",
+      "bytes": 777644,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/14/chapter-18-verse-14-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/15/chapter-18-verse-15-english-female.wav",
+      "bytes": 427470,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/15/chapter-18-verse-15-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/15/chapter-18-verse-15-english-male.wav",
+      "bytes": 442446,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/15/chapter-18-verse-15-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/15/chapter-18-verse-15-hindi-female.wav",
+      "bytes": 481614,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/15/chapter-18-verse-15-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/15/chapter-18-verse-15-hindi-male.wav",
+      "bytes": 479310,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/15/chapter-18-verse-15-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/15/chapter-18-verse-15-sanskrit-female.wav",
+      "bytes": 377934,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/15/chapter-18-verse-15-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/15/chapter-18-verse-15-sanskrit-male.wav",
+      "bytes": 361806,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/15/chapter-18-verse-15-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/16/chapter-18-verse-16-english-female.wav",
+      "bytes": 525390,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/16/chapter-18-verse-16-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/16/chapter-18-verse-16-english-male.wav",
+      "bytes": 549582,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/16/chapter-18-verse-16-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/16/chapter-18-verse-16-hindi-female.wav",
+      "bytes": 485070,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/16/chapter-18-verse-16-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/16/chapter-18-verse-16-hindi-male.wav",
+      "bytes": 500046,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/16/chapter-18-verse-16-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/16/chapter-18-verse-16-sanskrit-female.wav",
+      "bytes": 407886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/16/chapter-18-verse-16-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/16/chapter-18-verse-16-sanskrit-male.wav",
+      "bytes": 390606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/16/chapter-18-verse-16-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/17/chapter-18-verse-17-english-female.wav",
+      "bytes": 483918,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/17/chapter-18-verse-17-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/17/chapter-18-verse-17-english-male.wav",
+      "bytes": 561102,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/17/chapter-18-verse-17-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/17/chapter-18-verse-17-hindi-female.wav",
+      "bytes": 466638,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/17/chapter-18-verse-17-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/17/chapter-18-verse-17-hindi-male.wav",
+      "bytes": 474702,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/17/chapter-18-verse-17-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/17/chapter-18-verse-17-sanskrit-female.wav",
+      "bytes": 392910,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/17/chapter-18-verse-17-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/17/chapter-18-verse-17-sanskrit-male.wav",
+      "bytes": 397518,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/17/chapter-18-verse-17-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/18/chapter-18-verse-18-english-female.wav",
+      "bytes": 617550,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/18/chapter-18-verse-18-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/18/chapter-18-verse-18-english-male.wav",
+      "bytes": 614094,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/18/chapter-18-verse-18-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/18/chapter-18-verse-18-hindi-female.wav",
+      "bytes": 462030,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/18/chapter-18-verse-18-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/18/chapter-18-verse-18-hindi-male.wav",
+      "bytes": 497742,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/18/chapter-18-verse-18-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/18/chapter-18-verse-18-sanskrit-female.wav",
+      "bytes": 352590,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/18/chapter-18-verse-18-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/18/chapter-18-verse-18-sanskrit-male.wav",
+      "bytes": 371022,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/18/chapter-18-verse-18-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/19/chapter-18-verse-19-english-female.wav",
+      "bytes": 534606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/19/chapter-18-verse-19-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/19/chapter-18-verse-19-english-male.wav",
+      "bytes": 551886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/19/chapter-18-verse-19-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/19/chapter-18-verse-19-hindi-female.wav",
+      "bytes": 473550,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/19/chapter-18-verse-19-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/19/chapter-18-verse-19-hindi-male.wav",
+      "bytes": 480462,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/19/chapter-18-verse-19-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/19/chapter-18-verse-19-sanskrit-female.wav",
+      "bytes": 388302,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/19/chapter-18-verse-19-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/19/chapter-18-verse-19-sanskrit-male.wav",
+      "bytes": 382542,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/19/chapter-18-verse-19-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/2/chapter-18-verse-2-english-female.wav",
+      "bytes": 685484,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/2/chapter-18-verse-2-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/2/chapter-18-verse-2-english-male.wav",
+      "bytes": 794924,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/2/chapter-18-verse-2-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/2/chapter-18-verse-2-hindi-female.wav",
+      "bytes": 608684,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/2/chapter-18-verse-2-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/2/chapter-18-verse-2-hindi-male.wav",
+      "bytes": 616364,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/2/chapter-18-verse-2-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/2/chapter-18-verse-2-sanskrit-female.wav",
+      "bytes": 844844,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/2/chapter-18-verse-2-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/2/chapter-18-verse-2-sanskrit-male.wav",
+      "bytes": 935084,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/2/chapter-18-verse-2-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/20/chapter-18-verse-20-english-female.wav",
+      "bytes": 402126,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/20/chapter-18-verse-20-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/20/chapter-18-verse-20-english-male.wav",
+      "bytes": 407886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/20/chapter-18-verse-20-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/20/chapter-18-verse-20-hindi-female.wav",
+      "bytes": 456270,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/20/chapter-18-verse-20-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/20/chapter-18-verse-20-hindi-male.wav",
+      "bytes": 452814,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/20/chapter-18-verse-20-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/20/chapter-18-verse-20-sanskrit-female.wav",
+      "bytes": 405582,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/20/chapter-18-verse-20-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/20/chapter-18-verse-20-sanskrit-male.wav",
+      "bytes": 395214,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/20/chapter-18-verse-20-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/21/chapter-18-verse-21-english-female.wav",
+      "bytes": 443598,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/21/chapter-18-verse-21-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/21/chapter-18-verse-21-english-male.wav",
+      "bytes": 487374,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/21/chapter-18-verse-21-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/21/chapter-18-verse-21-hindi-female.wav",
+      "bytes": 429774,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/21/chapter-18-verse-21-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/21/chapter-18-verse-21-hindi-male.wav",
+      "bytes": 437838,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/21/chapter-18-verse-21-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/21/chapter-18-verse-21-sanskrit-female.wav",
+      "bytes": 438990,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/21/chapter-18-verse-21-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/21/chapter-18-verse-21-sanskrit-male.wav",
+      "bytes": 414798,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/21/chapter-18-verse-21-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/22/chapter-18-verse-22-english-female.wav",
+      "bytes": 512718,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/22/chapter-18-verse-22-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/22/chapter-18-verse-22-english-male.wav",
+      "bytes": 549582,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/22/chapter-18-verse-22-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/22/chapter-18-verse-22-hindi-female.wav",
+      "bytes": 452814,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/22/chapter-18-verse-22-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/22/chapter-18-verse-22-hindi-male.wav",
+      "bytes": 453966,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/22/chapter-18-verse-22-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/22/chapter-18-verse-22-sanskrit-female.wav",
+      "bytes": 390606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/22/chapter-18-verse-22-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/22/chapter-18-verse-22-sanskrit-male.wav",
+      "bytes": 383694,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/22/chapter-18-verse-22-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/23/chapter-18-verse-23-english-female.wav",
+      "bytes": 475854,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/23/chapter-18-verse-23-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/23/chapter-18-verse-23-english-male.wav",
+      "bytes": 502350,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/23/chapter-18-verse-23-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/23/chapter-18-verse-23-hindi-female.wav",
+      "bytes": 491982,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/23/chapter-18-verse-23-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/23/chapter-18-verse-23-hindi-male.wav",
+      "bytes": 468942,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/23/chapter-18-verse-23-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/23/chapter-18-verse-23-sanskrit-female.wav",
+      "bytes": 368718,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/23/chapter-18-verse-23-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/23/chapter-18-verse-23-sanskrit-male.wav",
+      "bytes": 362958,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/23/chapter-18-verse-23-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/24/chapter-18-verse-24-english-female.wav",
+      "bytes": 421710,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/24/chapter-18-verse-24-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/24/chapter-18-verse-24-english-male.wav",
+      "bytes": 441294,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/24/chapter-18-verse-24-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/24/chapter-18-verse-24-hindi-female.wav",
+      "bytes": 407886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/24/chapter-18-verse-24-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/24/chapter-18-verse-24-hindi-male.wav",
+      "bytes": 413646,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/24/chapter-18-verse-24-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/24/chapter-18-verse-24-sanskrit-female.wav",
+      "bytes": 372174,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/24/chapter-18-verse-24-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/24/chapter-18-verse-24-sanskrit-male.wav",
+      "bytes": 362958,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/24/chapter-18-verse-24-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/25/chapter-18-verse-25-english-female.wav",
+      "bytes": 568014,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/25/chapter-18-verse-25-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/25/chapter-18-verse-25-english-male.wav",
+      "bytes": 563406,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/25/chapter-18-verse-25-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/25/chapter-18-verse-25-hindi-female.wav",
+      "bytes": 477006,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/25/chapter-18-verse-25-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/25/chapter-18-verse-25-hindi-male.wav",
+      "bytes": 488526,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/25/chapter-18-verse-25-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/25/chapter-18-verse-25-sanskrit-female.wav",
+      "bytes": 381390,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/25/chapter-18-verse-25-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/25/chapter-18-verse-25-sanskrit-male.wav",
+      "bytes": 368718,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/25/chapter-18-verse-25-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/26/chapter-18-verse-26-english-female.wav",
+      "bytes": 592206,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/26/chapter-18-verse-26-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/26/chapter-18-verse-26-english-male.wav",
+      "bytes": 646350,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/26/chapter-18-verse-26-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/26/chapter-18-verse-26-hindi-female.wav",
+      "bytes": 516174,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/26/chapter-18-verse-26-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/26/chapter-18-verse-26-hindi-male.wav",
+      "bytes": 509262,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/26/chapter-18-verse-26-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/26/chapter-18-verse-26-sanskrit-female.wav",
+      "bytes": 398670,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/26/chapter-18-verse-26-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/26/chapter-18-verse-26-sanskrit-male.wav",
+      "bytes": 402126,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/26/chapter-18-verse-26-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/27/chapter-18-verse-27-english-female.wav",
+      "bytes": 474702,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/27/chapter-18-verse-27-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/27/chapter-18-verse-27-english-male.wav",
+      "bytes": 466638,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/27/chapter-18-verse-27-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/27/chapter-18-verse-27-hindi-female.wav",
+      "bytes": 488526,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/27/chapter-18-verse-27-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/27/chapter-18-verse-27-hindi-male.wav",
+      "bytes": 435534,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/27/chapter-18-verse-27-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/27/chapter-18-verse-27-sanskrit-female.wav",
+      "bytes": 405582,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/27/chapter-18-verse-27-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/27/chapter-18-verse-27-sanskrit-male.wav",
+      "bytes": 407886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/27/chapter-18-verse-27-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/28/chapter-18-verse-28-english-female.wav",
+      "bytes": 472398,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/28/chapter-18-verse-28-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/28/chapter-18-verse-28-english-male.wav",
+      "bytes": 442446,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/28/chapter-18-verse-28-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/28/chapter-18-verse-28-hindi-female.wav",
+      "bytes": 585294,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/28/chapter-18-verse-28-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/28/chapter-18-verse-28-hindi-male.wav",
+      "bytes": 525390,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/28/chapter-18-verse-28-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/28/chapter-18-verse-28-sanskrit-female.wav",
+      "bytes": 412494,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/28/chapter-18-verse-28-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/28/chapter-18-verse-28-sanskrit-male.wav",
+      "bytes": 404430,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/28/chapter-18-verse-28-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/29/chapter-18-verse-29-english-female.wav",
+      "bytes": 465486,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/29/chapter-18-verse-29-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/29/chapter-18-verse-29-english-male.wav",
+      "bytes": 501198,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/29/chapter-18-verse-29-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/29/chapter-18-verse-29-hindi-female.wav",
+      "bytes": 463182,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/29/chapter-18-verse-29-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/29/chapter-18-verse-29-hindi-male.wav",
+      "bytes": 424014,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/29/chapter-18-verse-29-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/29/chapter-18-verse-29-sanskrit-female.wav",
+      "bytes": 387150,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/29/chapter-18-verse-29-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/29/chapter-18-verse-29-sanskrit-male.wav",
+      "bytes": 374478,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/29/chapter-18-verse-29-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/3/chapter-18-verse-3-english-female.wav",
+      "bytes": 649004,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/3/chapter-18-verse-3-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/3/chapter-18-verse-3-english-male.wav",
+      "bytes": 643244,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/3/chapter-18-verse-3-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/3/chapter-18-verse-3-hindi-female.wav",
+      "bytes": 577964,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/3/chapter-18-verse-3-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/3/chapter-18-verse-3-hindi-male.wav",
+      "bytes": 708524,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/3/chapter-18-verse-3-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/3/chapter-18-verse-3-sanskrit-female.wav",
+      "bytes": 927404,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/3/chapter-18-verse-3-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/3/chapter-18-verse-3-sanskrit-male.wav",
+      "bytes": 643244,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/3/chapter-18-verse-3-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/30/chapter-18-verse-30-english-female.wav",
+      "bytes": 686670,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/30/chapter-18-verse-30-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/30/chapter-18-verse-30-english-male.wav",
+      "bytes": 781134,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/30/chapter-18-verse-30-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/30/chapter-18-verse-30-hindi-female.wav",
+      "bytes": 557646,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/30/chapter-18-verse-30-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/30/chapter-18-verse-30-hindi-male.wav",
+      "bytes": 513870,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/30/chapter-18-verse-30-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/30/chapter-18-verse-30-sanskrit-female.wav",
+      "bytes": 425166,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/30/chapter-18-verse-30-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/30/chapter-18-verse-30-sanskrit-male.wav",
+      "bytes": 409038,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/30/chapter-18-verse-30-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/31/chapter-18-verse-31-english-female.wav",
+      "bytes": 509262,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/31/chapter-18-verse-31-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/31/chapter-18-verse-31-english-male.wav",
+      "bytes": 534606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/31/chapter-18-verse-31-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/31/chapter-18-verse-31-hindi-female.wav",
+      "bytes": 376782,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/31/chapter-18-verse-31-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/31/chapter-18-verse-31-hindi-male.wav",
+      "bytes": 390606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/31/chapter-18-verse-31-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/31/chapter-18-verse-31-sanskrit-female.wav",
+      "bytes": 395214,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/31/chapter-18-verse-31-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/31/chapter-18-verse-31-sanskrit-male.wav",
+      "bytes": 380238,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/31/chapter-18-verse-31-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/32/chapter-18-verse-32-english-female.wav",
+      "bytes": 480462,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/32/chapter-18-verse-32-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/32/chapter-18-verse-32-english-male.wav",
+      "bytes": 509262,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/32/chapter-18-verse-32-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/32/chapter-18-verse-32-hindi-female.wav",
+      "bytes": 491982,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/32/chapter-18-verse-32-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/32/chapter-18-verse-32-hindi-male.wav",
+      "bytes": 505806,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/32/chapter-18-verse-32-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/32/chapter-18-verse-32-sanskrit-female.wav",
+      "bytes": 403278,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/32/chapter-18-verse-32-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/32/chapter-18-verse-32-sanskrit-male.wav",
+      "bytes": 397518,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/32/chapter-18-verse-32-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/33/chapter-18-verse-33-english-female.wav",
+      "bytes": 577230,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/33/chapter-18-verse-33-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/33/chapter-18-verse-33-english-male.wav",
+      "bytes": 588750,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/33/chapter-18-verse-33-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/33/chapter-18-verse-33-hindi-female.wav",
+      "bytes": 471246,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/33/chapter-18-verse-33-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/33/chapter-18-verse-33-hindi-male.wav",
+      "bytes": 464334,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/33/chapter-18-verse-33-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/33/chapter-18-verse-33-sanskrit-female.wav",
+      "bytes": 405582,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/33/chapter-18-verse-33-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/33/chapter-18-verse-33-sanskrit-male.wav",
+      "bytes": 402126,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/33/chapter-18-verse-33-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/34/chapter-18-verse-34-english-female.wav",
+      "bytes": 592206,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/34/chapter-18-verse-34-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/34/chapter-18-verse-34-english-male.wav",
+      "bytes": 602574,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/34/chapter-18-verse-34-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/34/chapter-18-verse-34-hindi-female.wav",
+      "bytes": 508110,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/34/chapter-18-verse-34-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/34/chapter-18-verse-34-hindi-male.wav",
+      "bytes": 490830,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/34/chapter-18-verse-34-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/34/chapter-18-verse-34-sanskrit-female.wav",
+      "bytes": 411342,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/34/chapter-18-verse-34-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/34/chapter-18-verse-34-sanskrit-male.wav",
+      "bytes": 396366,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/34/chapter-18-verse-34-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/35/chapter-18-verse-35-english-female.wav",
+      "bytes": 563406,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/35/chapter-18-verse-35-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/35/chapter-18-verse-35-english-male.wav",
+      "bytes": 576078,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/35/chapter-18-verse-35-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/35/chapter-18-verse-35-hindi-female.wav",
+      "bytes": 491982,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/35/chapter-18-verse-35-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/35/chapter-18-verse-35-hindi-male.wav",
+      "bytes": 448206,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/35/chapter-18-verse-35-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/35/chapter-18-verse-35-sanskrit-female.wav",
+      "bytes": 405582,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/35/chapter-18-verse-35-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/35/chapter-18-verse-35-sanskrit-male.wav",
+      "bytes": 395214,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/35/chapter-18-verse-35-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/36/chapter-18-verse-36-english-female.wav",
+      "bytes": 559950,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/36/chapter-18-verse-36-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/36/chapter-18-verse-36-english-male.wav",
+      "bytes": 606030,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/36/chapter-18-verse-36-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/36/chapter-18-verse-36-hindi-female.wav",
+      "bytes": 510414,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/36/chapter-18-verse-36-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/36/chapter-18-verse-36-hindi-male.wav",
+      "bytes": 515022,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/36/chapter-18-verse-36-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/36/chapter-18-verse-36-sanskrit-female.wav",
+      "bytes": 412494,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/36/chapter-18-verse-36-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/36/chapter-18-verse-36-sanskrit-male.wav",
+      "bytes": 381390,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/36/chapter-18-verse-36-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/37/chapter-18-verse-37-english-female.wav",
+      "bytes": 495438,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/37/chapter-18-verse-37-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/37/chapter-18-verse-37-english-male.wav",
+      "bytes": 505806,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/37/chapter-18-verse-37-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/37/chapter-18-verse-37-hindi-female.wav",
+      "bytes": 491982,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/37/chapter-18-verse-37-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/37/chapter-18-verse-37-hindi-male.wav",
+      "bytes": 511566,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/37/chapter-18-verse-37-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/37/chapter-18-verse-37-sanskrit-female.wav",
+      "bytes": 390606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/37/chapter-18-verse-37-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/37/chapter-18-verse-37-sanskrit-male.wav",
+      "bytes": 373326,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/37/chapter-18-verse-37-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/38/chapter-18-verse-38-english-female.wav",
+      "bytes": 540366,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/38/chapter-18-verse-38-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/38/chapter-18-verse-38-english-male.wav",
+      "bytes": 566862,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/38/chapter-18-verse-38-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/38/chapter-18-verse-38-hindi-female.wav",
+      "bytes": 473550,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/38/chapter-18-verse-38-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/38/chapter-18-verse-38-hindi-male.wav",
+      "bytes": 478158,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/38/chapter-18-verse-38-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/38/chapter-18-verse-38-sanskrit-female.wav",
+      "bytes": 399822,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/38/chapter-18-verse-38-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/38/chapter-18-verse-38-sanskrit-male.wav",
+      "bytes": 359502,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/38/chapter-18-verse-38-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/39/chapter-18-verse-39-english-female.wav",
+      "bytes": 479310,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/39/chapter-18-verse-39-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/39/chapter-18-verse-39-english-male.wav",
+      "bytes": 497742,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/39/chapter-18-verse-39-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/39/chapter-18-verse-39-hindi-female.wav",
+      "bytes": 463182,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/39/chapter-18-verse-39-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/39/chapter-18-verse-39-hindi-male.wav",
+      "bytes": 475854,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/39/chapter-18-verse-39-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/39/chapter-18-verse-39-sanskrit-female.wav",
+      "bytes": 392910,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/39/chapter-18-verse-39-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/39/chapter-18-verse-39-sanskrit-male.wav",
+      "bytes": 383694,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/39/chapter-18-verse-39-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/4/chapter-18-verse-4-english-female.wav",
+      "bytes": 570284,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/4/chapter-18-verse-4-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/4/chapter-18-verse-4-english-male.wav",
+      "bytes": 581804,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/4/chapter-18-verse-4-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/4/chapter-18-verse-4-hindi-female.wav",
+      "bytes": 487724,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/4/chapter-18-verse-4-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/4/chapter-18-verse-4-hindi-male.wav",
+      "bytes": 474284,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/4/chapter-18-verse-4-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/4/chapter-18-verse-4-sanskrit-female.wav",
+      "bytes": 616364,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/4/chapter-18-verse-4-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/4/chapter-18-verse-4-sanskrit-male.wav",
+      "bytes": 612524,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/4/chapter-18-verse-4-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/40/chapter-18-verse-40-english-female.wav",
+      "bytes": 387150,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/40/chapter-18-verse-40-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/40/chapter-18-verse-40-english-male.wav",
+      "bytes": 419406,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/40/chapter-18-verse-40-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/40/chapter-18-verse-40-hindi-female.wav",
+      "bytes": 398670,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/40/chapter-18-verse-40-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/40/chapter-18-verse-40-hindi-male.wav",
+      "bytes": 375630,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/40/chapter-18-verse-40-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/40/chapter-18-verse-40-sanskrit-female.wav",
+      "bytes": 427470,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/40/chapter-18-verse-40-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/40/chapter-18-verse-40-sanskrit-male.wav",
+      "bytes": 427470,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/40/chapter-18-verse-40-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/41/chapter-18-verse-41-english-female.wav",
+      "bytes": 428622,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/41/chapter-18-verse-41-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/41/chapter-18-verse-41-english-male.wav",
+      "bytes": 442446,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/41/chapter-18-verse-41-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/41/chapter-18-verse-41-hindi-female.wav",
+      "bytes": 512718,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/41/chapter-18-verse-41-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/41/chapter-18-verse-41-hindi-male.wav",
+      "bytes": 490830,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/41/chapter-18-verse-41-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/41/chapter-18-verse-41-sanskrit-female.wav",
+      "bytes": 390606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/41/chapter-18-verse-41-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/41/chapter-18-verse-41-sanskrit-male.wav",
+      "bytes": 383694,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/41/chapter-18-verse-41-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/42/chapter-18-verse-42-english-female.wav",
+      "bytes": 619854,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/42/chapter-18-verse-42-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/42/chapter-18-verse-42-english-male.wav",
+      "bytes": 602574,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/42/chapter-18-verse-42-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/42/chapter-18-verse-42-hindi-female.wav",
+      "bytes": 506958,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/42/chapter-18-verse-42-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/42/chapter-18-verse-42-hindi-male.wav",
+      "bytes": 428622,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/42/chapter-18-verse-42-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/42/chapter-18-verse-42-sanskrit-female.wav",
+      "bytes": 410190,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/42/chapter-18-verse-42-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/42/chapter-18-verse-42-sanskrit-male.wav",
+      "bytes": 391758,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/42/chapter-18-verse-42-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/43/chapter-18-verse-43-english-female.wav",
+      "bytes": 542670,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/43/chapter-18-verse-43-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/43/chapter-18-verse-43-english-male.wav",
+      "bytes": 573774,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/43/chapter-18-verse-43-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/43/chapter-18-verse-43-hindi-female.wav",
+      "bytes": 495438,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/43/chapter-18-verse-43-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/43/chapter-18-verse-43-hindi-male.wav",
+      "bytes": 449358,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/43/chapter-18-verse-43-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/43/chapter-18-verse-43-sanskrit-female.wav",
+      "bytes": 429774,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/43/chapter-18-verse-43-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/43/chapter-18-verse-43-sanskrit-male.wav",
+      "bytes": 396366,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/43/chapter-18-verse-43-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/44/chapter-18-verse-44-english-female.wav",
+      "bytes": 418254,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/44/chapter-18-verse-44-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/44/chapter-18-verse-44-english-male.wav",
+      "bytes": 430926,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/44/chapter-18-verse-44-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/44/chapter-18-verse-44-hindi-female.wav",
+      "bytes": 434382,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/44/chapter-18-verse-44-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/44/chapter-18-verse-44-hindi-male.wav",
+      "bytes": 432078,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/44/chapter-18-verse-44-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/44/chapter-18-verse-44-sanskrit-female.wav",
+      "bytes": 417102,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/44/chapter-18-verse-44-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/44/chapter-18-verse-44-sanskrit-male.wav",
+      "bytes": 384846,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/44/chapter-18-verse-44-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/45/chapter-18-verse-45-english-female.wav",
+      "bytes": 502350,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/45/chapter-18-verse-45-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/45/chapter-18-verse-45-english-male.wav",
+      "bytes": 515022,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/45/chapter-18-verse-45-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/45/chapter-18-verse-45-hindi-female.wav",
+      "bytes": 512718,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/45/chapter-18-verse-45-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/45/chapter-18-verse-45-hindi-male.wav",
+      "bytes": 531150,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/45/chapter-18-verse-45-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/45/chapter-18-verse-45-sanskrit-female.wav",
+      "bytes": 403278,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/45/chapter-18-verse-45-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/45/chapter-18-verse-45-sanskrit-male.wav",
+      "bytes": 392910,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/45/chapter-18-verse-45-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/46/chapter-18-verse-46-english-female.wav",
+      "bytes": 442446,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/46/chapter-18-verse-46-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/46/chapter-18-verse-46-english-male.wav",
+      "bytes": 511566,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/46/chapter-18-verse-46-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/46/chapter-18-verse-46-hindi-female.wav",
+      "bytes": 554190,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/46/chapter-18-verse-46-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/46/chapter-18-verse-46-hindi-male.wav",
+      "bytes": 586446,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/46/chapter-18-verse-46-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/46/chapter-18-verse-46-sanskrit-female.wav",
+      "bytes": 426318,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/46/chapter-18-verse-46-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/46/chapter-18-verse-46-sanskrit-male.wav",
+      "bytes": 392910,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/46/chapter-18-verse-46-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/47/chapter-18-verse-47-english-female.wav",
+      "bytes": 589902,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/47/chapter-18-verse-47-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/47/chapter-18-verse-47-english-male.wav",
+      "bytes": 647502,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/47/chapter-18-verse-47-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/47/chapter-18-verse-47-hindi-female.wav",
+      "bytes": 553038,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/47/chapter-18-verse-47-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/47/chapter-18-verse-47-hindi-male.wav",
+      "bytes": 551886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/47/chapter-18-verse-47-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/47/chapter-18-verse-47-sanskrit-female.wav",
+      "bytes": 403278,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/47/chapter-18-verse-47-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/47/chapter-18-verse-47-sanskrit-male.wav",
+      "bytes": 394062,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/47/chapter-18-verse-47-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/48/chapter-18-verse-48-english-female.wav",
+      "bytes": 533454,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/48/chapter-18-verse-48-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/48/chapter-18-verse-48-english-male.wav",
+      "bytes": 582990,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/48/chapter-18-verse-48-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/48/chapter-18-verse-48-hindi-female.wav",
+      "bytes": 600270,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/48/chapter-18-verse-48-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/48/chapter-18-verse-48-hindi-male.wav",
+      "bytes": 578382,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/48/chapter-18-verse-48-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/48/chapter-18-verse-48-sanskrit-female.wav",
+      "bytes": 398670,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/48/chapter-18-verse-48-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/48/chapter-18-verse-48-sanskrit-male.wav",
+      "bytes": 385998,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/48/chapter-18-verse-48-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/49/chapter-18-verse-49-english-female.wav",
+      "bytes": 599118,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/49/chapter-18-verse-49-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/49/chapter-18-verse-49-english-male.wav",
+      "bytes": 634830,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/49/chapter-18-verse-49-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/49/chapter-18-verse-49-hindi-female.wav",
+      "bytes": 633678,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/49/chapter-18-verse-49-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/49/chapter-18-verse-49-hindi-male.wav",
+      "bytes": 614094,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/49/chapter-18-verse-49-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/49/chapter-18-verse-49-sanskrit-female.wav",
+      "bytes": 398670,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/49/chapter-18-verse-49-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/49/chapter-18-verse-49-sanskrit-male.wav",
+      "bytes": 402126,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/49/chapter-18-verse-49-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/5/chapter-18-verse-5-english-female.wav",
+      "bytes": 716204,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/5/chapter-18-verse-5-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/5/chapter-18-verse-5-english-male.wav",
+      "bytes": 725804,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/5/chapter-18-verse-5-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/5/chapter-18-verse-5-hindi-female.wav",
+      "bytes": 748844,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/5/chapter-18-verse-5-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/5/chapter-18-verse-5-hindi-male.wav",
+      "bytes": 716204,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/5/chapter-18-verse-5-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/5/chapter-18-verse-5-sanskrit-female.wav",
+      "bytes": 814124,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/5/chapter-18-verse-5-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/5/chapter-18-verse-5-sanskrit-male.wav",
+      "bytes": 673964,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/5/chapter-18-verse-5-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/50/chapter-18-verse-50-english-female.wav",
+      "bytes": 463182,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/50/chapter-18-verse-50-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/50/chapter-18-verse-50-english-male.wav",
+      "bytes": 485070,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/50/chapter-18-verse-50-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/50/chapter-18-verse-50-hindi-female.wav",
+      "bytes": 580686,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/50/chapter-18-verse-50-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/50/chapter-18-verse-50-hindi-male.wav",
+      "bytes": 574926,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/50/chapter-18-verse-50-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/50/chapter-18-verse-50-sanskrit-female.wav",
+      "bytes": 414798,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/50/chapter-18-verse-50-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/50/chapter-18-verse-50-sanskrit-male.wav",
+      "bytes": 404430,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/50/chapter-18-verse-50-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/51/chapter-18-verse-51-english-female.wav",
+      "bytes": 465486,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/51/chapter-18-verse-51-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/51/chapter-18-verse-51-english-male.wav",
+      "bytes": 491982,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/51/chapter-18-verse-51-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/51/chapter-18-verse-51-hindi-female.wav",
+      "bytes": 437838,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/51/chapter-18-verse-51-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/51/chapter-18-verse-51-hindi-male.wav",
+      "bytes": 403278,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/51/chapter-18-verse-51-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/51/chapter-18-verse-51-sanskrit-female.wav",
+      "bytes": 425166,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/51/chapter-18-verse-51-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/51/chapter-18-verse-51-sanskrit-male.wav",
+      "bytes": 415950,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/51/chapter-18-verse-51-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/52/chapter-18-verse-52-english-female.wav",
+      "bytes": 526542,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/52/chapter-18-verse-52-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/52/chapter-18-verse-52-english-male.wav",
+      "bytes": 549582,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/52/chapter-18-verse-52-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/52/chapter-18-verse-52-hindi-female.wav",
+      "bytes": 456270,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/52/chapter-18-verse-52-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/52/chapter-18-verse-52-hindi-male.wav",
+      "bytes": 447054,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/52/chapter-18-verse-52-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/52/chapter-18-verse-52-sanskrit-female.wav",
+      "bytes": 384846,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/52/chapter-18-verse-52-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/52/chapter-18-verse-52-sanskrit-male.wav",
+      "bytes": 373326,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/52/chapter-18-verse-52-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/53/chapter-18-verse-53-english-female.wav",
+      "bytes": 584142,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/53/chapter-18-verse-53-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/53/chapter-18-verse-53-english-male.wav",
+      "bytes": 561102,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/53/chapter-18-verse-53-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/53/chapter-18-verse-53-hindi-female.wav",
+      "bytes": 570318,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/53/chapter-18-verse-53-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/53/chapter-18-verse-53-hindi-male.wav",
+      "bytes": 494286,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/53/chapter-18-verse-53-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/53/chapter-18-verse-53-sanskrit-female.wav",
+      "bytes": 376782,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/53/chapter-18-verse-53-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/53/chapter-18-verse-53-sanskrit-male.wav",
+      "bytes": 381390,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/53/chapter-18-verse-53-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/54/chapter-18-verse-54-english-female.wav",
+      "bytes": 501198,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/54/chapter-18-verse-54-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/54/chapter-18-verse-54-english-male.wav",
+      "bytes": 517326,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/54/chapter-18-verse-54-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/54/chapter-18-verse-54-hindi-female.wav",
+      "bytes": 553038,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/54/chapter-18-verse-54-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/54/chapter-18-verse-54-hindi-male.wav",
+      "bytes": 528846,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/54/chapter-18-verse-54-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/54/chapter-18-verse-54-sanskrit-female.wav",
+      "bytes": 421710,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/54/chapter-18-verse-54-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/54/chapter-18-verse-54-sanskrit-male.wav",
+      "bytes": 399822,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/54/chapter-18-verse-54-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/55/chapter-18-verse-55-english-female.wav",
+      "bytes": 441294,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/55/chapter-18-verse-55-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/55/chapter-18-verse-55-english-male.wav",
+      "bytes": 518478,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/55/chapter-18-verse-55-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/55/chapter-18-verse-55-hindi-female.wav",
+      "bytes": 557646,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/55/chapter-18-verse-55-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/55/chapter-18-verse-55-hindi-male.wav",
+      "bytes": 548430,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/55/chapter-18-verse-55-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/55/chapter-18-verse-55-sanskrit-female.wav",
+      "bytes": 411342,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/55/chapter-18-verse-55-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/55/chapter-18-verse-55-sanskrit-male.wav",
+      "bytes": 389454,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/55/chapter-18-verse-55-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/56/chapter-18-verse-56-english-female.wav",
+      "bytes": 425166,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/56/chapter-18-verse-56-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/56/chapter-18-verse-56-english-male.wav",
+      "bytes": 452814,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/56/chapter-18-verse-56-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/56/chapter-18-verse-56-hindi-female.wav",
+      "bytes": 385998,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/56/chapter-18-verse-56-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/56/chapter-18-verse-56-hindi-male.wav",
+      "bytes": 405582,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/56/chapter-18-verse-56-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/56/chapter-18-verse-56-sanskrit-female.wav",
+      "bytes": 403278,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/56/chapter-18-verse-56-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/56/chapter-18-verse-56-sanskrit-male.wav",
+      "bytes": 390606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/56/chapter-18-verse-56-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/57/chapter-18-verse-57-english-female.wav",
+      "bytes": 500046,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/57/chapter-18-verse-57-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/57/chapter-18-verse-57-english-male.wav",
+      "bytes": 532302,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/57/chapter-18-verse-57-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/57/chapter-18-verse-57-hindi-female.wav",
+      "bytes": 488526,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/57/chapter-18-verse-57-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/57/chapter-18-verse-57-hindi-male.wav",
+      "bytes": 457422,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/57/chapter-18-verse-57-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/57/chapter-18-verse-57-sanskrit-female.wav",
+      "bytes": 388302,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/57/chapter-18-verse-57-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/57/chapter-18-verse-57-sanskrit-male.wav",
+      "bytes": 374478,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/57/chapter-18-verse-57-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/58/chapter-18-verse-58-english-female.wav",
+      "bytes": 509262,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/58/chapter-18-verse-58-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/58/chapter-18-verse-58-english-male.wav",
+      "bytes": 518478,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/58/chapter-18-verse-58-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/58/chapter-18-verse-58-hindi-female.wav",
+      "bytes": 539214,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/58/chapter-18-verse-58-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/58/chapter-18-verse-58-hindi-male.wav",
+      "bytes": 525390,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/58/chapter-18-verse-58-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/58/chapter-18-verse-58-sanskrit-female.wav",
+      "bytes": 395214,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/58/chapter-18-verse-58-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/58/chapter-18-verse-58-sanskrit-male.wav",
+      "bytes": 395214,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/58/chapter-18-verse-58-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/59/chapter-18-verse-59-english-female.wav",
+      "bytes": 440142,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/59/chapter-18-verse-59-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/59/chapter-18-verse-59-english-male.wav",
+      "bytes": 436686,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/59/chapter-18-verse-59-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/59/chapter-18-verse-59-hindi-female.wav",
+      "bytes": 610638,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/59/chapter-18-verse-59-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/59/chapter-18-verse-59-hindi-male.wav",
+      "bytes": 595662,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/59/chapter-18-verse-59-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/59/chapter-18-verse-59-sanskrit-female.wav",
+      "bytes": 392910,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/59/chapter-18-verse-59-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/59/chapter-18-verse-59-sanskrit-male.wav",
+      "bytes": 384846,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/59/chapter-18-verse-59-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/6/chapter-18-verse-6-english-female.wav",
+      "bytes": 574124,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/6/chapter-18-verse-6-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/6/chapter-18-verse-6-english-male.wav",
+      "bytes": 560684,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/6/chapter-18-verse-6-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/6/chapter-18-verse-6-hindi-female.wav",
+      "bytes": 556844,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/6/chapter-18-verse-6-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/6/chapter-18-verse-6-hindi-male.wav",
+      "bytes": 518444,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/6/chapter-18-verse-6-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/6/chapter-18-verse-6-sanskrit-female.wav",
+      "bytes": 748844,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/6/chapter-18-verse-6-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/6/chapter-18-verse-6-sanskrit-male.wav",
+      "bytes": 800684,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/6/chapter-18-verse-6-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/60/chapter-18-verse-60-english-female.wav",
+      "bytes": 479310,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/60/chapter-18-verse-60-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/60/chapter-18-verse-60-english-male.wav",
+      "bytes": 515022,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/60/chapter-18-verse-60-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/60/chapter-18-verse-60-hindi-female.wav",
+      "bytes": 477006,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/60/chapter-18-verse-60-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/60/chapter-18-verse-60-hindi-male.wav",
+      "bytes": 463182,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/60/chapter-18-verse-60-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/60/chapter-18-verse-60-sanskrit-female.wav",
+      "bytes": 384846,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/60/chapter-18-verse-60-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/60/chapter-18-verse-60-sanskrit-male.wav",
+      "bytes": 381390,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/60/chapter-18-verse-60-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/61/chapter-18-verse-61-english-female.wav",
+      "bytes": 437838,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/61/chapter-18-verse-61-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/61/chapter-18-verse-61-english-male.wav",
+      "bytes": 471246,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/61/chapter-18-verse-61-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/61/chapter-18-verse-61-hindi-female.wav",
+      "bytes": 503502,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/61/chapter-18-verse-61-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/61/chapter-18-verse-61-hindi-male.wav",
+      "bytes": 523086,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/61/chapter-18-verse-61-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/61/chapter-18-verse-61-sanskrit-female.wav",
+      "bytes": 385998,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/61/chapter-18-verse-61-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/61/chapter-18-verse-61-sanskrit-male.wav",
+      "bytes": 387150,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/61/chapter-18-verse-61-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/62/chapter-18-verse-62-english-female.wav",
+      "bytes": 447054,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/62/chapter-18-verse-62-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/62/chapter-18-verse-62-english-male.wav",
+      "bytes": 496590,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/62/chapter-18-verse-62-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/62/chapter-18-verse-62-hindi-female.wav",
+      "bytes": 504654,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/62/chapter-18-verse-62-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/62/chapter-18-verse-62-hindi-male.wav",
+      "bytes": 480462,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/62/chapter-18-verse-62-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/62/chapter-18-verse-62-sanskrit-female.wav",
+      "bytes": 413646,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/62/chapter-18-verse-62-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/62/chapter-18-verse-62-sanskrit-male.wav",
+      "bytes": 382542,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/62/chapter-18-verse-62-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/63/chapter-18-verse-63-english-female.wav",
+      "bytes": 451662,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/63/chapter-18-verse-63-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/63/chapter-18-verse-63-english-male.wav",
+      "bytes": 460878,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/63/chapter-18-verse-63-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/63/chapter-18-verse-63-hindi-female.wav",
+      "bytes": 505806,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/63/chapter-18-verse-63-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/63/chapter-18-verse-63-hindi-male.wav",
+      "bytes": 487374,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/63/chapter-18-verse-63-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/63/chapter-18-verse-63-sanskrit-female.wav",
+      "bytes": 376782,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/63/chapter-18-verse-63-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/63/chapter-18-verse-63-sanskrit-male.wav",
+      "bytes": 365262,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/63/chapter-18-verse-63-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/64/chapter-18-verse-64-english-female.wav",
+      "bytes": 443598,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/64/chapter-18-verse-64-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/64/chapter-18-verse-64-english-male.wav",
+      "bytes": 466638,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/64/chapter-18-verse-64-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/64/chapter-18-verse-64-hindi-female.wav",
+      "bytes": 603726,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/64/chapter-18-verse-64-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/64/chapter-18-verse-64-hindi-male.wav",
+      "bytes": 551886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/64/chapter-18-verse-64-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/64/chapter-18-verse-64-sanskrit-female.wav",
+      "bytes": 381390,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/64/chapter-18-verse-64-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/64/chapter-18-verse-64-sanskrit-male.wav",
+      "bytes": 372174,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/64/chapter-18-verse-64-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/65/chapter-18-verse-65-english-female.wav",
+      "bytes": 503502,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/65/chapter-18-verse-65-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/65/chapter-18-verse-65-english-male.wav",
+      "bytes": 506958,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/65/chapter-18-verse-65-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/65/chapter-18-verse-65-hindi-female.wav",
+      "bytes": 672846,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/65/chapter-18-verse-65-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/65/chapter-18-verse-65-hindi-male.wav",
+      "bytes": 589902,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/65/chapter-18-verse-65-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/65/chapter-18-verse-65-sanskrit-female.wav",
+      "bytes": 400974,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/65/chapter-18-verse-65-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/65/chapter-18-verse-65-sanskrit-male.wav",
+      "bytes": 383694,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/65/chapter-18-verse-65-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/66/chapter-18-verse-66-english-female.wav",
+      "bytes": 400974,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/66/chapter-18-verse-66-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/66/chapter-18-verse-66-english-male.wav",
+      "bytes": 414798,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/66/chapter-18-verse-66-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/66/chapter-18-verse-66-hindi-female.wav",
+      "bytes": 464334,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/66/chapter-18-verse-66-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/66/chapter-18-verse-66-hindi-male.wav",
+      "bytes": 441294,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/66/chapter-18-verse-66-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/66/chapter-18-verse-66-sanskrit-female.wav",
+      "bytes": 396366,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/66/chapter-18-verse-66-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/66/chapter-18-verse-66-sanskrit-male.wav",
+      "bytes": 387150,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/66/chapter-18-verse-66-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/67/chapter-18-verse-67-english-female.wav",
+      "bytes": 479310,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/67/chapter-18-verse-67-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/67/chapter-18-verse-67-english-male.wav",
+      "bytes": 521934,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/67/chapter-18-verse-67-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/67/chapter-18-verse-67-hindi-female.wav",
+      "bytes": 534606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/67/chapter-18-verse-67-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/67/chapter-18-verse-67-hindi-male.wav",
+      "bytes": 477006,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/67/chapter-18-verse-67-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/67/chapter-18-verse-67-sanskrit-female.wav",
+      "bytes": 395214,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/67/chapter-18-verse-67-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/67/chapter-18-verse-67-sanskrit-male.wav",
+      "bytes": 379086,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/67/chapter-18-verse-67-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/68/chapter-18-verse-68-english-female.wav",
+      "bytes": 427470,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/68/chapter-18-verse-68-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/68/chapter-18-verse-68-english-male.wav",
+      "bytes": 471246,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/68/chapter-18-verse-68-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/68/chapter-18-verse-68-hindi-female.wav",
+      "bytes": 411342,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/68/chapter-18-verse-68-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/68/chapter-18-verse-68-hindi-male.wav",
+      "bytes": 412494,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/68/chapter-18-verse-68-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/68/chapter-18-verse-68-sanskrit-female.wav",
+      "bytes": 397518,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/68/chapter-18-verse-68-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/68/chapter-18-verse-68-sanskrit-male.wav",
+      "bytes": 390606,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/68/chapter-18-verse-68-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/69/chapter-18-verse-69-english-female.wav",
+      "bytes": 432078,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/69/chapter-18-verse-69-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/69/chapter-18-verse-69-english-male.wav",
+      "bytes": 496590,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/69/chapter-18-verse-69-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/69/chapter-18-verse-69-hindi-female.wav",
+      "bytes": 383694,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/69/chapter-18-verse-69-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/69/chapter-18-verse-69-hindi-male.wav",
+      "bytes": 414798,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/69/chapter-18-verse-69-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/69/chapter-18-verse-69-sanskrit-female.wav",
+      "bytes": 398670,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/69/chapter-18-verse-69-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/69/chapter-18-verse-69-sanskrit-male.wav",
+      "bytes": 383694,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/69/chapter-18-verse-69-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/7/chapter-18-verse-7-english-female.wav",
+      "bytes": 545324,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/7/chapter-18-verse-7-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/7/chapter-18-verse-7-english-male.wav",
+      "bytes": 522284,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/7/chapter-18-verse-7-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/7/chapter-18-verse-7-hindi-female.wav",
+      "bytes": 389804,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/7/chapter-18-verse-7-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/7/chapter-18-verse-7-hindi-male.wav",
+      "bytes": 372524,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/7/chapter-18-verse-7-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/7/chapter-18-verse-7-sanskrit-female.wav",
+      "bytes": 718124,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/7/chapter-18-verse-7-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/7/chapter-18-verse-7-sanskrit-male.wav",
+      "bytes": 721964,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/7/chapter-18-verse-7-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/70/chapter-18-verse-70-english-female.wav",
+      "bytes": 480462,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/70/chapter-18-verse-70-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/70/chapter-18-verse-70-english-male.wav",
+      "bytes": 520782,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/70/chapter-18-verse-70-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/70/chapter-18-verse-70-hindi-female.wav",
+      "bytes": 457422,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/70/chapter-18-verse-70-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/70/chapter-18-verse-70-hindi-male.wav",
+      "bytes": 451662,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/70/chapter-18-verse-70-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/70/chapter-18-verse-70-sanskrit-female.wav",
+      "bytes": 388302,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/70/chapter-18-verse-70-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/70/chapter-18-verse-70-sanskrit-male.wav",
+      "bytes": 385998,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/70/chapter-18-verse-70-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/71/chapter-18-verse-71-english-female.wav",
+      "bytes": 451662,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/71/chapter-18-verse-71-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/71/chapter-18-verse-71-english-male.wav",
+      "bytes": 509262,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/71/chapter-18-verse-71-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/71/chapter-18-verse-71-hindi-female.wav",
+      "bytes": 460878,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/71/chapter-18-verse-71-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/71/chapter-18-verse-71-hindi-male.wav",
+      "bytes": 450510,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/71/chapter-18-verse-71-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/71/chapter-18-verse-71-sanskrit-female.wav",
+      "bytes": 418254,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/71/chapter-18-verse-71-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/71/chapter-18-verse-71-sanskrit-male.wav",
+      "bytes": 396366,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/71/chapter-18-verse-71-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/72/chapter-18-verse-72-english-female.wav",
+      "bytes": 471246,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/72/chapter-18-verse-72-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/72/chapter-18-verse-72-english-male.wav",
+      "bytes": 466638,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/72/chapter-18-verse-72-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/72/chapter-18-verse-72-hindi-female.wav",
+      "bytes": 540366,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/72/chapter-18-verse-72-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/72/chapter-18-verse-72-hindi-male.wav",
+      "bytes": 509262,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/72/chapter-18-verse-72-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/72/chapter-18-verse-72-sanskrit-female.wav",
+      "bytes": 383694,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/72/chapter-18-verse-72-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/72/chapter-18-verse-72-sanskrit-male.wav",
+      "bytes": 375630,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/72/chapter-18-verse-72-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/73/chapter-18-verse-73-english-female.wav",
+      "bytes": 660174,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/73/chapter-18-verse-73-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/73/chapter-18-verse-73-english-male.wav",
+      "bytes": 676302,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/73/chapter-18-verse-73-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/73/chapter-18-verse-73-hindi-female.wav",
+      "bytes": 713166,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/73/chapter-18-verse-73-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/73/chapter-18-verse-73-hindi-male.wav",
+      "bytes": 668238,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/73/chapter-18-verse-73-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/73/chapter-18-verse-73-sanskrit-female.wav",
+      "bytes": 510414,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/73/chapter-18-verse-73-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/73/chapter-18-verse-73-sanskrit-male.wav",
+      "bytes": 475854,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/73/chapter-18-verse-73-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/74/chapter-18-verse-74-english-female.wav",
+      "bytes": 449358,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/74/chapter-18-verse-74-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/74/chapter-18-verse-74-english-male.wav",
+      "bytes": 430926,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/74/chapter-18-verse-74-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/74/chapter-18-verse-74-hindi-female.wav",
+      "bytes": 494286,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/74/chapter-18-verse-74-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/74/chapter-18-verse-74-hindi-male.wav",
+      "bytes": 426318,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/74/chapter-18-verse-74-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/74/chapter-18-verse-74-sanskrit-female.wav",
+      "bytes": 512718,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/74/chapter-18-verse-74-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/74/chapter-18-verse-74-sanskrit-male.wav",
+      "bytes": 457422,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/74/chapter-18-verse-74-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/75/chapter-18-verse-75-english-female.wav",
+      "bytes": 485070,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/75/chapter-18-verse-75-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/75/chapter-18-verse-75-english-male.wav",
+      "bytes": 503502,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/75/chapter-18-verse-75-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/75/chapter-18-verse-75-hindi-female.wav",
+      "bytes": 366414,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/75/chapter-18-verse-75-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/75/chapter-18-verse-75-hindi-male.wav",
+      "bytes": 356046,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/75/chapter-18-verse-75-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/75/chapter-18-verse-75-sanskrit-female.wav",
+      "bytes": 419406,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/75/chapter-18-verse-75-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/75/chapter-18-verse-75-sanskrit-male.wav",
+      "bytes": 407886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/75/chapter-18-verse-75-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/76/chapter-18-verse-76-english-female.wav",
+      "bytes": 440142,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/76/chapter-18-verse-76-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/76/chapter-18-verse-76-english-male.wav",
+      "bytes": 489678,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/76/chapter-18-verse-76-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/76/chapter-18-verse-76-hindi-female.wav",
+      "bytes": 475854,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/76/chapter-18-verse-76-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/76/chapter-18-verse-76-hindi-male.wav",
+      "bytes": 453966,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/76/chapter-18-verse-76-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/76/chapter-18-verse-76-sanskrit-female.wav",
+      "bytes": 407886,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/76/chapter-18-verse-76-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/76/chapter-18-verse-76-sanskrit-male.wav",
+      "bytes": 387150,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/76/chapter-18-verse-76-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/77/chapter-18-verse-77-english-female.wav",
+      "bytes": 498894,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/77/chapter-18-verse-77-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/77/chapter-18-verse-77-english-male.wav",
+      "bytes": 527694,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/77/chapter-18-verse-77-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/77/chapter-18-verse-77-hindi-female.wav",
+      "bytes": 486222,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/77/chapter-18-verse-77-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/77/chapter-18-verse-77-hindi-male.wav",
+      "bytes": 497742,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/77/chapter-18-verse-77-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/77/chapter-18-verse-77-sanskrit-female.wav",
+      "bytes": 417102,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/77/chapter-18-verse-77-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/77/chapter-18-verse-77-sanskrit-male.wav",
+      "bytes": 413646,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/77/chapter-18-verse-77-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/78/chapter-18-verse-78-english-female.wav",
+      "bytes": 625614,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/78/chapter-18-verse-78-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/78/chapter-18-verse-78-english-male.wav",
+      "bytes": 635982,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/78/chapter-18-verse-78-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/78/chapter-18-verse-78-hindi-female.wav",
+      "bytes": 528846,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/78/chapter-18-verse-78-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/78/chapter-18-verse-78-hindi-male.wav",
+      "bytes": 510414,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/78/chapter-18-verse-78-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/78/chapter-18-verse-78-sanskrit-female.wav",
+      "bytes": 411342,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/78/chapter-18-verse-78-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/78/chapter-18-verse-78-sanskrit-male.wav",
+      "bytes": 392910,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/78/chapter-18-verse-78-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/8/chapter-18-verse-8-english-female.wav",
+      "bytes": 691244,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/8/chapter-18-verse-8-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/8/chapter-18-verse-8-english-male.wav",
+      "bytes": 658604,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/8/chapter-18-verse-8-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/8/chapter-18-verse-8-hindi-female.wav",
+      "bytes": 589484,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/8/chapter-18-verse-8-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/8/chapter-18-verse-8-hindi-male.wav",
+      "bytes": 639404,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/8/chapter-18-verse-8-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/8/chapter-18-verse-8-sanskrit-female.wav",
+      "bytes": 771884,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/8/chapter-18-verse-8-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/8/chapter-18-verse-8-sanskrit-male.wav",
+      "bytes": 698924,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/8/chapter-18-verse-8-sanskrit-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/9/chapter-18-verse-9-english-female.wav",
+      "bytes": 566444,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/9/chapter-18-verse-9-english-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/9/chapter-18-verse-9-english-male.wav",
+      "bytes": 620204,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/9/chapter-18-verse-9-english-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/9/chapter-18-verse-9-hindi-female.wav",
+      "bytes": 585644,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/9/chapter-18-verse-9-hindi-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/9/chapter-18-verse-9-hindi-male.wav",
+      "bytes": 566444,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/9/chapter-18-verse-9-hindi-male.wav"
+    },
+    {
+      "objectPath": "data/audio/18/9/chapter-18-verse-9-sanskrit-female.wav",
+      "bytes": 766124,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/9/chapter-18-verse-9-sanskrit-female.wav"
+    },
+    {
+      "objectPath": "data/audio/18/9/chapter-18-verse-9-sanskrit-male.wav",
+      "bytes": 867884,
+      "publicUrl": "https://eenqzxdrqfqepvalbxwe.supabase.co/storage/v1/object/public/gita-audio/data/audio/18/9/chapter-18-verse-9-sanskrit-male.wav"
+    }
+  ]
+}
