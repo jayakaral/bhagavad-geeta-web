@@ -71,6 +71,180 @@
 
 ## Chapter 5 Verse Audio Checklist — Verses 1–29
 
+## Chapter 4 Verse Audio Checklist — Verses 1–42
+
+## Chapter 3 Verse Audio Checklist — Verses 1–43
+
+## Chapter 2 Verse Audio Checklist — Verses 1–72
+
+Each todo below requires six separate single-verse files: Sanskrit male, Sanskrit female, English male, English female, Hindi male, and Hindi female. The validated files will be stored in Supabase; no Git push will be performed.
+
+- [x] Chapter 2 Verse 01 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 02 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 03 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 04 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 05 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 06 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 07 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 08 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 09 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 10 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 11 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 12 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 13 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 14 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 15 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 16 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 17 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 18 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 19 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 20 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 21 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 22 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 23 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 24 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 25 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 26 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 27 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 28 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 29 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 30 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 31 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 32 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 33 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 34 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 35 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 36 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 37 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 38 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 39 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 40 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 41 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 42 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 43 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 44 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 45 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 46 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 47 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 48 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 49 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 50 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 51 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 52 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 53 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 54 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 55 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 56 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 57 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 58 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 59 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 60 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 61 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 62 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 63 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 64 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 65 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 66 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 67 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 68 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 69 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 70 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 71 — generate and upload six standalone audio variants
+- [x] Chapter 2 Verse 72 — generate and upload six standalone audio variants
+
+**Completion status:** All **432** requested audio outputs have been generated as separate files and fully validated in Supabase, with six valid 24 kHz mono 16-bit PCM WAV files for every verse from Verse 1 through Verse 72. No Git push was performed.
+
+**Completion status:** All **258** requested audio outputs have been generated as separate files and fully validated in Supabase, with six valid standalone WAV files for every verse from Verse 1 through Verse 43. No Git push was performed.
+
+- [x] Chapter 3 Verse 01 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 02 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 03 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 04 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 05 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 06 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 07 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 08 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 09 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 10 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 11 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 12 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 13 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 14 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 15 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 16 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 17 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 18 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 19 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 20 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 21 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 22 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 23 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 24 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 25 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 26 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 27 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 28 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 29 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 30 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 31 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 32 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 33 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 34 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 35 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 36 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 37 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 38 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 39 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 40 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 41 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 42 — six standalone audio variants generated and validated
+- [x] Chapter 3 Verse 43 — six standalone audio variants generated and validated
+
+**Completion status:** All **252** requested audio outputs have been generated as separate files and fully validated in Supabase, with six valid standalone WAV files for every verse from Verse 1 through Verse 42. No Git push was performed.
+
+- [x] Chapter 4 Verse 01 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 02 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 03 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 04 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 05 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 06 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 07 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 08 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 09 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 10 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 11 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 12 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 13 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 14 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 15 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 16 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 17 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 18 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 19 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 20 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 21 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 22 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 23 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 24 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 25 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 26 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 27 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 28 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 29 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 30 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 31 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 32 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 33 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 34 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 35 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 36 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 37 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 38 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 39 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 40 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 41 — six standalone audio variants generated and validated
+- [x] Chapter 4 Verse 42 — six standalone audio variants generated and validated
+
 **Completion status:** All **174** requested audio outputs have been generated as separate files, with six valid standalone WAV files in every `data/audio/5/{verse}/` folder from Verse 1 through Verse 29.
 
 - [x] Chapter 5 Verse 01 — six standalone audio variants generated
@@ -1825,3 +1999,63 @@ Each todo below requires six separate single-verse files: Sanskrit male, Sanskri
 - [ ] Chapter 18 Verse 78 — English female audio
 - [ ] Chapter 18 Verse 78 — Hindi male audio
 - [ ] Chapter 18 Verse 78 — Hindi female audio
+
+## Chapter 1 Verse Audio Checklist — Verses 1–47
+
+Each item requires exactly six separate single-verse WAV files: Sanskrit male, Sanskrit female, English male, English female, Hindi male, and Hindi female. The files will be preserved in the external backup and validated in Supabase; no Git push will be performed.
+
+- [x] Chapter 1 Verse 01 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 02 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 03 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 04 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 05 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 06 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 07 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 08 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 09 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 10 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 11 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 12 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 13 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 14 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 15 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 16 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 17 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 18 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 19 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 20 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 21 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 22 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 23 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 24 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 25 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 26 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 27 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 28 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 29 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 30 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 31 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 32 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 33 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 34 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 35 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 36 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 37 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 38 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 39 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 40 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 41 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 42 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 43 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 44 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 45 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 46 — generate and upload six standalone audio variants
+- [x] Chapter 1 Verse 47 — generate and upload six standalone audio variants
+
+**Completion status:** All **282** requested audio outputs have been generated as separate files and fully validated in Supabase, with six valid 24 kHz mono 16-bit PCM WAV files for every verse from Verse 1 through Verse 47. No Git push was performed.
+
+- [x] Audit all 18 chapters in Supabase for the required six standalone audio files per verse, expected inventory totals, and valid WAV headers.
+- [x] Provide a reusable script that downloads all validated Supabase audio files while preserving the chapter-and-verse directory structure.
+- [x] Provide a reusable local validation script that confirms all downloaded audio files are present, correctly named, and valid WAV files.
+- [x] Audit and remove only demonstrably unused website components and their orphaned imports or dependencies.
+- [x] Commit and push the verified cleanup changes to the configured remote Git repository, as explicitly approved by the user.
