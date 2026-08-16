@@ -2059,3 +2059,5 @@ Each item requires exactly six separate single-verse WAV files: Sanskrit male, S
 - [x] Provide a reusable local validation script that confirms all downloaded audio files are present, correctly named, and valid WAV files.
 - [x] Audit and remove only demonstrably unused website components and their orphaned imports or dependencies.
 - [x] Commit and push the verified cleanup changes to the configured remote Git repository, as explicitly approved by the user.
+- [x] Audit server, scripts, patches, shared modules, and other residual files; remove only files that are provably unused by the runtime, build, tests, or documented workflows.
+- [x] Commit and push the latest verified residual file cleanup to the configured remote Git repository, as explicitly approved by the user.
