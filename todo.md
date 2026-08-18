@@ -2061,3 +2061,6 @@ Each item requires exactly six separate single-verse WAV files: Sanskrit male, S
 - [x] Commit and push the verified cleanup changes to the configured remote Git repository, as explicitly approved by the user.
 - [x] Audit server, scripts, patches, shared modules, and other residual files; remove only files that are provably unused by the runtime, build, tests, or documented workflows.
 - [x] Commit and push the latest verified residual file cleanup to the configured remote Git repository, as explicitly approved by the user.
+- [x] Remove any remaining repository-local audio artifacts after confirming Supabase is the canonical source.
+- [x] Integrate accessible per-verse audio controls in the chapter reader using the public Supabase `gita-audio` bucket and the supplied chapter/verse filename pattern.
+- [x] Test the Supabase audio controls and push the verified integration update to the configured Git repository.

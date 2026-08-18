@@ -16,6 +16,7 @@ import {
   X,
 } from "lucide-react";
 import { Link } from "wouter";
+import { VerseAudioPlayer } from "@/components/VerseAudioPlayer";
 import { ChapterMetadata, GitaData, Language, Verse, loadGitaData } from "@/lib/gitaData";
 
 type ChapterReaderProps = { chapterNumber: number };
@@ -149,6 +150,7 @@ export default function ChapterReader({ chapterNumber }: ChapterReaderProps) {
                   <div className="verse-card-header"><div><p className="chapter-label">{chapterLabel(chapter)}</p><h2>Verse {activeVerse.verseNumber}</h2></div><div className="language-toggle" role="group" aria-label="Verse language"><button className={language === "en" ? "language-toggle--active" : ""} onClick={() => setLanguage("en")}>English</button><button className={language === "hi" ? "language-toggle--active" : ""} onClick={() => setLanguage("hi")}>हिन्दी</button></div></div>
                   <div className="sanskrit-block"><Quote size={24} strokeWidth={1.1} /><p>{activeVerse.sanskrit}</p></div>
                   <p className="verse-transliteration-detail">{activeVerse.transliteration}</p>
+                  <VerseAudioPlayer chapterNumber={chapter.chapter} verseNumber={Number(activeVerse.verseNumber)} />
                   <div className="translation-block"><p className="reader-section-label">{language === "hi" ? "हिन्दी अनुवाद" : "Translation"}</p><blockquote className="verse-translation" lang={language}>{activeVerse.translation}</blockquote></div>
                   <div className="interpretation-block"><p className="reader-section-label">A note on the verse</p><p>{activeVerse.interpretation}</p></div>
                   <div className="reader-actions"><button className="ink-button" onClick={copyVerse}>{copied ? <Check size={15} /> : <ArrowRight size={15} />} {copied ? "Copied" : "Copy translation"}</button><button className={`save-button ${saved ? "save-button--saved" : ""}`} onClick={() => setSaved((value) => !value)}><Bookmark size={16} fill={saved ? "currentColor" : "none"} /> {saved ? "Saved to your shelf" : "Keep this verse"}</button></div>
