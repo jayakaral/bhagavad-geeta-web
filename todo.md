@@ -2064,3 +2064,4 @@ Each item requires exactly six separate single-verse WAV files: Sanskrit male, S
 - [x] Remove any remaining repository-local audio artifacts after confirming Supabase is the canonical source.
 - [x] Integrate accessible per-verse audio controls in the chapter reader using the public Supabase `gita-audio` bucket and the supplied chapter/verse filename pattern.
 - [x] Test the Supabase audio controls and push the verified integration update to the configured Git repository.
+- [x] Correct Supabase audio URLs by mapping full source verse labels (for example, `1.1`) to the verified remote filename suffix (`chapter-01-verse-01-english-male.wav`), verify playback paths, and push the fix.

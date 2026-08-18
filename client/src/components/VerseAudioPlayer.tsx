@@ -8,7 +8,7 @@ import {
 
 type VerseAudioPlayerProps = {
   chapterNumber: number;
-  verseNumber: number;
+  verseNumber: string | number;
 };
 
 const languageOptions: Array<{ value: AudioLanguage; label: string }> = [
