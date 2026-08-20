@@ -12,17 +12,46 @@ import {
   ChevronLeft,
   ChevronRight,
   Menu,
+  Pause,
+  Play,
   Quote,
+  Volume2,
   X,
 } from "lucide-react";
 import { Link } from "wouter";
-import { VerseAudioPlayer } from "@/components/VerseAudioPlayer";
+import { useVerseNarration } from "@/hooks/useVerseNarration";
+import { useSavedVerses } from "@/hooks/useSavedVerses";
+import { AudioVoice } from "@/lib/gitaAudio";
+import { getNarrationIconState } from "@/lib/narration";
 import { ChapterMetadata, GitaData, Language, Verse, loadGitaData } from "@/lib/gitaData";
 
 type ChapterReaderProps = { chapterNumber: number };
 
 function chapterLabel(chapter: ChapterMetadata) {
   return `Chapter ${String(chapter.chapter).padStart(2, "0")}`;
+}
+
+type NarrationControlProps = {
+  active: boolean;
+  isPlaying: boolean;
+  onClick: () => void;
+  narrationLabel: string;
+};
+
+function NarrationControl({ active, isPlaying, onClick, narrationLabel }: NarrationControlProps) {
+  const iconState = getNarrationIconState(active, isPlaying);
+  const action = iconState === "pause" ? "Pause" : "Play";
+  return (
+    <button
+      type="button"
+      className={`narration-speaker narration-speaker--${iconState}`}
+      onClick={onClick}
+      aria-label={`${action} ${narrationLabel}`}
+      title={`${action} ${narrationLabel}`}
+    >
+      {iconState === "pause" ? <Pause size={15} fill="currentColor" /> : iconState === "play" ? <Play size={15} fill="currentColor" /> : <Volume2 size={15} />}
+    </button>
+  );
 }
 
 export default function ChapterReader({ chapterNumber }: ChapterReaderProps) {
@@ -32,8 +61,9 @@ export default function ChapterReader({ chapterNumber }: ChapterReaderProps) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [activeIndex, setActiveIndex] = useState(0);
-  const [saved, setSaved] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [voice, setVoice] = useState<AudioVoice>("male");
+  const { isVerseSaved, toggleVerse } = useSavedVerses();
 
   useEffect(() => {
     let cancelled = false;
@@ -57,7 +87,6 @@ export default function ChapterReader({ chapterNumber }: ChapterReaderProps) {
 
   useEffect(() => {
     setActiveIndex(0);
-    setSaved(false);
     setCopied(false);
     window.scrollTo({ top: 0, behavior: "auto" });
   }, [chapterNumber]);
@@ -65,8 +94,13 @@ export default function ChapterReader({ chapterNumber }: ChapterReaderProps) {
   const chapter = data?.chapters.find((item) => item.chapter === chapterNumber);
   const verses = useMemo(() => (chapter ? data?.verses[language][chapter.chapter] ?? [] : []), [chapter, data, language]);
   const activeVerse = verses[activeIndex] ?? verses[0];
+  const activeVerseSaved = activeVerse ? isVerseSaved(activeVerse.verseNumber) : false;
   const previousChapter = data?.chapters.find((item) => item.chapter === chapterNumber - 1);
   const nextChapter = data?.chapters.find((item) => item.chapter === chapterNumber + 1);
+  const translationAudioLanguage = language === "hi" ? "hindi" : "english";
+  const narration = useVerseNarration({ chapterNumber, verseNumber: activeVerse?.verseNumber ?? "", voice });
+  const sanskritNarrationActive = narration.isNarrationActive("sanskrit");
+  const translationNarrationActive = narration.isNarrationActive(translationAudioLanguage);
 
   const copyVerse = async () => {
     if (!activeVerse?.translation) return;
@@ -109,12 +143,17 @@ export default function ChapterReader({ chapterNumber }: ChapterReaderProps) {
           <span className="brand-lockup"><strong>GITA</strong><small>अध्ययन / a quiet study</small></span>
         </Link>
         <nav className={`main-nav ${menuOpen ? "main-nav--open" : ""}`} aria-label="Primary navigation">
-          <Link href="/#chapters" onClick={() => setMenuOpen(false)}>The Gita</Link>
           <Link href="/#chapters" onClick={() => setMenuOpen(false)}>18 chapters</Link>
           <Link href="/#verse" onClick={() => setMenuOpen(false)}>A verse for today</Link>
-          <Link href="/#about" onClick={() => setMenuOpen(false)}>About the text</Link>
         </nav>
-        <div className="header-actions"><button className="menu-button" aria-label={menuOpen ? "Close menu" : "Open menu"} onClick={() => setMenuOpen((open) => !open)}>{menuOpen ? <X size={21} /> : <Menu size={21} />}</button></div>
+        <div className="header-actions">
+          <label className="sr-only" htmlFor="chapter-language">Reading language</label>
+          <select id="chapter-language" className="header-language-select" value={language} onChange={(event) => setLanguage(event.target.value as Language)}>
+            <option value="en">English</option>
+            <option value="hi">हिन्दी</option>
+          </select>
+          <button className="menu-button" aria-label={menuOpen ? "Close menu" : "Open menu"} onClick={() => setMenuOpen((open) => !open)}>{menuOpen ? <X size={21} /> : <Menu size={21} />}</button>
+        </div>
       </header>
 
       <main className="chapter-page">
@@ -147,14 +186,15 @@ export default function ChapterReader({ chapterNumber }: ChapterReaderProps) {
 
               <article className="verse-reader-card" key={`${chapter.chapter}-${activeVerse?.verseNumber ?? "loading"}-${language}`}>
                 {activeVerse && <>
-                  <div className="verse-card-header"><div><p className="chapter-label">{chapterLabel(chapter)}</p><h2>Verse {activeVerse.verseNumber}</h2></div><div className="language-toggle" role="group" aria-label="Verse language"><button className={language === "en" ? "language-toggle--active" : ""} onClick={() => setLanguage("en")}>English</button><button className={language === "hi" ? "language-toggle--active" : ""} onClick={() => setLanguage("hi")}>हिन्दी</button></div></div>
+                  <div className="verse-card-header"><div><p className="chapter-label">{chapterLabel(chapter)}</p><h2>Verse {activeVerse.verseNumber}</h2></div><div className="voice-toggle" role="group" aria-label="Narrator voice"><span>Voice</span><button type="button" className={voice === "male" ? "voice-toggle--active" : ""} aria-pressed={voice === "male"} onClick={() => setVoice("male")}>Male</button><button type="button" className={voice === "female" ? "voice-toggle--active" : ""} aria-pressed={voice === "female"} onClick={() => setVoice("female")}>Female</button></div></div>
                   <div className="sanskrit-block"><Quote size={24} strokeWidth={1.1} /><p>{activeVerse.sanskrit}</p></div>
-                  <p className="verse-transliteration-detail">{activeVerse.transliteration}</p>
-                  <VerseAudioPlayer chapterNumber={chapter.chapter} verseNumber={activeVerse.verseNumber} />
-                  <div className="translation-block"><p className="reader-section-label">{language === "hi" ? "हिन्दी अनुवाद" : "Translation"}</p><blockquote className="verse-translation" lang={language}>{activeVerse.translation}</blockquote></div>
+                  <div className="transliteration-row"><NarrationControl active={sanskritNarrationActive} isPlaying={narration.isPlaying} onClick={() => narration.toggleNarration("sanskrit")} narrationLabel="Sanskrit narration" /><p className="verse-transliteration-detail">{activeVerse.transliteration}</p></div>
+                  <div className="translation-block"><div className="translation-row"><NarrationControl active={translationNarrationActive} isPlaying={narration.isPlaying} onClick={() => narration.toggleNarration(translationAudioLanguage)} narrationLabel={`${language === "hi" ? "Hindi" : "English"} narration`} /><blockquote className="verse-translation" lang={language}>{activeVerse.translation}</blockquote></div></div>
                   <div className="interpretation-block"><p className="reader-section-label">A note on the verse</p><p>{activeVerse.interpretation}</p></div>
-                  <div className="reader-actions"><button className="ink-button" onClick={copyVerse}>{copied ? <Check size={15} /> : <ArrowRight size={15} />} {copied ? "Copied" : "Copy translation"}</button><button className={`save-button ${saved ? "save-button--saved" : ""}`} onClick={() => setSaved((value) => !value)}><Bookmark size={16} fill={saved ? "currentColor" : "none"} /> {saved ? "Saved to your shelf" : "Keep this verse"}</button></div>
+                  <div className="reader-actions"><button className="ink-button" onClick={copyVerse}>{copied ? <Check size={15} /> : <ArrowRight size={15} />} {copied ? "Copied" : "Copy translation"}</button><button className={`save-button ${activeVerseSaved ? "save-button--saved" : ""}`} onClick={() => toggleVerse(activeVerse.verseNumber)}><Bookmark size={16} fill={activeVerseSaved ? "currentColor" : "none"} /> {activeVerseSaved ? "Saved to your shelf" : "Keep this verse"}</button></div>
                   <div className="verse-pager"><button disabled={activeIndex === 0} onClick={() => setActiveIndex((index) => Math.max(0, index - 1))}><ChevronLeft size={16} /> Previous verse</button><span>{activeIndex + 1} / {verses.length}</span><button disabled={activeIndex === verses.length - 1} onClick={() => setActiveIndex((index) => Math.min(verses.length - 1, index + 1))}>Next verse <ChevronRight size={16} /></button></div>
+                  <audio ref={narration.audioRef} preload="none" onPlay={narration.handlePlay} onPause={narration.handlePause} onEnded={narration.handleEnded} onError={narration.handleError} />
+                  {narration.audioIssue ? <p className="verse-audio-error" role="status">{narration.audioIssue}</p> : null}
                 </>}
               </article>
             </section>

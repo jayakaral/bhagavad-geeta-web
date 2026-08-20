@@ -13,11 +13,11 @@ import {
   CircleDot,
   Menu,
   Quote,
-  Search,
   Sparkles,
   X,
 } from "lucide-react";
 import { ChapterMetadata, GitaData, Language, Verse, loadGitaData } from "@/lib/gitaData";
+import { useSavedVerses } from "@/hooks/useSavedVerses";
 import { Link } from "wouter";
 
 const chapterMoods = ["The question", "The witness", "The work", "The fire", "The release", "The stillness", "The knowing", "The threshold", "The offering", "The radiance", "The vision", "The devotion", "The field", "The qualities", "The supreme", "The divine", "The faith", "The freedom"];
@@ -52,12 +52,12 @@ function ChapterRow({ chapter }: { chapter: ChapterMetadata }) {
 export default function Home() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [language, setLanguage] = useState<Language>("en");
-  const [saved, setSaved] = useState(false);
   const [copied, setCopied] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [data, setData] = useState<GitaData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const { isVerseSaved, toggleVerse } = useSavedVerses();
 
   useEffect(() => {
     let cancelled = false;
@@ -92,6 +92,7 @@ export default function Home() {
   const dailyVerseEnglish = findVerse(data?.verses.en[2], 47);
   const dailyVerseHindi = findVerse(data?.verses.hi[2], 47);
   const dailyVerse = language === "hi" ? dailyVerseHindi : dailyVerseEnglish;
+  const dailyVerseSaved = dailyVerse ? isVerseSaved(dailyVerse.verseNumber) : false;
   const totalVerses = useMemo(() => chapters.reduce((total, chapter) => total + chapter.verseCount, 0), [chapters]);
   const verseToCopy = dailyVerse?.translation ?? "";
 
@@ -114,13 +115,15 @@ export default function Home() {
           <span className="brand-lockup"><strong>GITA</strong><small>अध्ययन / a quiet study</small></span>
         </a>
         <nav className={`main-nav ${menuOpen ? "main-nav--open" : ""}`} aria-label="Primary navigation">
-          <a href="#chapters" onClick={() => setMenuOpen(false)}>The Gita</a>
           <a href="#chapters" onClick={() => setMenuOpen(false)}>18 chapters</a>
           <a href="#verse" onClick={() => setMenuOpen(false)}>A verse for today</a>
-          <a href="#about" onClick={() => setMenuOpen(false)}>About the text</a>
         </nav>
         <div className="header-actions">
-          <button className="icon-button" aria-label="Search the Gita" onClick={() => scrollToId("chapters")}><Search size={18} strokeWidth={1.7} /></button>
+          <label className="sr-only" htmlFor="home-language">Reading language</label>
+          <select id="home-language" className="header-language-select" value={language} onChange={(event) => setLanguage(event.target.value as Language)}>
+            <option value="en">English</option>
+            <option value="hi">हिन्दी</option>
+          </select>
           <button className="menu-button" aria-label={menuOpen ? "Close menu" : "Open menu"} onClick={() => setMenuOpen((open) => !open)}>{menuOpen ? <X size={21} /> : <Menu size={21} />}</button>
         </div>
       </header>
@@ -208,7 +211,7 @@ export default function Home() {
               <p className="verse-interpretation">{truncate(dailyVerse?.interpretation, 260)}</p>
               <div className="verse-actions">
                 <button className="ink-button ink-button--light" onClick={copyVerse}>{copied ? <Check size={15} /> : <ArrowUpRight size={15} />} {copied ? "Copied" : "Copy verse"}</button>
-                <button className={`save-button ${saved ? "save-button--saved" : ""}`} onClick={() => setSaved((value) => !value)}><Bookmark size={16} fill={saved ? "currentColor" : "none"} /> {saved ? "Saved to your shelf" : "Keep this verse"}</button>
+                <button className={`save-button ${dailyVerseSaved ? "save-button--saved" : ""}`} onClick={() => dailyVerse && toggleVerse(dailyVerse.verseNumber)}><Bookmark size={16} fill={dailyVerseSaved ? "currentColor" : "none"} /> {dailyVerseSaved ? "Saved to your shelf" : "Keep this verse"}</button>
               </div>
             </div>
           </div>
